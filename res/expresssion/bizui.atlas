@@ -1,0 +1,40 @@
+
+bizui.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fengkou01
+  rotate: false
+  xy: 78, 93
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+meimao01
+  rotate: true
+  xy: 115, 103
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+shenti01
+  rotate: false
+  xy: 2, 45
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+yanbai02-1
+  rotate: false
+  xy: 2, 12
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+yanqiu01
+  rotate: false
+  xy: 2, 2
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1

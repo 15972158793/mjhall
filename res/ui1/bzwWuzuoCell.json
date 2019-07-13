@@ -1,0 +1,339 @@
+{
+  "ID": "12df5f4e-606d-4139-ab20-77ba03aa44c6",
+  "Version": "2.3.4",
+  "Name": "bzwWuzuoCell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 437,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.1389
+            },
+            "TopMargin": -10.0,
+            "Tag": 366,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "baoziWang/bzw_bg_infor@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 101,
+                "Scale9OriginY": 23,
+                "Scale9Width": 106,
+                "Scale9Height": 26,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.878
+                },
+                "TopMargin": 10.0,
+                "Tag": 438,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_bg_head1@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 27,
+                    "Scale9OriginY": 27,
+                    "Scale9Width": 28,
+                    "Scale9Height": 28,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.1357,
+                      "Y": 35.6908
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1271,
+                      "Y": 0.4957
+                    },
+                    "PreSize": {
+                      "X": 0.2078,
+                      "Y": 0.8889
+                    },
+                    "LeftMargin": 7.1357,
+                    "RightMargin": 236.8643,
+                    "TopMargin": 4.3092,
+                    "BottomMargin": 3.6908,
+                    "Tag": 560,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "方源捡肥皂",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 67.6048,
+                          "Y": 46.6004
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 132,
+                          "G": 52,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 1.0563,
+                          "Y": 0.7281
+                        },
+                        "PreSize": {
+                          "X": 2.3438,
+                          "Y": 0.3125
+                        },
+                        "LeftMargin": 67.6048,
+                        "RightMargin": -153.6048,
+                        "TopMargin": 7.3996,
+                        "BottomMargin": 36.6004,
+                        "Tag": 561,
+                        "ActionTag": 1341869672,
+                        "Size": {
+                          "X": 150.0,
+                          "Y": 20.0
+                        },
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "goldNYS/nn_img_gold@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 9,
+                        "Scale9OriginY": 9,
+                        "Scale9Width": 10,
+                        "Scale9Height": 10,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 81.1954,
+                          "Y": 15.7577
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 1.2687,
+                          "Y": 0.2462
+                        },
+                        "PreSize": {
+                          "X": 0.4375,
+                          "Y": 0.4375
+                        },
+                        "LeftMargin": 67.1954,
+                        "RightMargin": -31.1954,
+                        "TopMargin": 34.2423,
+                        "BottomMargin": 1.7577,
+                        "Tag": 566,
+                        "Children": [
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 25,
+                            "LabelText": "100111",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/FZY4JW_0569.TTF",
+                              "Plist": ""
+                            },
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 29.7127,
+                              "Y": 13.2682
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 132,
+                              "G": 52,
+                              "B": 0
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 1.0612,
+                              "Y": 0.4739
+                            },
+                            "PreSize": {
+                              "X": 4.2857,
+                              "Y": 1.0357
+                            },
+                            "LeftMargin": 29.7127,
+                            "RightMargin": -121.7127,
+                            "TopMargin": 0.2318,
+                            "BottomMargin": -1.2318,
+                            "Tag": 565,
+                            "ActionTag": 1940186911,
+                            "Size": {
+                              "X": 120.0,
+                              "Y": 29.0
+                            },
+                            "Name": "gold",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 1236798380,
+                        "Size": {
+                          "X": 28.0,
+                          "Y": 28.0
+                        },
+                        "Name": "Image_25",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -761100756,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 64.0
+                    },
+                    "Name": "wuzuoIcon",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1146888774,
+                "Size": {
+                  "X": 308.0,
+                  "Y": 72.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1478508654,
+            "Size": {
+              "X": 308.0,
+              "Y": 82.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 308.0,
+          "Y": 72.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "baoziWang/bzw_bg_infor@2x.png",
+        "commonCells/commonPic/hallPic/goldScene/yyjb_bg_head1@2x.png",
+        "Font/FZY4JW_0569.TTF",
+        "goldNYS/nn_img_gold@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

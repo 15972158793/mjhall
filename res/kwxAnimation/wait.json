@@ -1,0 +1,53 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "rotation": 36.01 }
+],
+"slots": [
+	{ "name": "dian", "bone": "bone", "attachment": "dian" },
+	{ "name": "deng", "bone": "bone", "attachment": "deng" },
+	{ "name": "dian2", "bone": "bone", "attachment": "dian" },
+	{ "name": "dain3", "bone": "bone", "attachment": "dian" }
+],
+"skins": {
+	"default": {
+		"dain3": {
+			"dian": { "x": 140.1, "y": -116.79, "rotation": -36.01, "width": 12, "height": 14 }
+		},
+		"deng": {
+			"deng": { "rotation": -36.01, "width": 227, "height": 40 }
+		},
+		"dian": {
+			"dian": { "x": 101.28, "y": -88.56, "width": 12, "height": 14 }
+		},
+		"dian2": {
+			"dian": { "x": 120.69, "y": -102.67, "rotation": -36.01, "width": 12, "height": 14 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"dian": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1333, "color": "ffffffff" }
+				]
+			},
+			"dian2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.2666, "color": "ffffffff" }
+				]
+			},
+			"dain3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.4, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.1666, "color": "ffffffff" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,1775 @@
+{
+  "ID": "0a8ff8b7-9a3c-4fe5-9b89-8d2ccf823b53",
+  "Version": "2.3.4",
+  "Name": "DdzEndPlayWindow",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 21,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 147,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 26,
+                "Scale9OriginY": 25,
+                "Scale9Width": 360,
+                "Scale9Height": 65,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 545.472
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8523
+                },
+                "PreSize": {
+                  "X": 0.3627,
+                  "Y": 0.1797
+                },
+                "LeftMargin": 362.0,
+                "RightMargin": 362.0,
+                "TopMargin": 37.028,
+                "BottomMargin": 487.972,
+                "Tag": 142,
+                "ActionTag": -1764046552,
+                "Size": {
+                  "X": 412.0,
+                  "Y": 115.0
+                },
+                "Name": "bg_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/jxnn_btn_blue@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 148,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 89.2931
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1395
+                },
+                "PreSize": {
+                  "X": 0.1567,
+                  "Y": 0.1125
+                },
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 479.0,
+                "RightMargin": 479.0,
+                "TopMargin": 514.7069,
+                "BottomMargin": 53.2931,
+                "Tag": 146,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/simpleEndPic/yypk_img_return@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 37,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 13,
+                    "Scale9Height": 11,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 89.7583,
+                      "Y": 35.1919
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5043,
+                      "Y": 0.4888
+                    },
+                    "PreSize": {
+                      "X": 0.4888,
+                      "Y": 0.4861
+                    },
+                    "LeftMargin": 46.2583,
+                    "RightMargin": 44.7417,
+                    "TopMargin": 19.3081,
+                    "BottomMargin": 17.6919,
+                    "Tag": 437,
+                    "ActionTag": -1882291039,
+                    "Size": {
+                      "X": 87.0,
+                      "Y": 35.0
+                    },
+                    "Name": "Image_21",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -750442767,
+                "Size": {
+                  "X": 178.0,
+                  "Y": 72.0
+                },
+                "Name": "jiesuan_btn_Ready",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ddzCells/ddzPic/ddzTablePic/ptj_bg_win@2x.png",
+                  "Plist": ""
+                },
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 320,
+                "Scale9OriginY": 25,
+                "Scale9Width": 332,
+                "Scale9Height": 26,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 443.9863
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6937
+                },
+                "PreSize": {
+                  "X": 0.8556,
+                  "Y": 0.1187
+                },
+                "LeftMargin": 82.0,
+                "RightMargin": 82.0,
+                "TopMargin": 158.0137,
+                "BottomMargin": 405.9863,
+                "Tag": 177,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "03/10 14:00  ",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineSize": 2,
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 788.4865,
+                      "Y": 37.8708
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.8112,
+                      "Y": 0.4983
+                    },
+                    "PreSize": {
+                      "X": 0.2058,
+                      "Y": 0.3421
+                    },
+                    "LeftMargin": 688.4865,
+                    "RightMargin": 83.5135,
+                    "TopMargin": 25.1292,
+                    "BottomMargin": 24.8708,
+                    "Tag": 391,
+                    "ActionTag": -1691428473,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 26.0
+                    },
+                    "Name": "jiesuan_text_date",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "房间号：123456  ",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineSize": 2,
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 68.04,
+                      "Y": 37.8708
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.07,
+                      "Y": 0.4983
+                    },
+                    "PreSize": {
+                      "X": 0.2058,
+                      "Y": 0.3421
+                    },
+                    "LeftMargin": 68.04,
+                    "RightMargin": 703.96,
+                    "TopMargin": 25.1292,
+                    "BottomMargin": 24.8708,
+                    "Tag": 390,
+                    "ActionTag": -860969810,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 26.0
+                    },
+                    "Name": "jiesuan_text_roomnum",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "本局底分：xxx  ",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineSize": 2,
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 367.9992,
+                      "Y": 37.8708
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3786,
+                      "Y": 0.4983
+                    },
+                    "PreSize": {
+                      "X": 0.2058,
+                      "Y": 0.3421
+                    },
+                    "LeftMargin": 267.9992,
+                    "RightMargin": 504.0008,
+                    "TopMargin": 25.1292,
+                    "BottomMargin": 24.8708,
+                    "Tag": 172,
+                    "ActionTag": 1285144260,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 26.0
+                    },
+                    "Name": "jiesuan_text_difen",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "剩余局数：xxx  ",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineSize": 2,
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 593.2116,
+                      "Y": 37.8708
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.6103,
+                      "Y": 0.4983
+                    },
+                    "PreSize": {
+                      "X": 0.2058,
+                      "Y": 0.3421
+                    },
+                    "LeftMargin": 493.2116,
+                    "RightMargin": 278.7884,
+                    "TopMargin": 25.1292,
+                    "BottomMargin": 24.8708,
+                    "Tag": 173,
+                    "ActionTag": -1626780097,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 26.0
+                    },
+                    "Name": "jiesuan_text_jushu",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 431771563,
+                "Size": {
+                  "X": 972.0,
+                  "Y": 76.0
+                },
+                "Name": "infoPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 464,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ddzCells/ddzPic/ddzTablePic/ptj_bg_win@2x.png",
+                      "Plist": ""
+                    },
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 0,
+                      "B": 36
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 320,
+                    "Scale9OriginY": 25,
+                    "Scale9Width": 332,
+                    "Scale9Height": 26,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 568.0,
+                      "Y": 320.4735
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5007
+                    },
+                    "PreSize": {
+                      "X": 0.8556,
+                      "Y": 0.1187
+                    },
+                    "LeftMargin": 82.0,
+                    "RightMargin": 82.0,
+                    "TopMargin": 243.5265,
+                    "BottomMargin": 320.4735,
+                    "Tag": 430,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/inRoomSamePic/zjh_touxiang.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 21,
+                        "Scale9OriginY": 21,
+                        "Scale9Width": 38,
+                        "Scale9Height": 38,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 112.9464,
+                          "Y": 37.126
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.1162,
+                          "Y": 0.4885
+                        },
+                        "PreSize": {
+                          "X": 0.0823,
+                          "Y": 1.0526
+                        },
+                        "LeftMargin": 72.9464,
+                        "RightMargin": 819.0536,
+                        "TopMargin": -1.126,
+                        "BottomMargin": -2.874,
+                        "Tag": 431,
+                        "ActionTag": -395401899,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 80.0
+                        },
+                        "Name": "jiesuan_image_head",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 22,
+                        "LabelText": "玩家0xxxxdsdsa  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 209,
+                          "G": 169,
+                          "B": 95
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 172.8216,
+                          "Y": 39.0564
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.1778,
+                          "Y": 0.5139
+                        },
+                        "PreSize": {
+                          "X": 0.1687,
+                          "Y": 0.3421
+                        },
+                        "LeftMargin": 172.8216,
+                        "RightMargin": 635.1784,
+                        "TopMargin": 23.9436,
+                        "BottomMargin": 26.0564,
+                        "Tag": 432,
+                        "ActionTag": -795602503,
+                        "Size": {
+                          "X": 164.0,
+                          "Y": 26.0
+                        },
+                        "Name": "jiesuan_text_name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "12345622x  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "R": 209,
+                          "G": 169,
+                          "B": 95
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 497.8584,
+                          "Y": 39.0564
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5122,
+                          "Y": 0.5139
+                        },
+                        "PreSize": {
+                          "X": 0.1193,
+                          "Y": 0.3684
+                        },
+                        "LeftMargin": 439.8584,
+                        "RightMargin": 416.1416,
+                        "TopMargin": 22.9436,
+                        "BottomMargin": 25.0564,
+                        "Tag": 433,
+                        "ActionTag": 284970914,
+                        "Size": {
+                          "X": 116.0,
+                          "Y": 28.0
+                        },
+                        "Name": "jiesuan_text_id",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 35,
+                        "LabelText": "100",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "R": 209,
+                          "G": 169,
+                          "B": 95
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.4759
+                        },
+                        "Position": {
+                          "X": 746.8848,
+                          "Y": 39.0564
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.7684,
+                          "Y": 0.5139
+                        },
+                        "PreSize": {
+                          "X": 0.1029,
+                          "Y": 0.5395
+                        },
+                        "LeftMargin": 696.8848,
+                        "RightMargin": 175.1152,
+                        "TopMargin": 15.4555,
+                        "BottomMargin": 19.5445,
+                        "Tag": 434,
+                        "ActionTag": -1087616731,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 41.0
+                        },
+                        "Name": "jiesuan_text_score",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ddzCells/ddzPic/ddzTablePic/btn_nongmin@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 48.6,
+                          "Y": 34.2532
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.05,
+                          "Y": 0.4507
+                        },
+                        "PreSize": {
+                          "X": 0.0288,
+                          "Y": 0.6711
+                        },
+                        "LeftMargin": 34.6,
+                        "RightMargin": 909.4,
+                        "TopMargin": 16.2468,
+                        "BottomMargin": 8.7532,
+                        "Tag": 435,
+                        "ActionTag": 1481237748,
+                        "Size": {
+                          "X": 28.0,
+                          "Y": 51.0
+                        },
+                        "Name": "jiesuan_image_dz",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ddzCells/ddzPic/ddzTablePic/bei@1x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 837.864,
+                          "Y": 38.152
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 230,
+                          "G": 230,
+                          "B": 250
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.862,
+                          "Y": 0.502
+                        },
+                        "PreSize": {
+                          "X": 0.0885,
+                          "Y": 0.4737
+                        },
+                        "LeftMargin": 794.864,
+                        "RightMargin": 91.136,
+                        "TopMargin": 19.848,
+                        "BottomMargin": 20.152,
+                        "Tag": 436,
+                        "ActionTag": -1357465077,
+                        "Size": {
+                          "X": 86.0,
+                          "Y": 36.0
+                        },
+                        "Name": "jiesuan_image_double",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 141808260,
+                    "Size": {
+                      "X": 972.0,
+                      "Y": 76.0
+                    },
+                    "Name": "playertem",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ddzCells/ddzPic/ddzTablePic/ptj_bg_win@2x.png",
+                      "Plist": ""
+                    },
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 320,
+                    "Scale9OriginY": 25,
+                    "Scale9Width": 332,
+                    "Scale9Height": 26,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 568.0,
+                      "Y": 234.9611
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.3671
+                    },
+                    "PreSize": {
+                      "X": 0.8556,
+                      "Y": 0.1187
+                    },
+                    "LeftMargin": 82.0,
+                    "RightMargin": 82.0,
+                    "TopMargin": 329.0389,
+                    "BottomMargin": 234.9611,
+                    "Tag": 423,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/inRoomSamePic/zjh_touxiang.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 21,
+                        "Scale9OriginY": 21,
+                        "Scale9Width": 38,
+                        "Scale9Height": 38,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 112.9464,
+                          "Y": 37.126
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.1162,
+                          "Y": 0.4885
+                        },
+                        "PreSize": {
+                          "X": 0.0823,
+                          "Y": 1.0526
+                        },
+                        "LeftMargin": 72.9464,
+                        "RightMargin": 819.0536,
+                        "TopMargin": -1.126,
+                        "BottomMargin": -2.874,
+                        "Tag": 424,
+                        "ActionTag": 897930137,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 80.0
+                        },
+                        "Name": "jiesuan_image_head",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 22,
+                        "LabelText": "玩家0xxxxdsdsa  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 209,
+                          "G": 169,
+                          "B": 95
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 172.8216,
+                          "Y": 39.0564
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.1778,
+                          "Y": 0.5139
+                        },
+                        "PreSize": {
+                          "X": 0.1687,
+                          "Y": 0.3421
+                        },
+                        "LeftMargin": 172.8216,
+                        "RightMargin": 635.1784,
+                        "TopMargin": 23.9436,
+                        "BottomMargin": 26.0564,
+                        "Tag": 425,
+                        "ActionTag": 2056816545,
+                        "Size": {
+                          "X": 164.0,
+                          "Y": 26.0
+                        },
+                        "Name": "jiesuan_text_name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "12345622x  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "R": 209,
+                          "G": 169,
+                          "B": 95
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 497.8584,
+                          "Y": 39.0564
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5122,
+                          "Y": 0.5139
+                        },
+                        "PreSize": {
+                          "X": 0.1193,
+                          "Y": 0.3684
+                        },
+                        "LeftMargin": 439.8584,
+                        "RightMargin": 416.1416,
+                        "TopMargin": 22.9436,
+                        "BottomMargin": 25.0564,
+                        "Tag": 426,
+                        "ActionTag": 1934319421,
+                        "Size": {
+                          "X": 116.0,
+                          "Y": 28.0
+                        },
+                        "Name": "jiesuan_text_id",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 35,
+                        "LabelText": "100",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "R": 209,
+                          "G": 169,
+                          "B": 95
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.4759
+                        },
+                        "Position": {
+                          "X": 746.8848,
+                          "Y": 39.0564
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.7684,
+                          "Y": 0.5139
+                        },
+                        "PreSize": {
+                          "X": 0.1029,
+                          "Y": 0.5395
+                        },
+                        "LeftMargin": 696.8848,
+                        "RightMargin": 175.1152,
+                        "TopMargin": 15.4555,
+                        "BottomMargin": 19.5445,
+                        "Tag": 427,
+                        "ActionTag": 308353878,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 41.0
+                        },
+                        "Name": "jiesuan_text_score",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ddzCells/ddzPic/ddzTablePic/btn_nongmin@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 48.6,
+                          "Y": 34.2532
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.05,
+                          "Y": 0.4507
+                        },
+                        "PreSize": {
+                          "X": 0.0288,
+                          "Y": 0.6711
+                        },
+                        "LeftMargin": 34.6,
+                        "RightMargin": 909.4,
+                        "TopMargin": 16.2468,
+                        "BottomMargin": 8.7532,
+                        "Tag": 428,
+                        "ActionTag": -1674189089,
+                        "Size": {
+                          "X": 28.0,
+                          "Y": 51.0
+                        },
+                        "Name": "jiesuan_image_dz",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ddzCells/ddzPic/ddzTablePic/bei@1x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 837.864,
+                          "Y": 38.152
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 230,
+                          "G": 230,
+                          "B": 250
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.862,
+                          "Y": 0.502
+                        },
+                        "PreSize": {
+                          "X": 0.0885,
+                          "Y": 0.4737
+                        },
+                        "LeftMargin": 794.864,
+                        "RightMargin": 91.136,
+                        "TopMargin": 19.848,
+                        "BottomMargin": 20.152,
+                        "Tag": 429,
+                        "ActionTag": -1998552150,
+                        "Size": {
+                          "X": 86.0,
+                          "Y": 36.0
+                        },
+                        "Name": "jiesuan_image_double",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1627976990,
+                    "Size": {
+                      "X": 972.0,
+                      "Y": 76.0
+                    },
+                    "Name": "playertem",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ddzCells/ddzPic/ddzTablePic/ptj_bg_win@2x.png",
+                      "Plist": ""
+                    },
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 320,
+                    "Scale9OriginY": 25,
+                    "Scale9Width": 332,
+                    "Scale9Height": 26,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 568.0,
+                      "Y": 149.4485
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.2335
+                    },
+                    "PreSize": {
+                      "X": 0.8556,
+                      "Y": 0.1187
+                    },
+                    "LeftMargin": 82.0,
+                    "RightMargin": 82.0,
+                    "TopMargin": 414.5515,
+                    "BottomMargin": 149.4485,
+                    "Tag": 316,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/inRoomSamePic/zjh_touxiang.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 21,
+                        "Scale9OriginY": 21,
+                        "Scale9Width": 38,
+                        "Scale9Height": 38,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 112.9464,
+                          "Y": 37.126
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.1162,
+                          "Y": 0.4885
+                        },
+                        "PreSize": {
+                          "X": 0.0823,
+                          "Y": 1.0526
+                        },
+                        "LeftMargin": 72.9464,
+                        "RightMargin": 819.0536,
+                        "TopMargin": -1.126,
+                        "BottomMargin": -2.874,
+                        "Tag": 175,
+                        "ActionTag": -1994453453,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 80.0
+                        },
+                        "Name": "jiesuan_image_head",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 22,
+                        "LabelText": "玩家0xxxxdsdsa  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "R": 209,
+                          "G": 169,
+                          "B": 95
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 172.8216,
+                          "Y": 39.0564
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.1778,
+                          "Y": 0.5139
+                        },
+                        "PreSize": {
+                          "X": 0.1687,
+                          "Y": 0.3421
+                        },
+                        "LeftMargin": 172.8216,
+                        "RightMargin": 635.1784,
+                        "TopMargin": 23.9436,
+                        "BottomMargin": 26.0564,
+                        "Tag": 178,
+                        "ActionTag": 605650958,
+                        "Size": {
+                          "X": 164.0,
+                          "Y": 26.0
+                        },
+                        "Name": "jiesuan_text_name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "12345622x  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "R": 209,
+                          "G": 169,
+                          "B": 95
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 497.8584,
+                          "Y": 39.0564
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5122,
+                          "Y": 0.5139
+                        },
+                        "PreSize": {
+                          "X": 0.1193,
+                          "Y": 0.3684
+                        },
+                        "LeftMargin": 439.8584,
+                        "RightMargin": 416.1416,
+                        "TopMargin": 22.9436,
+                        "BottomMargin": 25.0564,
+                        "Tag": 181,
+                        "ActionTag": -1439851315,
+                        "Size": {
+                          "X": 116.0,
+                          "Y": 28.0
+                        },
+                        "Name": "jiesuan_text_id",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 35,
+                        "LabelText": "100",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "R": 209,
+                          "G": 169,
+                          "B": 95
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.4759
+                        },
+                        "Position": {
+                          "X": 746.8848,
+                          "Y": 39.0564
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.7684,
+                          "Y": 0.5139
+                        },
+                        "PreSize": {
+                          "X": 0.1029,
+                          "Y": 0.5395
+                        },
+                        "LeftMargin": 696.8848,
+                        "RightMargin": 175.1152,
+                        "TopMargin": 15.4555,
+                        "BottomMargin": 19.5445,
+                        "Tag": 184,
+                        "ActionTag": 1781639315,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 41.0
+                        },
+                        "Name": "jiesuan_text_score",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ddzCells/ddzPic/ddzTablePic/btn_nongmin@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 48.6,
+                          "Y": 34.2532
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.05,
+                          "Y": 0.4507
+                        },
+                        "PreSize": {
+                          "X": 0.0288,
+                          "Y": 0.6711
+                        },
+                        "LeftMargin": 34.6,
+                        "RightMargin": 909.4,
+                        "TopMargin": 16.2468,
+                        "BottomMargin": 8.7532,
+                        "Tag": 216,
+                        "ActionTag": 1076505877,
+                        "Size": {
+                          "X": 28.0,
+                          "Y": 51.0
+                        },
+                        "Name": "jiesuan_image_dz",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ddzCells/ddzPic/ddzTablePic/bei@1x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 837.864,
+                          "Y": 38.152
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 230,
+                          "G": 230,
+                          "B": 250
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.862,
+                          "Y": 0.502
+                        },
+                        "PreSize": {
+                          "X": 0.0885,
+                          "Y": 0.4737
+                        },
+                        "LeftMargin": 794.864,
+                        "RightMargin": 91.136,
+                        "TopMargin": 19.848,
+                        "BottomMargin": 20.152,
+                        "Tag": 286,
+                        "ActionTag": -1724933371,
+                        "Size": {
+                          "X": 86.0,
+                          "Y": 36.0
+                        },
+                        "Name": "jiesuan_image_double",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 679120231,
+                    "Size": {
+                      "X": 972.0,
+                      "Y": 76.0
+                    },
+                    "Name": "playertem",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 924877941,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 640.0
+                },
+                "Name": "playerPanel",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 663103702,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "endPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "jiesuan_layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/inRoomSamePic/zjh_touxiang.png",
+        "commonCells/commonPic/jxnn_btn_blue@2x.png",
+        "commonCells/commonPic/simpleEndPic/yypk_img_return@2x.png",
+        "ddzCells/ddzPic/ddzTablePic/bei@1x.png",
+        "ddzCells/ddzPic/ddzTablePic/btn_nongmin@2x.png",
+        "ddzCells/ddzPic/ddzTablePic/ptj_bg_win@2x.png",
+        "Default/ImageFile.png",
+        "Font/FZY4JW_0569.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

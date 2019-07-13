@@ -1,0 +1,26 @@
+
+daxiao.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti01
+  rotate: false
+  xy: 2, 34
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+yanjing01
+  rotate: false
+  xy: 78, 93
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+zuiba02
+  rotate: false
+  xy: 2, 2
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1

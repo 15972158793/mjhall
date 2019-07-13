@@ -1,0 +1,40 @@
+
+loading.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fang
+  rotate: true
+  xy: 397, 121
+  size: 90, 113
+  orig: 90, 113
+  offset: 0, 0
+  index: -1
+mei
+  rotate: false
+  xy: 188, 102
+  size: 105, 109
+  orig: 105, 109
+  offset: 0, 0
+  index: -1
+tao
+  rotate: false
+  xy: 295, 104
+  size: 100, 107
+  orig: 100, 107
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 188, 2
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 2, 27
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1

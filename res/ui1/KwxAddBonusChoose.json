@@ -1,0 +1,433 @@
+{
+  "ID": "950bfde0-2032-4f32-a144-8f9c1f84bc3b",
+  "Version": "2.3.4",
+  "Name": "KwxAddBonusChoose",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 79,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 83,
+            "ActionTag": 1729716533,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "kwxResource/newkwxres/kwx_btn_yellow@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 150,
+            "Scale9Height": 66,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 384.0,
+              "Y": 88.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.3,
+              "Y": 0.1229
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1222
+            },
+            "VerticalEdge": "BottomEdge",
+            "LeftMargin": 294.0,
+            "RightMargin": 806.0,
+            "TopMargin": 587.5,
+            "BottomMargin": 44.5,
+            "Tag": 80,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "kwxResource/newkwxres/kwx_img_bp@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 90.0,
+                  "Y": 44.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4778,
+                  "Y": 0.4318
+                },
+                "LeftMargin": 47.0,
+                "RightMargin": 47.0,
+                "TopMargin": 25.0,
+                "BottomMargin": 25.0,
+                "Tag": 483,
+                "ActionTag": -1763936332,
+                "Size": {
+                  "X": 86.0,
+                  "Y": 38.0
+                },
+                "Name": "Sprite_1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1892274978,
+            "Size": {
+              "X": 180.0,
+              "Y": 88.0
+            },
+            "Name": "jp0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "kwxResource/newkwxres/kwx_btn_green@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 150,
+            "Scale9Height": 66,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 88.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1229
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1222
+            },
+            "VerticalEdge": "BottomEdge",
+            "LeftMargin": 550.0,
+            "RightMargin": 550.0,
+            "TopMargin": 587.5,
+            "BottomMargin": 44.5,
+            "Tag": 81,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "kwxResource/newkwxres/kwx_img_p1@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 90.0,
+                  "Y": 44.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4833,
+                  "Y": 0.4318
+                },
+                "LeftMargin": 46.5,
+                "RightMargin": 46.5,
+                "TopMargin": 25.0,
+                "BottomMargin": 25.0,
+                "Tag": 484,
+                "ActionTag": -1470644324,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 38.0
+                },
+                "Name": "Sprite_2",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1761756369,
+            "Size": {
+              "X": 180.0,
+              "Y": 88.0
+            },
+            "Name": "jp1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "kwxResource/newkwxres/kwx_btn_green@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 150,
+            "Scale9Height": 66,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 895.9999,
+              "Y": 88.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.7,
+              "Y": 0.1229
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1222
+            },
+            "VerticalEdge": "BottomEdge",
+            "LeftMargin": 805.9999,
+            "RightMargin": 294.0001,
+            "TopMargin": 587.5,
+            "BottomMargin": 44.5,
+            "Tag": 82,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "kwxResource/newkwxres/kwx_img_p2@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 90.0,
+                  "Y": 44.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4778,
+                  "Y": 0.4318
+                },
+                "LeftMargin": 47.0,
+                "RightMargin": 47.0,
+                "TopMargin": 25.0,
+                "BottomMargin": 25.0,
+                "Tag": 485,
+                "ActionTag": 27128049,
+                "Size": {
+                  "X": 86.0,
+                  "Y": 38.0
+                },
+                "Name": "Sprite_3",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1258540857,
+            "Size": {
+              "X": 180.0,
+              "Y": 88.0
+            },
+            "Name": "jp2",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "kwxResource/newkwxres/kwx_btn_green@2x.png",
+        "kwxResource/newkwxres/kwx_btn_yellow@2x.png",
+        "kwxResource/newkwxres/kwx_img_bp@2x.png",
+        "kwxResource/newkwxres/kwx_img_p1@2x.png",
+        "kwxResource/newkwxres/kwx_img_p2@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

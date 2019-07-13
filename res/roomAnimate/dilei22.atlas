@@ -1,0 +1,26 @@
+
+dilei22.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huomiao
+  rotate: false
+  xy: 166, 68
+  size: 91, 153
+  orig: 91, 153
+  offset: 0, 0
+  index: -1
+yinxian
+  rotate: true
+  xy: 2, 2
+  size: 45, 80
+  orig: 45, 80
+  offset: 0, 0
+  index: -1
+zhadan
+  rotate: false
+  xy: 2, 49
+  size: 162, 172
+  orig: 162, 172
+  offset: 0, 0
+  index: -1

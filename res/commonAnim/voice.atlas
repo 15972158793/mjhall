@@ -1,0 +1,19 @@
+
+voice.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 17
+  size: 194, 227
+  orig: 194, 227
+  offset: 0, 0
+  index: -1
+tiao
+  rotate: false
+  xy: 2, 2
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1

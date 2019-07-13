@@ -1,0 +1,343 @@
+{
+  "ID": "8d3dc396-b59d-4f82-9846-812f5b7ce903",
+  "Version": "2.3.4",
+  "Name": "goldZhanji",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 98,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "goldShop/yyjb_bg_shop@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 1106,
+            "Scale9Height": 610,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 99,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldres/yyjb_title_zhanji@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 601.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9391
+                },
+                "PreSize": {
+                  "X": 0.1488,
+                  "Y": 0.0609
+                },
+                "LeftMargin": 483.5,
+                "RightMargin": 483.5,
+                "TopMargin": 19.5,
+                "BottomMargin": 581.5,
+                "Tag": 38,
+                "ActionTag": -1045329032,
+                "Size": {
+                  "X": 169.0,
+                  "Y": 39.0
+                },
+                "Name": "titlepng",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldres/yypk_img_nonezj@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3803,
+                  "Y": 0.5938
+                },
+                "LeftMargin": 352.0,
+                "RightMargin": 352.0,
+                "TopMargin": 130.0,
+                "BottomMargin": 130.0,
+                "Tag": 39,
+                "ActionTag": -347539102,
+                "Size": {
+                  "X": 432.0,
+                  "Y": 380.0
+                },
+                "Name": "none_zj",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_btn_return@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 30,
+                "Scale9Height": 41,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 52.0,
+                  "Y": 600.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0458,
+                  "Y": 0.9375
+                },
+                "PreSize": {
+                  "X": 0.0528,
+                  "Y": 0.0984
+                },
+                "LeftMargin": 22.0,
+                "RightMargin": 1054.0,
+                "TopMargin": 8.5,
+                "BottomMargin": 568.5,
+                "Tag": 40,
+                "ActionTag": 2039281500,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 63.0
+                },
+                "Name": "backBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "只显示最近20条战绩    ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 998.0,
+                  "Y": 592.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8785,
+                  "Y": 0.925
+                },
+                "PreSize": {
+                  "X": 0.2095,
+                  "Y": 0.0437
+                },
+                "LeftMargin": 879.0,
+                "RightMargin": 19.0,
+                "TopMargin": 34.0,
+                "BottomMargin": 578.0,
+                "Tag": 248,
+                "ActionTag": -208199248,
+                "Size": {
+                  "X": 238.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_68",
+                "ctype": "TextObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 566.7504,
+                  "Y": 558.2185
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.4989,
+                  "Y": 0.8722
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.7813
+                },
+                "LeftMargin": -1.2496,
+                "RightMargin": 1.2496,
+                "TopMargin": 81.7815,
+                "BottomMargin": 58.2185,
+                "Tag": 163,
+                "ActionTag": 2090736136,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 500.0
+                },
+                "Name": "ListView_1",
+                "ctype": "ListViewObjectData"
+              }
+            ],
+            "ActionTag": 1656026349,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "bg",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/hallPic/goldScene/yyjb_btn_return@2x.png",
+        "Font/FZY4JW_0569.TTF",
+        "goldres/yyjb_title_zhanji@2x.png",
+        "goldres/yypk_img_nonezj@2x.png",
+        "goldShop/yyjb_bg_shop@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

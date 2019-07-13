@@ -1,0 +1,1341 @@
+{
+  "ID": "3feed8a4-d3d7-4dad-9747-5b55398d6566",
+  "Version": "2.3.4",
+  "Name": "kwxReplayWindow",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 204,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "kwxResource/yypk_background.jpg",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 374,
+            "Scale9OriginY": 211,
+            "Scale9Width": 388,
+            "Scale9Height": 218,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1.2781,
+              "Y": -1.2781
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0011,
+              "Y": -0.002
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 1.2781,
+            "RightMargin": -1.2781,
+            "TopMargin": 1.2781,
+            "BottomMargin": -1.2781,
+            "Tag": 208,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 568.0,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0938
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 568.0,
+                "RightMargin": 568.0,
+                "TopMargin": 580.0,
+                "BottomMargin": 60.0,
+                "Tag": 209,
+                "ActionTag": 1563569820,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "locator0",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 986.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.868,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "RightEdge",
+                "LeftMargin": 986.0,
+                "RightMargin": 150.0,
+                "TopMargin": 320.0,
+                "BottomMargin": 320.0,
+                "Tag": 210,
+                "ActionTag": -346282918,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "locator1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 568.0,
+                  "Y": 580.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9063
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 568.0,
+                "RightMargin": 568.0,
+                "TopMargin": 60.0,
+                "BottomMargin": 580.0,
+                "Tag": 211,
+                "ActionTag": 1951345753,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "locator2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 150.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.132,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "LeftEdge",
+                "LeftMargin": 150.0,
+                "RightMargin": 986.0,
+                "TopMargin": 320.0,
+                "BottomMargin": 320.0,
+                "Tag": 212,
+                "ActionTag": 1148227679,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "locator3",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 300.0,
+                  "Y": 150.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.2641,
+                  "Y": 0.2344
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 300.0,
+                "RightMargin": 836.0,
+                "TopMargin": 490.0,
+                "BottomMargin": 150.0,
+                "Tag": 217,
+                "ActionTag": -152642418,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "playednode0",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 750.0,
+                  "Y": 500.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.6602,
+                  "Y": 0.7813
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 750.0,
+                "RightMargin": 386.0,
+                "TopMargin": 140.0,
+                "BottomMargin": 500.0,
+                "Tag": 219,
+                "ActionTag": -917433501,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "playednode1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 300.0,
+                  "Y": 500.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.2641,
+                  "Y": 0.7813
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "LeftEdge",
+                "LeftMargin": 300.0,
+                "RightMargin": 836.0,
+                "TopMargin": 140.0,
+                "BottomMargin": 500.0,
+                "Tag": 220,
+                "ActionTag": -1932407855,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "playednode2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "kwxResource/ccs/room/btn_return@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 28,
+                "Scale9Height": 32,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.0,
+                  "Y": 605.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.044,
+                  "Y": 0.9453
+                },
+                "PreSize": {
+                  "X": 0.0511,
+                  "Y": 0.0844
+                },
+                "LeftMargin": 21.0,
+                "RightMargin": 1057.0,
+                "TopMargin": 8.0,
+                "BottomMargin": 578.0,
+                "Tag": 124,
+                "ActionTag": 1362755679,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 54.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "kwxResource/setting/hf_bg@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 191,
+                "Scale9OriginY": 36,
+                "Scale9Width": 198,
+                "Scale9Height": 39,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5106,
+                  "Y": 0.1734
+                },
+                "LeftMargin": 278.0,
+                "RightMargin": 278.0,
+                "TopMargin": 264.5,
+                "BottomMargin": 264.5,
+                "Tag": 272,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "kwxResource/setting/hf_xiayiju@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 30,
+                    "Scale9Height": 22,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 479.9931,
+                      "Y": 56.8434
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8276,
+                      "Y": 0.5121
+                    },
+                    "PreSize": {
+                      "X": 0.1034,
+                      "Y": 0.3964
+                    },
+                    "LeftMargin": 449.9931,
+                    "RightMargin": 70.0069,
+                    "TopMargin": 32.1566,
+                    "BottomMargin": 34.8434,
+                    "Tag": 273,
+                    "ActionTag": -1231927220,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 44.0
+                    },
+                    "Name": "btn_xiaJu",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "kwxResource/setting/hf_shangyiju@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 30,
+                    "Scale9Height": 22,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 89.7879,
+                      "Y": 56.8434
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1548,
+                      "Y": 0.5121
+                    },
+                    "PreSize": {
+                      "X": 0.1034,
+                      "Y": 0.3964
+                    },
+                    "LeftMargin": 59.7879,
+                    "RightMargin": 460.2121,
+                    "TopMargin": 32.1566,
+                    "BottomMargin": 34.8434,
+                    "Tag": 274,
+                    "ActionTag": 1882055042,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 44.0
+                    },
+                    "Name": "btn_shangJu",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "kwxResource/setting/hf_kuaijin@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 26,
+                    "Scale9Height": 22,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 375.9411,
+                      "Y": 56.8434
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6482,
+                      "Y": 0.5121
+                    },
+                    "PreSize": {
+                      "X": 0.0966,
+                      "Y": 0.3964
+                    },
+                    "LeftMargin": 347.9411,
+                    "RightMargin": 176.0589,
+                    "TopMargin": 32.1566,
+                    "BottomMargin": 34.8434,
+                    "Tag": 275,
+                    "ActionTag": 165018594,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 44.0
+                    },
+                    "Name": "btn_qianJin",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "kwxResource/setting/hf_houtui@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 26,
+                    "Scale9Height": 22,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 192.099,
+                      "Y": 56.8434
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3312,
+                      "Y": 0.5121
+                    },
+                    "PreSize": {
+                      "X": 0.0966,
+                      "Y": 0.3964
+                    },
+                    "LeftMargin": 164.099,
+                    "RightMargin": 359.901,
+                    "TopMargin": 32.1566,
+                    "BottomMargin": 34.8434,
+                    "Tag": 276,
+                    "ActionTag": -1173449684,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 44.0
+                    },
+                    "Name": "btn_houTui",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "kwxResource/setting/hf_zanting@2x.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "kwxResource/setting/hf_bofang@2x.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "kwxResource/setting/hf_bofang@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 13,
+                    "Scale9Height": 35,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 290.0,
+                      "Y": 55.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0741,
+                      "Y": 0.5135
+                    },
+                    "LeftMargin": 268.5,
+                    "RightMargin": 268.5,
+                    "TopMargin": 27.0,
+                    "BottomMargin": 27.0,
+                    "Tag": 15,
+                    "ActionTag": -1847043469,
+                    "Size": {
+                      "X": 43.0,
+                      "Y": 57.0
+                    },
+                    "Name": "playbtn",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 514201358,
+                "Size": {
+                  "X": 580.0,
+                  "Y": 111.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "kwxResource/playing/other/zjhf.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 78,
+                "Scale9OriginY": 21,
+                "Scale9Width": 83,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 605.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9453
+                },
+                "PreSize": {
+                  "X": 0.2104,
+                  "Y": 0.1031
+                },
+                "LeftMargin": 448.5,
+                "RightMargin": 448.5,
+                "TopMargin": 2.0,
+                "BottomMargin": 572.0,
+                "Tag": 317,
+                "ActionTag": 286900288,
+                "Size": {
+                  "X": 239.0,
+                  "Y": 66.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "战绩回放码:1937120233000000000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 929.0308,
+                  "Y": 597.262
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 216,
+                  "G": 206,
+                  "B": 154
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8178,
+                  "Y": 0.9332
+                },
+                "PreSize": {
+                  "X": 0.3433,
+                  "Y": 0.0453
+                },
+                "LeftMargin": 734.0308,
+                "RightMargin": 11.9692,
+                "TopMargin": 28.238,
+                "BottomMargin": 582.762,
+                "Tag": 318,
+                "ActionTag": 1953211147,
+                "Size": {
+                  "X": 390.0,
+                  "Y": 29.0
+                },
+                "Name": "record_id",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1166250558,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "BG",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "kwxResource/usernfo/userinfo_head.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 65.0,
+              "Y": 500.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0572,
+              "Y": 0.7813
+            },
+            "PreSize": {
+              "X": 0.1004,
+              "Y": 0.1781
+            },
+            "LeftMargin": 8.0,
+            "RightMargin": 1014.0,
+            "TopMargin": 83.0,
+            "BottomMargin": 443.0,
+            "Tag": 114,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "hh",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 11.0692,
+                  "Y": -17.1025
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0971,
+                  "Y": -0.15
+                },
+                "PreSize": {
+                  "X": 0.8772,
+                  "Y": 0.2105
+                },
+                "LeftMargin": 11.0692,
+                "RightMargin": 2.9308,
+                "TopMargin": 119.1025,
+                "BottomMargin": -29.1025,
+                "Tag": 118,
+                "ActionTag": 1081966728,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 24.0
+                },
+                "Name": "username",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "1000",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 12.9671,
+                  "Y": -47.3607
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1137,
+                  "Y": -0.4154
+                },
+                "PreSize": {
+                  "X": 0.4211,
+                  "Y": 0.2105
+                },
+                "LeftMargin": 12.9671,
+                "RightMargin": 53.0329,
+                "TopMargin": 149.3607,
+                "BottomMargin": -59.3607,
+                "Tag": 119,
+                "ActionTag": 854561898,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 24.0
+                },
+                "Name": "userscore",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1036012189,
+            "Size": {
+              "X": 114.0,
+              "Y": 114.0
+            },
+            "Name": "userhead2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "kwxResource/usernfo/userinfo_head.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 65.0,
+              "Y": 60.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0572,
+              "Y": 0.0938
+            },
+            "PreSize": {
+              "X": 0.1004,
+              "Y": 0.1781
+            },
+            "LeftMargin": 8.0,
+            "RightMargin": 1014.0,
+            "TopMargin": 523.0,
+            "BottomMargin": 3.0,
+            "Tag": 115,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "hh",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 115.7895,
+                  "Y": 66.3026
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.0157,
+                  "Y": 0.5816
+                },
+                "PreSize": {
+                  "X": 0.8772,
+                  "Y": 0.2105
+                },
+                "LeftMargin": 115.7895,
+                "RightMargin": -101.7895,
+                "TopMargin": 35.6974,
+                "BottomMargin": 54.3026,
+                "Tag": 120,
+                "ActionTag": 1412231330,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 24.0
+                },
+                "Name": "username",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "1000",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 117.6875,
+                  "Y": 36.0443
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.0323,
+                  "Y": 0.3162
+                },
+                "PreSize": {
+                  "X": 0.4211,
+                  "Y": 0.2105
+                },
+                "LeftMargin": 117.6875,
+                "RightMargin": -51.6875,
+                "TopMargin": 65.9557,
+                "BottomMargin": 24.0443,
+                "Tag": 121,
+                "ActionTag": 1508534888,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 24.0
+                },
+                "Name": "userscore",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 2116451992,
+            "Size": {
+              "X": 114.0,
+              "Y": 114.0
+            },
+            "Name": "userhead0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "kwxResource/usernfo/userinfo_head.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1050.0,
+              "Y": 500.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9243,
+              "Y": 0.7813
+            },
+            "PreSize": {
+              "X": 0.1004,
+              "Y": 0.1781
+            },
+            "LeftMargin": 993.0,
+            "RightMargin": 29.0,
+            "TopMargin": 83.0,
+            "BottomMargin": 443.0,
+            "Tag": 116,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "hh",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 27.1214,
+                  "Y": -17.3686
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2379,
+                  "Y": -0.1524
+                },
+                "PreSize": {
+                  "X": 0.8772,
+                  "Y": 0.2105
+                },
+                "LeftMargin": 27.1214,
+                "RightMargin": -13.1214,
+                "TopMargin": 119.3686,
+                "BottomMargin": -29.3686,
+                "Tag": 122,
+                "ActionTag": -1284794595,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 24.0
+                },
+                "Name": "username",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "1000",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 29.0198,
+                  "Y": -47.6269
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2546,
+                  "Y": -0.4178
+                },
+                "PreSize": {
+                  "X": 0.4211,
+                  "Y": 0.2105
+                },
+                "LeftMargin": 29.0198,
+                "RightMargin": 36.9802,
+                "TopMargin": 149.6269,
+                "BottomMargin": -59.6269,
+                "Tag": 123,
+                "ActionTag": 2068251341,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 24.0
+                },
+                "Name": "userscore",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 122395158,
+            "Size": {
+              "X": 114.0,
+              "Y": 114.0
+            },
+            "Name": "userhead1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Font/FZY4JW_0569.TTF",
+        "kwxResource/ccs/room/btn_return@2x.png",
+        "kwxResource/playing/other/zjhf.png",
+        "kwxResource/setting/hf_bg@2x.png",
+        "kwxResource/setting/hf_bofang@2x.png",
+        "kwxResource/setting/hf_houtui@2x.png",
+        "kwxResource/setting/hf_kuaijin@2x.png",
+        "kwxResource/setting/hf_shangyiju@2x.png",
+        "kwxResource/setting/hf_xiayiju@2x.png",
+        "kwxResource/setting/hf_zanting@2x.png",
+        "kwxResource/usernfo/userinfo_head.png",
+        "kwxResource/yypk_background.jpg"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

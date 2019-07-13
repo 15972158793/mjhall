@@ -1,0 +1,211 @@
+{
+  "ID": "6f98340f-d1b4-4ee2-be03-7e572ffee054",
+  "Version": "2.3.4",
+  "Name": "clubStatistics",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 382,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "clubres/clubinfo/club_img_fenlan@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0197,
+              "Y": 0.04
+            },
+            "RightMargin": -12.0,
+            "TopMargin": 48.0,
+            "Tag": 383,
+            "ActionTag": 1443792341,
+            "Size": {
+              "X": 622.0,
+              "Y": 2.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "2017-01-12   ",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 60.0,
+              "Y": 15.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0984,
+              "Y": 0.3
+            },
+            "PreSize": {
+              "X": 0.2131,
+              "Y": 0.4
+            },
+            "LeftMargin": 60.0,
+            "RightMargin": 420.0,
+            "TopMargin": 15.0,
+            "BottomMargin": 15.0,
+            "Tag": 385,
+            "ActionTag": -1765471623,
+            "Size": {
+              "X": 130.0,
+              "Y": 20.0
+            },
+            "Name": "timeTxt",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "消耗房卡   ",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 300.0,
+              "Y": 15.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4918,
+              "Y": 0.3
+            },
+            "PreSize": {
+              "X": 0.1803,
+              "Y": 0.4
+            },
+            "LeftMargin": 300.0,
+            "RightMargin": 200.0,
+            "TopMargin": 15.0,
+            "BottomMargin": 15.0,
+            "Tag": 389,
+            "ActionTag": 1153938213,
+            "Size": {
+              "X": 110.0,
+              "Y": 20.0
+            },
+            "Name": "consumeTxtInfo",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "852963   ",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 404.7419,
+              "Y": 15.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6635,
+              "Y": 0.3
+            },
+            "PreSize": {
+              "X": 0.1475,
+              "Y": 0.4
+            },
+            "LeftMargin": 404.7419,
+            "RightMargin": 115.2581,
+            "TopMargin": 15.0,
+            "BottomMargin": 15.0,
+            "Tag": 634,
+            "ActionTag": 1839244298,
+            "Size": {
+              "X": 90.0,
+              "Y": 20.0
+            },
+            "Name": "consumeTxt",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 610.0,
+          "Y": 50.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "clubres/clubinfo/club_img_fenlan@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

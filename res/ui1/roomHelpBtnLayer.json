@@ -1,0 +1,399 @@
+{
+  "ID": "604f60cb-8cfb-46a4-bbb7-f8ab8dd76015",
+  "Version": "2.3.4",
+  "Name": "roomHelpBtnLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 555,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 556,
+            "ActionTag": 1260329040,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Alpha": 71,
+            "Name": "btnLayer",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "niuniuPic/nys_bg_rule@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 174,
+            "Scale9OriginY": 113,
+            "Scale9Width": 256,
+            "Scale9Height": 154,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 565.3257,
+              "Y": 319.8331
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4976,
+              "Y": 0.4997
+            },
+            "PreSize": {
+              "X": 0.5317,
+              "Y": 0.5938
+            },
+            "LeftMargin": 263.3257,
+            "RightMargin": 268.6743,
+            "TopMargin": 130.1669,
+            "BottomMargin": 129.8331,
+            "Tag": 557,
+            "ActionTag": -537566233,
+            "Size": {
+              "X": 604.0,
+              "Y": 380.0
+            },
+            "Name": "bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "明牌抢庄                    ",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 389.8328,
+              "Y": 415.7755
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3432,
+              "Y": 0.6496
+            },
+            "PreSize": {
+              "X": 0.1585,
+              "Y": 0.0313
+            },
+            "LeftMargin": 389.8328,
+            "RightMargin": 566.1672,
+            "TopMargin": 214.2245,
+            "BottomMargin": 405.7755,
+            "Tag": 569,
+            "ActionTag": 1909998268,
+            "Size": {
+              "X": 180.0,
+              "Y": 20.0
+            },
+            "Name": "wanfa",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "明牌抢庄                            ",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 646.5964,
+              "Y": 415.7755
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5692,
+              "Y": 0.6496
+            },
+            "PreSize": {
+              "X": 0.3169,
+              "Y": 0.0313
+            },
+            "LeftMargin": 646.5964,
+            "RightMargin": 129.4036,
+            "TopMargin": 214.2245,
+            "BottomMargin": 405.7755,
+            "Tag": 575,
+            "ActionTag": 526724314,
+            "Size": {
+              "X": 360.0,
+              "Y": 20.0
+            },
+            "Name": "difen",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 631.7611,
+              "Y": 349.4356
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5561,
+              "Y": 0.546
+            },
+            "PreSize": {
+              "X": 0.3521,
+              "Y": 0.0469
+            },
+            "LeftMargin": 431.7611,
+            "RightMargin": 304.2389,
+            "TopMargin": 275.5644,
+            "BottomMargin": 334.4356,
+            "Tag": 576,
+            "ActionTag": 1279961968,
+            "Size": {
+              "X": 400.0,
+              "Y": 30.0
+            },
+            "Name": "fanBeiguize",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 618.5331,
+              "Y": 278.6354
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5445,
+              "Y": 0.4354
+            },
+            "PreSize": {
+              "X": 0.3257,
+              "Y": 0.0781
+            },
+            "LeftMargin": 433.5331,
+            "RightMargin": 332.4669,
+            "TopMargin": 336.3646,
+            "BottomMargin": 253.6354,
+            "Tag": 582,
+            "ActionTag": -286397747,
+            "Size": {
+              "X": 370.0,
+              "Y": 50.0
+            },
+            "Name": "fangjianguize",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 15,
+            "LabelText": "",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.4969,
+              "ScaleY": 0.5475
+            },
+            "Position": {
+              "X": 617.3862,
+              "Y": 214.2952
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5435,
+              "Y": 0.3348
+            },
+            "PreSize": {
+              "X": 0.3257,
+              "Y": 0.0781
+            },
+            "LeftMargin": 433.5332,
+            "RightMargin": 332.4667,
+            "TopMargin": 403.0798,
+            "BottomMargin": 186.9202,
+            "Tag": 583,
+            "ActionTag": 1349846751,
+            "Size": {
+              "X": 370.0,
+              "Y": 50.0
+            },
+            "Name": "teshuwanfa",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Normal.png",
+        "niuniuPic/nys_bg_rule@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

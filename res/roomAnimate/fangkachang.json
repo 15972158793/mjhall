@@ -1,0 +1,60 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" },
+	{ "name": "bone2", "parent": "root" }
+],
+"slots": [
+	{ "name": "text", "bone": "root", "attachment": "text" },
+	{ "name": "1", "bone": "bone", "attachment": "1" },
+	{ "name": "2", "bone": "bone2", "attachment": "2" }
+],
+"skins": {
+	"default": {
+		"1": {
+			"1": { "x": 2.5, "y": 0.5, "width": 43, "height": 38 }
+		},
+		"2": {
+			"2": { "x": 2.5, "y": 0.5, "width": 43, "height": 38 }
+		},
+		"text": {
+			"text": { "y": -32.96, "width": 64, "height": 26 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"bone2": {
+				"rotate": [
+					{ "time": 0.5, "angle": 0 },
+					{ "time": 0.6666, "angle": -90 },
+					{ "time": 0.8333, "angle": -180 },
+					{ "time": 1, "angle": 90 },
+					{ "time": 1.1666, "angle": 360 }
+				]
+			}
+		},
+		"slots": {
+			"1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.5333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.1333, "color": "ffffff00" },
+					{ "time": 1.1666, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 3.3333, "color": "ffffffff" }
+				]
+			},
+			"2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.1666, "color": "ffffffff" },
+					{ "time": 1.5, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}

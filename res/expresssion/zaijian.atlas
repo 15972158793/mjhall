@@ -1,0 +1,40 @@
+
+zaijian.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meimao03
+  rotate: false
+  xy: 20, 40
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+shenti01
+  rotate: false
+  xy: 2, 52
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+shou05
+  rotate: false
+  xy: 78, 90
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+yanjing06
+  rotate: false
+  xy: 78, 81
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+zuiba07
+  rotate: true
+  xy: 2, 2
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1

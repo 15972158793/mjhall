@@ -1,0 +1,172 @@
+{
+  "ID": "36f171da-3e4f-4cb3-8645-fcde81106d7b",
+  "Version": "2.3.4",
+  "Name": "lhdRecordCell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 197,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "baoziWang/zoushi/bzw_img_pitchOn@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 111,
+            "Scale9OriginY": 18,
+            "Scale9Width": 116,
+            "Scale9Height": 21,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 25.0,
+              "Y": 50.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 198,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "baoziWang/zoushi/bzw_img_1dian@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 25.0,
+                  "Y": 75.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.75
+                },
+                "PreSize": {
+                  "X": 0.92,
+                  "Y": 0.47
+                },
+                "LeftMargin": 2.0,
+                "RightMargin": 2.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 51.5,
+                "Tag": 199,
+                "ActionTag": -46764994,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 47.0
+                },
+                "Name": "Sp0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "baoziWang/zoushi/bzw_img_1dian@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 25.0,
+                  "Y": 25.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.25
+                },
+                "PreSize": {
+                  "X": 0.92,
+                  "Y": 0.47
+                },
+                "LeftMargin": 2.0,
+                "RightMargin": 2.0,
+                "TopMargin": 51.5,
+                "BottomMargin": 1.5,
+                "Tag": 200,
+                "ActionTag": -1995703636,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 47.0
+                },
+                "Name": "Sp1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -984068893,
+            "Size": {
+              "X": 50.0,
+              "Y": 100.0
+            },
+            "Name": "bg",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 50.0,
+          "Y": 100.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "baoziWang/zoushi/bzw_img_1dian@2x.png",
+        "baoziWang/zoushi/bzw_img_pitchOn@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

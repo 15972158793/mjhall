@@ -1,0 +1,26 @@
+
+hall.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spot1
+  rotate: true
+  xy: 2, 161
+  size: 156, 599
+  orig: 156, 599
+  offset: 0, 0
+  index: -1
+spot2
+  rotate: true
+  xy: 2, 2
+  size: 157, 574
+  orig: 157, 574
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 603, 260
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1

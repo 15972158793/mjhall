@@ -1,0 +1,77 @@
+{
+  "ID": "258851c8-bf17-4ced-96ff-6dee3e3f0138",
+  "Version": "2.3.4",
+  "Name": "winGold",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1242,
+        "Children": [
+          {
+            "CharWidth": 32,
+            "CharHeight": 43,
+            "LabelText": "./0123456789",
+            "StartChar": ".",
+            "LabelAtlasFileImage_CNB": {
+              "Type": "Normal",
+              "Path": "Font/ptj_font1.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -192.0,
+            "RightMargin": -192.0,
+            "TopMargin": -21.5,
+            "BottomMargin": -21.5,
+            "Tag": 1243,
+            "ActionTag": 52851082,
+            "Size": {
+              "X": 384.0,
+              "Y": 43.0
+            },
+            "Name": "text",
+            "ctype": "TextAtlasObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/ptj_font1.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

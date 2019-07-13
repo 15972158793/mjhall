@@ -1,0 +1,304 @@
+{
+  "ID": "ee0115f4-3aca-4406-84e0-dc7d2f5d2252",
+  "Version": "2.3.4",
+  "Name": "A_erbagangHead",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 926,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -15,
+            "Scale9OriginY": -4,
+            "Scale9Width": 30,
+            "Scale9Height": 8,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 50.0,
+              "Y": 60.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 928,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "A_erbagang/28g_head_02.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 27,
+                "Scale9OriginY": 27,
+                "Scale9Width": 36,
+                "Scale9Height": 30,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 53.0,
+                  "Y": 77.5046
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.53,
+                  "Y": 0.6459
+                },
+                "PreSize": {
+                  "X": 0.9,
+                  "Y": 0.7
+                },
+                "LeftMargin": 8.0,
+                "RightMargin": 2.0,
+                "TopMargin": 0.4954,
+                "BottomMargin": 35.5046,
+                "Tag": 929,
+                "ActionTag": -1363960522,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 84.0
+                },
+                "Name": "headBg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "baoziWang/bzw_bg_name@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 26,
+                "Scale9OriginY": 10,
+                "Scale9Width": 28,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.64,
+                  "Y": 17.1198
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5064,
+                  "Y": 0.1427
+                },
+                "PreSize": {
+                  "X": 0.8,
+                  "Y": 0.275
+                },
+                "LeftMargin": 10.64,
+                "RightMargin": 9.36,
+                "TopMargin": 86.3802,
+                "BottomMargin": 0.6198,
+                "Tag": 931,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 15,
+                    "LabelText": "方源捡肥皂",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 40.0,
+                      "Y": 22.6704
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.687
+                    },
+                    "PreSize": {
+                      "X": 1.25,
+                      "Y": 0.4545
+                    },
+                    "LeftMargin": -10.0,
+                    "RightMargin": -10.0,
+                    "TopMargin": 2.8296,
+                    "BottomMargin": 15.1704,
+                    "Tag": 932,
+                    "ActionTag": -1399830111,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 15.0
+                    },
+                    "Name": "playerName",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 15,
+                    "LabelText": "100000\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 40.0,
+                      "Y": 6.6993
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.203
+                    },
+                    "PreSize": {
+                      "X": 1.25,
+                      "Y": 0.4545
+                    },
+                    "LeftMargin": -10.0,
+                    "RightMargin": -10.0,
+                    "TopMargin": 18.8007,
+                    "BottomMargin": -0.8007,
+                    "Tag": 933,
+                    "ActionTag": 673082318,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 15.0
+                    },
+                    "Name": "playerMoney",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1511829600,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 33.0
+                },
+                "Name": "Image_52",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 536091801,
+            "Size": {
+              "X": 100.0,
+              "Y": 120.0
+            },
+            "Name": "Button_23",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 100.0,
+          "Y": 120.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "A_erbagang/28g_head_02.png",
+        "baoziWang/bzw_bg_name@2x.png",
+        "Font/FZY4JW_0569.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

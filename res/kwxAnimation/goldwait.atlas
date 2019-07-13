@@ -1,0 +1,19 @@
+
+goldwait.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: false
+  xy: 2, 2
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 306, 29
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1

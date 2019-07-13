@@ -1,0 +1,62 @@
+
+touzhong_tex.png
+size: 0,0
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pan
+  rotate: false
+  xy: 475 ,1
+  size: 494 ,349
+  orig: 494 ,349
+  offset: 0,0
+  index: -1
+gaizi
+  rotate: false
+  xy: 1 ,1
+  size: 472 ,702
+  orig: 472 ,702
+  offset: 0,0
+  index: -1
+1
+  rotate: false
+  xy: 1 ,831
+  size: 123 ,127
+  orig: 123 ,127
+  offset: 0,0
+  index: -1
+2
+  rotate: false
+  xy: 131 ,705
+  size: 117 ,120
+  orig: 117 ,120
+  offset: 0,0
+  index: -1
+3
+  rotate: false
+  xy: 1 ,705
+  size: 128 ,124
+  orig: 128 ,124
+  offset: 0,0
+  index: -1
+4
+  rotate: false
+  xy: 126 ,831
+  size: 121 ,121
+  orig: 121 ,121
+  offset: 0,0
+  index: -1
+5
+  rotate: false
+  xy: 250 ,705
+  size: 109 ,118
+  orig: 109 ,118
+  offset: 0,0
+  index: -1
+6
+  rotate: false
+  xy: 249 ,827
+  size: 112 ,119
+  orig: 112 ,119
+  offset: 0,0
+  index: -1

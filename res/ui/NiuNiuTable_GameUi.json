@@ -1,0 +1,1317 @@
+{
+  "ID": "ef7b40fb-fcf6-49b7-8fae-e5e87a4fd728",
+  "Version": "2.3.4",
+  "Name": "NiuNiuTable_GameUi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 381,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 130.9262,
+              "Y": 47.8997
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.1153,
+              "Y": 0.0748
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 130.9262,
+            "RightMargin": 1005.0738,
+            "TopMargin": 592.1003,
+            "BottomMargin": 47.8997,
+            "Tag": 579,
+            "ActionTag": -557331430,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_6",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "NiuNiuUserType1.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1022.4,
+              "Y": 175.296
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.9,
+              "Y": 0.2739
+            },
+            "PercentHeightEnable": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.1673,
+              "Y": 0.4
+            },
+            "LeftMargin": 1022.4,
+            "RightMargin": -76.3999,
+            "TopMargin": 208.704,
+            "BottomMargin": 175.296,
+            "Tag": 450,
+            "ActionTag": 362696989,
+            "Size": {
+              "X": 190.0,
+              "Y": 256.0
+            },
+            "Name": "UserNode1",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "NiuNiuUserType2.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 80.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0704,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.2188
+            },
+            "LeftMargin": 80.0,
+            "RightMargin": 856.0,
+            "TopMargin": 500.0,
+            "Tag": 433,
+            "ActionTag": -1952612111,
+            "Size": {
+              "X": 200.0,
+              "Y": 140.0
+            },
+            "Name": "UserNode0",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "NiuNiuUserType1.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1022.4,
+              "Y": 376.192
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.9,
+              "Y": 0.5878
+            },
+            "PreSize": {
+              "X": 0.0783,
+              "Y": 0.225
+            },
+            "LeftMargin": 1022.4,
+            "RightMargin": 24.6001,
+            "TopMargin": 119.808,
+            "BottomMargin": 376.192,
+            "Tag": 416,
+            "ActionTag": 848751585,
+            "Size": {
+              "X": 89.0,
+              "Y": 144.0
+            },
+            "Name": "UserNode2",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "NiuNiuUserType1.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 8.4064,
+              "Y": 376.192
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0074,
+              "Y": 0.5878
+            },
+            "PreSize": {
+              "X": 0.0783,
+              "Y": 0.225
+            },
+            "LeftMargin": 8.4064,
+            "RightMargin": 1038.5936,
+            "TopMargin": 119.808,
+            "BottomMargin": 376.192,
+            "Tag": 399,
+            "ActionTag": 1582100463,
+            "Size": {
+              "X": 89.0,
+              "Y": 144.0
+            },
+            "Name": "UserNode3",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "NiuNiuUserType1.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 11.36,
+              "Y": 175.296
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.01,
+              "Y": 0.2739
+            },
+            "PercentHeightEnable": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.1673,
+              "Y": 0.4
+            },
+            "LeftMargin": 11.36,
+            "RightMargin": 934.64,
+            "TopMargin": 208.704,
+            "BottomMargin": 175.296,
+            "Tag": 382,
+            "ActionTag": 1220970003,
+            "Size": {
+              "X": 190.0,
+              "Y": 256.0
+            },
+            "Name": "UserNode4",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 390.4
+            },
+            "Scale": {
+              "ScaleX": 1.1,
+              "ScaleY": 1.1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.61
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.0938
+            },
+            "LeftMargin": 468.0,
+            "RightMargin": 468.0,
+            "TopMargin": 219.6,
+            "BottomMargin": 360.4,
+            "Tag": 472,
+            "Children": [
+              {
+                "FontSize": 24,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuCells/niuniuPic/niuniuTablePic/bt_bet_1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 95,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -160.0,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.8,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.9667
+                },
+                "LeftMargin": -222.5,
+                "RightMargin": 297.5,
+                "TopMargin": 1.0,
+                "BottomMargin": 1.0,
+                "Tag": 473,
+                "ActionTag": 1272134615,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 58.0
+                },
+                "Name": "gamebets1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuCells/niuniuPic/niuniuTablePic/bt_bet_2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 95,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -30.0,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.15,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.9667
+                },
+                "LeftMargin": -92.5,
+                "RightMargin": 167.5,
+                "TopMargin": 1.0,
+                "BottomMargin": 1.0,
+                "Tag": 474,
+                "ActionTag": 622620341,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 58.0
+                },
+                "Name": "gamebets2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuCells/niuniuPic/niuniuTablePic/bt_bet_3.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 95,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 100.0,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.9667
+                },
+                "LeftMargin": 37.5,
+                "RightMargin": 37.5,
+                "TopMargin": 1.0,
+                "BottomMargin": 1.0,
+                "Tag": 475,
+                "ActionTag": -332319537,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 58.0
+                },
+                "Name": "gamebets3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuCells/niuniuPic/niuniuTablePic/bt_bet_4.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 95,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 230.0,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 1.15,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.9667
+                },
+                "LeftMargin": 167.5,
+                "RightMargin": -92.5,
+                "TopMargin": 1.0,
+                "BottomMargin": 1.0,
+                "Tag": 476,
+                "ActionTag": -949658334,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 58.0
+                },
+                "Name": "gamebets4",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuCells/niuniuPic/niuniuTablePic/bt_bet_5.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 95,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 360.0,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 1.8,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.9667
+                },
+                "LeftMargin": 297.5,
+                "RightMargin": -222.5,
+                "TopMargin": 1.0,
+                "BottomMargin": 1.0,
+                "Tag": 477,
+                "ActionTag": -68416123,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 58.0
+                },
+                "Name": "gamebets5",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1919070713,
+            "Size": {
+              "X": 200.0,
+              "Y": 60.0
+            },
+            "Name": "gamebets",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 48,
+            "ButtonText": "",
+            "TextColor": {
+              "G": 0,
+              "B": 0
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/inRoomSamePic/bt_start.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 198,
+            "Scale9Height": 73,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 256.0
+            },
+            "Scale": {
+              "ScaleX": 1.2,
+              "ScaleY": 1.2
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4
+            },
+            "PreSize": {
+              "X": 0.2007,
+              "Y": 0.1484
+            },
+            "LeftMargin": 454.0,
+            "RightMargin": 454.0,
+            "TopMargin": 336.5,
+            "BottomMargin": 208.5,
+            "Tag": 478,
+            "ActionTag": 1866240380,
+            "Size": {
+              "X": 228.0,
+              "Y": 95.0
+            },
+            "Name": "ready",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 36,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 128,
+              "G": 0,
+              "B": 128
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "niuniuCells/niuniuPic/niuniuTablePic/bt_Call0.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 142,
+            "Scale9Height": 45,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 454.4,
+              "Y": 224.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.4,
+              "Y": 0.35
+            },
+            "PreSize": {
+              "X": 0.1514,
+              "Y": 0.1047
+            },
+            "LeftMargin": 368.4,
+            "RightMargin": 595.6,
+            "TopMargin": 382.5,
+            "BottomMargin": 190.5,
+            "Tag": 479,
+            "ActionTag": 1114396355,
+            "Size": {
+              "X": 172.0,
+              "Y": 67.0
+            },
+            "Name": "buqiang",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 36,
+            "ButtonText": "",
+            "TextColor": {
+              "B": 0
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "niuniuCells/niuniuPic/niuniuTablePic/bt_Call1.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 142,
+            "Scale9Height": 45,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 681.6,
+              "Y": 224.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.6,
+              "Y": 0.35
+            },
+            "PreSize": {
+              "X": 0.1514,
+              "Y": 0.1047
+            },
+            "LeftMargin": 595.6,
+            "RightMargin": 368.4,
+            "TopMargin": 382.5,
+            "BottomMargin": 190.5,
+            "Tag": 480,
+            "ActionTag": 806356828,
+            "Size": {
+              "X": 172.0,
+              "Y": 67.0
+            },
+            "Name": "qiangzhuang",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 36,
+            "ButtonText": "",
+            "TextColor": {
+              "B": 0
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "niuniuCells/niuniuPic/niuniuTablePic/nn331_btn_tishi@2x.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 166,
+            "Scale9Height": 60,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 942.88,
+              "Y": 134.4
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.83,
+              "Y": 0.21
+            },
+            "PreSize": {
+              "X": 0.1725,
+              "Y": 0.1281
+            },
+            "LeftMargin": 844.88,
+            "RightMargin": 95.12,
+            "TopMargin": 464.6,
+            "BottomMargin": 93.4,
+            "Tag": 481,
+            "ActionTag": -1806156365,
+            "Size": {
+              "X": 196.0,
+              "Y": 82.0
+            },
+            "Name": "btn_tishi",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 48,
+            "ButtonText": "",
+            "TextColor": {
+              "B": 0
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "niuniuCells/niuniuPic/niuniuTablePic/331_btn_meiniu@2x.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 166,
+            "Scale9Height": 59,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 942.88,
+              "Y": 57.6
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.83,
+              "Y": 0.09
+            },
+            "PreSize": {
+              "X": 0.1725,
+              "Y": 0.1266
+            },
+            "LeftMargin": 844.88,
+            "RightMargin": 95.12,
+            "TopMargin": 541.9,
+            "BottomMargin": 17.1,
+            "Tag": 482,
+            "ActionTag": -1208662204,
+            "Size": {
+              "X": 196.0,
+              "Y": 81.0
+            },
+            "Name": "mingpai",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "niuniuCells/niuniuPic/niuniuTablePic/nn331_jisuan_bg@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 256.0
+            },
+            "Scale": {
+              "ScaleX": 1.2,
+              "ScaleY": 1.2
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4
+            },
+            "PreSize": {
+              "X": 0.3222,
+              "Y": 0.1063
+            },
+            "LeftMargin": 385.0,
+            "RightMargin": 385.0,
+            "TopMargin": 350.0,
+            "BottomMargin": 222.0,
+            "Tag": 485,
+            "Children": [
+              {
+                "FontSize": 28,
+                "LabelText": "101",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "R": 224,
+                  "G": 195,
+                  "B": 120
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 224,
+                  "G": 195,
+                  "B": 120
+                },
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": -0.5,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 43.1514,
+                  "Y": 35.3396
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 224,
+                  "G": 195,
+                  "B": 120
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1179,
+                  "Y": 0.5197
+                },
+                "PreSize": {
+                  "X": 0.1066,
+                  "Y": 0.5147
+                },
+                "LeftMargin": 23.6514,
+                "RightMargin": 303.3486,
+                "TopMargin": 15.1604,
+                "BottomMargin": 17.8396,
+                "Tag": 486,
+                "ActionTag": 1029407019,
+                "Size": {
+                  "X": 39.0,
+                  "Y": 35.0
+                },
+                "Name": "calculate_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "101",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "R": 224,
+                  "G": 195,
+                  "B": 120
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 224,
+                  "G": 195,
+                  "B": 120
+                },
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": -0.5,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 135.6762,
+                  "Y": 35.3396
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 224,
+                  "G": 195,
+                  "B": 120
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3707,
+                  "Y": 0.5197
+                },
+                "PreSize": {
+                  "X": 0.1066,
+                  "Y": 0.5147
+                },
+                "LeftMargin": 116.1762,
+                "RightMargin": 210.8238,
+                "TopMargin": 15.1604,
+                "BottomMargin": 17.8396,
+                "Tag": 487,
+                "ActionTag": 1571438376,
+                "Size": {
+                  "X": 39.0,
+                  "Y": 35.0
+                },
+                "Name": "calculate_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "101",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "R": 224,
+                  "G": 195,
+                  "B": 120
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 224,
+                  "G": 195,
+                  "B": 120
+                },
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": -0.5,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 231.0924,
+                  "Y": 35.3396
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 224,
+                  "G": 195,
+                  "B": 120
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6314,
+                  "Y": 0.5197
+                },
+                "PreSize": {
+                  "X": 0.1066,
+                  "Y": 0.5147
+                },
+                "LeftMargin": 211.5924,
+                "RightMargin": 115.4076,
+                "TopMargin": 15.1604,
+                "BottomMargin": 17.8396,
+                "Tag": 488,
+                "ActionTag": -1654293061,
+                "Size": {
+                  "X": 39.0,
+                  "Y": 35.0
+                },
+                "Name": "calculate_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "101",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "R": 224,
+                  "G": 195,
+                  "B": 120
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 224,
+                  "G": 195,
+                  "B": 120
+                },
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": -0.5,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 323.2146,
+                  "Y": 35.3396
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 224,
+                  "G": 195,
+                  "B": 120
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8831,
+                  "Y": 0.5197
+                },
+                "PreSize": {
+                  "X": 0.1066,
+                  "Y": 0.5147
+                },
+                "LeftMargin": 303.7146,
+                "RightMargin": 23.2854,
+                "TopMargin": 15.1604,
+                "BottomMargin": 17.8396,
+                "Tag": 489,
+                "ActionTag": 1347284631,
+                "Size": {
+                  "X": 39.0,
+                  "Y": 35.0
+                },
+                "Name": "calculate_3",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -305157225,
+            "Size": {
+              "X": 366.0,
+              "Y": 68.0
+            },
+            "Name": "calculate_card",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/inRoomSamePic/bt_start.png",
+        "Font/FZY4JW_0569.TTF",
+        "niuniuCells/niuniuPic/niuniuTablePic/331_btn_meiniu@2x.png",
+        "niuniuCells/niuniuPic/niuniuTablePic/bt_bet_1.png",
+        "niuniuCells/niuniuPic/niuniuTablePic/bt_bet_2.png",
+        "niuniuCells/niuniuPic/niuniuTablePic/bt_bet_3.png",
+        "niuniuCells/niuniuPic/niuniuTablePic/bt_bet_4.png",
+        "niuniuCells/niuniuPic/niuniuTablePic/bt_bet_5.png",
+        "niuniuCells/niuniuPic/niuniuTablePic/bt_Call0.png",
+        "niuniuCells/niuniuPic/niuniuTablePic/bt_Call1.png",
+        "niuniuCells/niuniuPic/niuniuTablePic/nn331_btn_tishi@2x.png",
+        "niuniuCells/niuniuPic/niuniuTablePic/nn331_jisuan_bg@2x.png",
+        "NiuNiuUserType1.json",
+        "NiuNiuUserType2.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

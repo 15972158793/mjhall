@@ -1,0 +1,31 @@
+{
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "1", "bone": "root", "attachment": "3" }
+],
+"skins": {
+	"default": {
+		"1": {
+			"1": { "width": 67, "height": 67 },
+			"2": { "width": 67, "height": 67 },
+			"3": { "width": 67, "height": 67 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"1": {
+				"attachment": [
+					{ "time": 0, "name": "1" },
+					{ "time": 0.1666, "name": "2" },
+					{ "time": 0.3333, "name": "3" },
+					{ "time": 0.4666, "name": "3" }
+				]
+			}
+		}
+	}
+}
+}

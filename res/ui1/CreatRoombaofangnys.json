@@ -1,0 +1,2241 @@
+{
+  "ID": "8ede5915-7aac-417f-bee4-82ce1b46e424",
+  "Version": "2.3.4",
+  "Name": "CreatRoombaofangnys",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 8,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -374,
+            "Scale9OriginY": -211,
+            "Scale9Width": 748,
+            "Scale9Height": 422,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 157,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldres/baofang/yyjp_bg_create@2x_bf.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 26,
+                "Scale9OriginY": 25,
+                "Scale9Width": 1084,
+                "Scale9Height": 590,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 156,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "goldres/baofang/yyjp_btn_create2_bf.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 202,
+                    "Scale9Height": 52,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 681.6,
+                      "Y": 64.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.6,
+                      "Y": 0.1
+                    },
+                    "PreSize": {
+                      "X": 0.2042,
+                      "Y": 0.1156
+                    },
+                    "LeftMargin": 565.6,
+                    "RightMargin": 338.4,
+                    "TopMargin": 539.0,
+                    "BottomMargin": 27.0,
+                    "Tag": 12,
+                    "ActionTag": -438967199,
+                    "Size": {
+                      "X": 232.0,
+                      "Y": 74.0
+                    },
+                    "Name": "okBtn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/jxnn_btn_close@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 43,
+                    "Scale9Height": 44,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1091.9232,
+                      "Y": 590.912
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.9612,
+                      "Y": 0.9233
+                    },
+                    "PreSize": {
+                      "X": 0.0572,
+                      "Y": 0.1031
+                    },
+                    "LeftMargin": 1059.4232,
+                    "RightMargin": 11.5768,
+                    "TopMargin": 16.088,
+                    "BottomMargin": 557.912,
+                    "Tag": 10,
+                    "ActionTag": -393543459,
+                    "Size": {
+                      "X": 65.0,
+                      "Y": 66.0
+                    },
+                    "Name": "backBtn",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -1783238552,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 640.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 202,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 231,
+                    "Children": [
+                      {
+                        "ItemMargin": 8,
+                        "DirectionType": "Vertical",
+                        "IsBounceEnabled": true,
+                        "ScrollDirectionType": 0,
+                        "ClipAble": true,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {},
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 178.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.2781
+                        },
+                        "PreSize": {
+                          "X": 0.1901,
+                          "Y": 0.7031
+                        },
+                        "RightMargin": 920.0,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 178.0,
+                        "Tag": 232,
+                        "Children": [
+                          {
+                            "ClipAble": false,
+                            "BackColorAlpha": 0,
+                            "SingleColor": {
+                              "R": 150,
+                              "G": 200
+                            },
+                            "FirstColor": {
+                              "R": 150,
+                              "G": 200
+                            },
+                            "EndColor": {},
+                            "ColorVector": {
+                              "ScaleY": 1.0
+                            },
+                            "Scale9Width": 1,
+                            "Scale9Height": 1,
+                            "TouchEnable": true,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 359.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.7978
+                            },
+                            "PreSize": {
+                              "X": 0.9907,
+                              "Y": 0.2022
+                            },
+                            "RightMargin": 2.0,
+                            "BottomMargin": 359.0,
+                            "Tag": 253,
+                            "Children": [
+                              {
+                                "FileData": {
+                                  "Type": "Normal",
+                                  "Path": "commonCells/commonPic/createPic/goldCreate/yyjb_btn_tb2@2x.png",
+                                  "Plist": ""
+                                },
+                                "Scale9OriginX": 70,
+                                "Scale9OriginY": 19,
+                                "Scale9Width": 74,
+                                "Scale9Height": 53,
+                                "AnchorPoint": {},
+                                "Position": {
+                                  "X": 0.0,
+                                  "Y": 0.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.0,
+                                  "Y": 0.0
+                                },
+                                "PreSize": {
+                                  "X": 1.0,
+                                  "Y": 1.0
+                                },
+                                "Tag": 254,
+                                "Children": [
+                                  {
+                                    "FileData": {
+                                      "Type": "Normal",
+                                      "Path": "goldres/baofang/yyjp_img_bxwf@2x_bf.png",
+                                      "Plist": ""
+                                    },
+                                    "Scale9OriginX": 24,
+                                    "Scale9OriginY": 12,
+                                    "Scale9Width": 78,
+                                    "Scale9Height": 6,
+                                    "AnchorPoint": {
+                                      "ScaleX": 0.5,
+                                      "ScaleY": 0.5
+                                    },
+                                    "Position": {
+                                      "X": 107.0,
+                                      "Y": 45.5
+                                    },
+                                    "Scale": {
+                                      "ScaleX": 1.0,
+                                      "ScaleY": 1.0
+                                    },
+                                    "CColor": {},
+                                    "IconVisible": false,
+                                    "PositionPercentXEnabled": true,
+                                    "PositionPercentYEnabled": true,
+                                    "PrePosition": {
+                                      "X": 0.5,
+                                      "Y": 0.5
+                                    },
+                                    "PreSize": {
+                                      "X": 0.5888,
+                                      "Y": 0.3297
+                                    },
+                                    "LeftMargin": 44.0,
+                                    "RightMargin": 44.0,
+                                    "TopMargin": 30.5,
+                                    "BottomMargin": 30.5,
+                                    "Tag": 255,
+                                    "ActionTag": 673364204,
+                                    "Size": {
+                                      "X": 126.0,
+                                      "Y": 30.0
+                                    },
+                                    "Name": "im_sdb",
+                                    "ctype": "ImageViewObjectData"
+                                  }
+                                ],
+                                "ActionTag": -1044893331,
+                                "Size": {
+                                  "X": 214.0,
+                                  "Y": 91.0
+                                },
+                                "Name": "tb_normal",
+                                "ctype": "ImageViewObjectData"
+                              },
+                              {
+                                "FileData": {
+                                  "Type": "Normal",
+                                  "Path": "commonCells/commonPic/createPic/goldCreate/yyjb_btn_tb1@2x.png",
+                                  "Plist": ""
+                                },
+                                "Scale9OriginX": 41,
+                                "Scale9OriginY": 19,
+                                "Scale9Width": 132,
+                                "Scale9Height": 52,
+                                "AnchorPoint": {},
+                                "Position": {
+                                  "X": 0.0,
+                                  "Y": 0.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.0,
+                                  "Y": 0.0
+                                },
+                                "PreSize": {
+                                  "X": 1.0,
+                                  "Y": 0.989
+                                },
+                                "TopMargin": 1.0,
+                                "Tag": 256,
+                                "Children": [
+                                  {
+                                    "FileData": {
+                                      "Type": "Normal",
+                                      "Path": "goldres/baofang/yyjp_img_bxwf@2x_bf.png",
+                                      "Plist": ""
+                                    },
+                                    "Scale9OriginX": 24,
+                                    "Scale9OriginY": 12,
+                                    "Scale9Width": 78,
+                                    "Scale9Height": 6,
+                                    "AnchorPoint": {
+                                      "ScaleX": 0.5,
+                                      "ScaleY": 0.5
+                                    },
+                                    "Position": {
+                                      "X": 107.0,
+                                      "Y": 45.0
+                                    },
+                                    "Scale": {
+                                      "ScaleX": 1.0,
+                                      "ScaleY": 1.0
+                                    },
+                                    "CColor": {},
+                                    "IconVisible": false,
+                                    "PositionPercentXEnabled": true,
+                                    "PositionPercentYEnabled": true,
+                                    "PrePosition": {
+                                      "X": 0.5,
+                                      "Y": 0.5
+                                    },
+                                    "PreSize": {
+                                      "X": 0.5888,
+                                      "Y": 0.3333
+                                    },
+                                    "LeftMargin": 44.0,
+                                    "RightMargin": 44.0,
+                                    "TopMargin": 30.0,
+                                    "BottomMargin": 30.0,
+                                    "Tag": 257,
+                                    "ActionTag": -829688310,
+                                    "Size": {
+                                      "X": 126.0,
+                                      "Y": 30.0
+                                    },
+                                    "Name": "im_sdb",
+                                    "ctype": "ImageViewObjectData"
+                                  }
+                                ],
+                                "ActionTag": -193300297,
+                                "Size": {
+                                  "X": 214.0,
+                                  "Y": 90.0
+                                },
+                                "Name": "tb_select",
+                                "ctype": "ImageViewObjectData"
+                              }
+                            ],
+                            "ActionTag": 1412872553,
+                            "Size": {
+                              "X": 214.0,
+                              "Y": 91.0
+                            },
+                            "Name": "Panel_3_3",
+                            "ctype": "PanelObjectData"
+                          }
+                        ],
+                        "ActionTag": -1173864045,
+                        "Size": {
+                          "X": 216.0,
+                          "Y": 450.0
+                        },
+                        "Name": "ListView_1",
+                        "ctype": "ListViewObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 375,
+                        "Children": [
+                          {
+                            "ClipAble": false,
+                            "BackColorAlpha": 0,
+                            "ComboBoxIndex": 1,
+                            "SingleColor": {
+                              "R": 150,
+                              "G": 200
+                            },
+                            "FirstColor": {
+                              "R": 150,
+                              "G": 200
+                            },
+                            "EndColor": {},
+                            "ColorVector": {
+                              "ScaleY": 1.0
+                            },
+                            "Scale9Width": 1,
+                            "Scale9Height": 1,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.1761,
+                              "Y": 0.3125
+                            },
+                            "RightMargin": 936.0,
+                            "TopMargin": 440.0,
+                            "Tag": 516,
+                            "Children": [
+                              {
+                                "FileData": {
+                                  "Type": "Normal",
+                                  "Path": "goldres/baofang/yyjp_img_wf@2x_bf.png",
+                                  "Plist": ""
+                                },
+                                "BlendFunc": {
+                                  "Src": 1,
+                                  "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                  "X": 244.9998,
+                                  "Y": 519.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 1.225,
+                                  "Y": 2.595
+                                },
+                                "PreSize": {
+                                  "X": 0.69,
+                                  "Y": 0.14
+                                },
+                                "LeftMargin": 244.9998,
+                                "RightMargin": -182.9998,
+                                "TopMargin": -347.0,
+                                "BottomMargin": 519.0,
+                                "Tag": 4432,
+                                "Children": [
+                                  {
+                                    "FontSize": 14,
+                                    "ButtonText": "",
+                                    "TextColor": {
+                                      "R": 65,
+                                      "G": 65,
+                                      "B": 70
+                                    },
+                                    "Scale9Enable": true,
+                                    "Scale9OriginX": -15,
+                                    "Scale9OriginY": -11,
+                                    "Scale9Width": 30,
+                                    "Scale9Height": 22,
+                                    "OutlineColor": {
+                                      "G": 0,
+                                      "B": 0
+                                    },
+                                    "ShadowColor": {
+                                      "R": 110,
+                                      "G": 110,
+                                      "B": 110
+                                    },
+                                    "ShadowOffsetX": 2.0,
+                                    "ShadowOffsetY": -2.0,
+                                    "TouchEnable": true,
+                                    "AnchorPoint": {
+                                      "ScaleX": 0.5,
+                                      "ScaleY": 0.5
+                                    },
+                                    "Position": {
+                                      "X": 196.0,
+                                      "Y": 10.0
+                                    },
+                                    "Scale": {
+                                      "ScaleX": 1.0,
+                                      "ScaleY": 1.0
+                                    },
+                                    "CColor": {},
+                                    "IconVisible": false,
+                                    "PrePosition": {
+                                      "X": 1.4203,
+                                      "Y": 0.3571
+                                    },
+                                    "PreSize": {
+                                      "X": 0.7246,
+                                      "Y": 1.7857
+                                    },
+                                    "LeftMargin": 146.0,
+                                    "RightMargin": -108.0,
+                                    "TopMargin": -7.0,
+                                    "BottomMargin": -15.0,
+                                    "Children": [
+                                      {
+                                        "CheckedState": true,
+                                        "NormalBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "PressedBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "NodeNormalFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb1@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                          "ScaleX": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 35.0,
+                                          "Y": 6.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.35,
+                                          "Y": 0.12
+                                        },
+                                        "PreSize": {
+                                          "X": 0.42,
+                                          "Y": 0.88
+                                        },
+                                        "LeftMargin": 14.0,
+                                        "RightMargin": 44.0,
+                                        "BottomMargin": 6.0,
+                                        "Tag": 4952,
+                                        "ActionTag": 1889224953,
+                                        "Size": {
+                                          "X": 42.0,
+                                          "Y": 44.0
+                                        },
+                                        "Name": "Check",
+                                        "ctype": "CheckBoxObjectData"
+                                      },
+                                      {
+                                        "FontSize": 24,
+                                        "LabelText": "看牌抢庄",
+                                        "FontResource": {
+                                          "Type": "Normal",
+                                          "Path": "Font/FZY4JW_0569.TTF",
+                                          "Plist": ""
+                                        },
+                                        "OutlineColor": {
+                                          "G": 0,
+                                          "B": 0
+                                        },
+                                        "ShadowColor": {
+                                          "R": 110,
+                                          "G": 110,
+                                          "B": 110
+                                        },
+                                        "ShadowOffsetX": 2.0,
+                                        "ShadowOffsetY": -2.0,
+                                        "AnchorPoint": {
+                                          "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 62.0,
+                                          "Y": 26.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.62,
+                                          "Y": 0.52
+                                        },
+                                        "PreSize": {
+                                          "X": 0.98,
+                                          "Y": 0.56
+                                        },
+                                        "LeftMargin": 62.0,
+                                        "RightMargin": -60.0,
+                                        "TopMargin": 10.0,
+                                        "BottomMargin": 12.0,
+                                        "Tag": 4953,
+                                        "ActionTag": 103527374,
+                                        "Size": {
+                                          "X": 98.0,
+                                          "Y": 28.0
+                                        },
+                                        "Name": "TextLabel",
+                                        "ctype": "TextObjectData"
+                                      }
+                                    ],
+                                    "ActionTag": -968515624,
+                                    "Size": {
+                                      "X": 100.0,
+                                      "Y": 50.0
+                                    },
+                                    "Name": "checkBtn",
+                                    "ctype": "ButtonObjectData"
+                                  },
+                                  {
+                                    "FontSize": 14,
+                                    "ButtonText": "",
+                                    "TextColor": {
+                                      "R": 65,
+                                      "G": 65,
+                                      "B": 70
+                                    },
+                                    "Scale9Enable": true,
+                                    "Scale9OriginX": -15,
+                                    "Scale9OriginY": -11,
+                                    "Scale9Width": 30,
+                                    "Scale9Height": 22,
+                                    "OutlineColor": {
+                                      "G": 0,
+                                      "B": 0
+                                    },
+                                    "ShadowColor": {
+                                      "R": 110,
+                                      "G": 110,
+                                      "B": 110
+                                    },
+                                    "ShadowOffsetX": 2.0,
+                                    "ShadowOffsetY": -2.0,
+                                    "TouchEnable": true,
+                                    "AnchorPoint": {
+                                      "ScaleX": 0.5,
+                                      "ScaleY": 0.5
+                                    },
+                                    "Position": {
+                                      "X": 407.01,
+                                      "Y": 9.9976
+                                    },
+                                    "Scale": {
+                                      "ScaleX": 1.0,
+                                      "ScaleY": 1.0
+                                    },
+                                    "CColor": {},
+                                    "IconVisible": false,
+                                    "PrePosition": {
+                                      "X": 2.9493,
+                                      "Y": 0.3571
+                                    },
+                                    "PreSize": {
+                                      "X": 0.7246,
+                                      "Y": 1.7857
+                                    },
+                                    "LeftMargin": 357.01,
+                                    "RightMargin": -319.01,
+                                    "TopMargin": -6.9976,
+                                    "BottomMargin": -15.0024,
+                                    "Children": [
+                                      {
+                                        "CheckedState": true,
+                                        "NormalBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "PressedBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "NodeNormalFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb1@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                          "ScaleX": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 35.0,
+                                          "Y": 6.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.35,
+                                          "Y": 0.12
+                                        },
+                                        "PreSize": {
+                                          "X": 0.42,
+                                          "Y": 0.88
+                                        },
+                                        "LeftMargin": 14.0,
+                                        "RightMargin": 44.0,
+                                        "BottomMargin": 6.0,
+                                        "Tag": 4955,
+                                        "ActionTag": 1032341078,
+                                        "Size": {
+                                          "X": 42.0,
+                                          "Y": 44.0
+                                        },
+                                        "Name": "Check",
+                                        "ctype": "CheckBoxObjectData"
+                                      },
+                                      {
+                                        "FontSize": 24,
+                                        "LabelText": "自由抢庄",
+                                        "FontResource": {
+                                          "Type": "Normal",
+                                          "Path": "Font/FZY4JW_0569.TTF",
+                                          "Plist": ""
+                                        },
+                                        "OutlineColor": {
+                                          "G": 0,
+                                          "B": 0
+                                        },
+                                        "ShadowColor": {
+                                          "R": 110,
+                                          "G": 110,
+                                          "B": 110
+                                        },
+                                        "ShadowOffsetX": 2.0,
+                                        "ShadowOffsetY": -2.0,
+                                        "AnchorPoint": {
+                                          "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 62.0,
+                                          "Y": 26.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.62,
+                                          "Y": 0.52
+                                        },
+                                        "PreSize": {
+                                          "X": 0.98,
+                                          "Y": 0.56
+                                        },
+                                        "LeftMargin": 62.0,
+                                        "RightMargin": -60.0,
+                                        "TopMargin": 10.0,
+                                        "BottomMargin": 12.0,
+                                        "Tag": 4956,
+                                        "ActionTag": -1403335104,
+                                        "Size": {
+                                          "X": 98.0,
+                                          "Y": 28.0
+                                        },
+                                        "Name": "TextLabel",
+                                        "ctype": "TextObjectData"
+                                      }
+                                    ],
+                                    "ActionTag": -1042712754,
+                                    "Size": {
+                                      "X": 100.0,
+                                      "Y": 50.0
+                                    },
+                                    "Name": "checkBtn",
+                                    "ctype": "ButtonObjectData"
+                                  },
+                                  {
+                                    "FontSize": 14,
+                                    "ButtonText": "",
+                                    "TextColor": {
+                                      "R": 65,
+                                      "G": 65,
+                                      "B": 70
+                                    },
+                                    "Scale9Enable": true,
+                                    "Scale9OriginX": -15,
+                                    "Scale9OriginY": -11,
+                                    "Scale9Width": 30,
+                                    "Scale9Height": 22,
+                                    "OutlineColor": {
+                                      "G": 0,
+                                      "B": 0
+                                    },
+                                    "ShadowColor": {
+                                      "R": 110,
+                                      "G": 110,
+                                      "B": 110
+                                    },
+                                    "ShadowOffsetX": 2.0,
+                                    "ShadowOffsetY": -2.0,
+                                    "TouchEnable": true,
+                                    "AnchorPoint": {
+                                      "ScaleX": 0.5,
+                                      "ScaleY": 0.5
+                                    },
+                                    "Position": {
+                                      "X": 595.82,
+                                      "Y": 10.0
+                                    },
+                                    "Scale": {
+                                      "ScaleX": 1.0,
+                                      "ScaleY": 1.0
+                                    },
+                                    "CColor": {},
+                                    "IconVisible": false,
+                                    "PrePosition": {
+                                      "X": 4.3175,
+                                      "Y": 0.3571
+                                    },
+                                    "PreSize": {
+                                      "X": 0.7246,
+                                      "Y": 1.7857
+                                    },
+                                    "LeftMargin": 545.82,
+                                    "RightMargin": -507.82,
+                                    "TopMargin": -7.0,
+                                    "BottomMargin": -15.0,
+                                    "Children": [
+                                      {
+                                        "CheckedState": true,
+                                        "NormalBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "PressedBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "NodeNormalFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb1@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                          "ScaleX": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 35.0,
+                                          "Y": 6.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.35,
+                                          "Y": 0.12
+                                        },
+                                        "PreSize": {
+                                          "X": 0.42,
+                                          "Y": 0.88
+                                        },
+                                        "LeftMargin": 14.0,
+                                        "RightMargin": 44.0,
+                                        "BottomMargin": 6.0,
+                                        "Tag": 287,
+                                        "ActionTag": 484614280,
+                                        "Size": {
+                                          "X": 42.0,
+                                          "Y": 44.0
+                                        },
+                                        "Name": "Check",
+                                        "ctype": "CheckBoxObjectData"
+                                      },
+                                      {
+                                        "FontSize": 24,
+                                        "LabelText": "八人明牌",
+                                        "FontResource": {
+                                          "Type": "Normal",
+                                          "Path": "Font/FZY4JW_0569.TTF",
+                                          "Plist": ""
+                                        },
+                                        "OutlineColor": {
+                                          "G": 0,
+                                          "B": 0
+                                        },
+                                        "ShadowColor": {
+                                          "R": 110,
+                                          "G": 110,
+                                          "B": 110
+                                        },
+                                        "ShadowOffsetX": 2.0,
+                                        "ShadowOffsetY": -2.0,
+                                        "AnchorPoint": {
+                                          "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 62.0,
+                                          "Y": 26.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.62,
+                                          "Y": 0.52
+                                        },
+                                        "PreSize": {
+                                          "X": 0.99,
+                                          "Y": 0.56
+                                        },
+                                        "LeftMargin": 62.0,
+                                        "RightMargin": -61.0,
+                                        "TopMargin": 10.0,
+                                        "BottomMargin": 12.0,
+                                        "Tag": 288,
+                                        "ActionTag": -1710581409,
+                                        "Size": {
+                                          "X": 99.0,
+                                          "Y": 28.0
+                                        },
+                                        "Name": "TextLabel",
+                                        "ctype": "TextObjectData"
+                                      }
+                                    ],
+                                    "ActionTag": 1124990700,
+                                    "Size": {
+                                      "X": 100.0,
+                                      "Y": 50.0
+                                    },
+                                    "Name": "checkBtn",
+                                    "ctype": "ButtonObjectData"
+                                  },
+                                  {
+                                    "FileData": {
+                                      "Type": "Normal",
+                                      "Path": "commonCells/commonPic/createPic/yypk_img_fenlan@2x.png",
+                                      "Plist": ""
+                                    },
+                                    "Scale9OriginX": 266,
+                                    "Scale9Width": 276,
+                                    "Scale9Height": 3,
+                                    "AnchorPoint": {
+                                      "ScaleX": 0.5,
+                                      "ScaleY": 0.5
+                                    },
+                                    "Position": {
+                                      "X": 402.0,
+                                      "Y": -69.0
+                                    },
+                                    "Scale": {
+                                      "ScaleX": 1.0,
+                                      "ScaleY": 1.0
+                                    },
+                                    "CColor": {},
+                                    "IconVisible": false,
+                                    "PrePosition": {
+                                      "X": 2.913,
+                                      "Y": -2.4643
+                                    },
+                                    "PreSize": {
+                                      "X": 5.8551,
+                                      "Y": 0.1071
+                                    },
+                                    "VerticalEdge": "TopEdge",
+                                    "LeftMargin": -2.0,
+                                    "RightMargin": -668.0,
+                                    "TopMargin": 95.5,
+                                    "BottomMargin": -70.5,
+                                    "Tag": 4958,
+                                    "ActionTag": -1111851843,
+                                    "Size": {
+                                      "X": 808.0,
+                                      "Y": 3.0
+                                    },
+                                    "Name": "Image_23",
+                                    "ctype": "ImageViewObjectData"
+                                  }
+                                ],
+                                "ActionTag": -1916957085,
+                                "Size": {
+                                  "X": 138.0,
+                                  "Y": 28.0
+                                },
+                                "Name": "item",
+                                "ctype": "SpriteObjectData"
+                              },
+                              {
+                                "FileData": {
+                                  "Type": "Normal",
+                                  "Path": "goldres/baofang/yyjp_img_df@2x_bf.png",
+                                  "Plist": ""
+                                },
+                                "BlendFunc": {
+                                  "Src": 1,
+                                  "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                  "X": 245.0,
+                                  "Y": 354.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 1.225,
+                                  "Y": 1.77
+                                },
+                                "PreSize": {
+                                  "X": 0.69,
+                                  "Y": 0.14
+                                },
+                                "LeftMargin": 245.0,
+                                "RightMargin": -183.0,
+                                "TopMargin": -182.0,
+                                "BottomMargin": 354.0,
+                                "Tag": 4915,
+                                "Children": [
+                                  {
+                                    "FontSize": 14,
+                                    "ButtonText": "",
+                                    "TextColor": {
+                                      "R": 65,
+                                      "G": 65,
+                                      "B": 70
+                                    },
+                                    "Scale9Enable": true,
+                                    "Scale9OriginX": -15,
+                                    "Scale9OriginY": -11,
+                                    "Scale9Width": 30,
+                                    "Scale9Height": 22,
+                                    "OutlineColor": {
+                                      "G": 0,
+                                      "B": 0
+                                    },
+                                    "ShadowColor": {
+                                      "R": 110,
+                                      "G": 110,
+                                      "B": 110
+                                    },
+                                    "ShadowOffsetX": 2.0,
+                                    "ShadowOffsetY": -2.0,
+                                    "TouchEnable": true,
+                                    "AnchorPoint": {
+                                      "ScaleX": 0.5,
+                                      "ScaleY": 0.5
+                                    },
+                                    "Position": {
+                                      "X": 196.0,
+                                      "Y": 10.0
+                                    },
+                                    "Scale": {
+                                      "ScaleX": 1.0,
+                                      "ScaleY": 1.0
+                                    },
+                                    "CColor": {},
+                                    "IconVisible": false,
+                                    "PrePosition": {
+                                      "X": 1.4203,
+                                      "Y": 0.3571
+                                    },
+                                    "PreSize": {
+                                      "X": 0.7246,
+                                      "Y": 1.7857
+                                    },
+                                    "LeftMargin": 146.0,
+                                    "RightMargin": -108.0,
+                                    "TopMargin": -7.0,
+                                    "BottomMargin": -15.0,
+                                    "Children": [
+                                      {
+                                        "CheckedState": true,
+                                        "NormalBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "PressedBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "NodeNormalFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb1@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                          "ScaleX": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 35.0,
+                                          "Y": 6.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.35,
+                                          "Y": 0.12
+                                        },
+                                        "PreSize": {
+                                          "X": 0.42,
+                                          "Y": 0.88
+                                        },
+                                        "LeftMargin": 14.0,
+                                        "RightMargin": 44.0,
+                                        "BottomMargin": 6.0,
+                                        "Tag": 4917,
+                                        "ActionTag": 1827063377,
+                                        "Size": {
+                                          "X": 42.0,
+                                          "Y": 44.0
+                                        },
+                                        "Name": "Check",
+                                        "ctype": "CheckBoxObjectData"
+                                      },
+                                      {
+                                        "FontSize": 24,
+                                        "LabelText": "50  ",
+                                        "FontResource": {
+                                          "Type": "Normal",
+                                          "Path": "Font/FZY4JW_0569.TTF",
+                                          "Plist": ""
+                                        },
+                                        "OutlineColor": {
+                                          "G": 0,
+                                          "B": 0
+                                        },
+                                        "ShadowColor": {
+                                          "R": 110,
+                                          "G": 110,
+                                          "B": 110
+                                        },
+                                        "ShadowOffsetX": 2.0,
+                                        "ShadowOffsetY": -2.0,
+                                        "AnchorPoint": {
+                                          "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 62.0,
+                                          "Y": 26.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.62,
+                                          "Y": 0.52
+                                        },
+                                        "PreSize": {
+                                          "X": 0.34,
+                                          "Y": 0.56
+                                        },
+                                        "LeftMargin": 62.0,
+                                        "RightMargin": 4.0,
+                                        "TopMargin": 10.0,
+                                        "BottomMargin": 12.0,
+                                        "Tag": 4918,
+                                        "ActionTag": -758796412,
+                                        "Size": {
+                                          "X": 34.0,
+                                          "Y": 28.0
+                                        },
+                                        "Name": "TextLabel",
+                                        "ctype": "TextObjectData"
+                                      }
+                                    ],
+                                    "ActionTag": 1951907459,
+                                    "Size": {
+                                      "X": 100.0,
+                                      "Y": 50.0
+                                    },
+                                    "Name": "checkBtn",
+                                    "ctype": "ButtonObjectData"
+                                  },
+                                  {
+                                    "FontSize": 14,
+                                    "ButtonText": "",
+                                    "TextColor": {
+                                      "R": 65,
+                                      "G": 65,
+                                      "B": 70
+                                    },
+                                    "Scale9Enable": true,
+                                    "Scale9OriginX": -15,
+                                    "Scale9OriginY": -11,
+                                    "Scale9Width": 30,
+                                    "Scale9Height": 22,
+                                    "OutlineColor": {
+                                      "G": 0,
+                                      "B": 0
+                                    },
+                                    "ShadowColor": {
+                                      "R": 110,
+                                      "G": 110,
+                                      "B": 110
+                                    },
+                                    "ShadowOffsetX": 2.0,
+                                    "ShadowOffsetY": -2.0,
+                                    "TouchEnable": true,
+                                    "AnchorPoint": {
+                                      "ScaleX": 0.5,
+                                      "ScaleY": 0.5
+                                    },
+                                    "Position": {
+                                      "X": 316.0,
+                                      "Y": 10.0
+                                    },
+                                    "Scale": {
+                                      "ScaleX": 1.0,
+                                      "ScaleY": 1.0
+                                    },
+                                    "CColor": {},
+                                    "IconVisible": false,
+                                    "PrePosition": {
+                                      "X": 2.2899,
+                                      "Y": 0.3571
+                                    },
+                                    "PreSize": {
+                                      "X": 0.7246,
+                                      "Y": 1.7857
+                                    },
+                                    "LeftMargin": 266.0,
+                                    "RightMargin": -228.0,
+                                    "TopMargin": -7.0,
+                                    "BottomMargin": -15.0,
+                                    "Children": [
+                                      {
+                                        "CheckedState": true,
+                                        "NormalBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "PressedBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "NodeNormalFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb1@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                          "ScaleX": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 35.0,
+                                          "Y": 6.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.35,
+                                          "Y": 0.12
+                                        },
+                                        "PreSize": {
+                                          "X": 0.42,
+                                          "Y": 0.88
+                                        },
+                                        "LeftMargin": 14.0,
+                                        "RightMargin": 44.0,
+                                        "BottomMargin": 6.0,
+                                        "Tag": 4920,
+                                        "ActionTag": 1505306277,
+                                        "Size": {
+                                          "X": 42.0,
+                                          "Y": 44.0
+                                        },
+                                        "Name": "Check",
+                                        "ctype": "CheckBoxObjectData"
+                                      },
+                                      {
+                                        "FontSize": 24,
+                                        "LabelText": "100  ",
+                                        "FontResource": {
+                                          "Type": "Normal",
+                                          "Path": "Font/FZY4JW_0569.TTF",
+                                          "Plist": ""
+                                        },
+                                        "OutlineColor": {
+                                          "G": 0,
+                                          "B": 0
+                                        },
+                                        "ShadowColor": {
+                                          "R": 110,
+                                          "G": 110,
+                                          "B": 110
+                                        },
+                                        "ShadowOffsetX": 2.0,
+                                        "ShadowOffsetY": -2.0,
+                                        "AnchorPoint": {
+                                          "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 62.0,
+                                          "Y": 26.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.62,
+                                          "Y": 0.52
+                                        },
+                                        "PreSize": {
+                                          "X": 0.43,
+                                          "Y": 0.56
+                                        },
+                                        "LeftMargin": 62.0,
+                                        "RightMargin": -5.0,
+                                        "TopMargin": 10.0,
+                                        "BottomMargin": 12.0,
+                                        "Tag": 4921,
+                                        "ActionTag": -427662709,
+                                        "Size": {
+                                          "X": 43.0,
+                                          "Y": 28.0
+                                        },
+                                        "Name": "TextLabel",
+                                        "ctype": "TextObjectData"
+                                      }
+                                    ],
+                                    "ActionTag": -928183298,
+                                    "Size": {
+                                      "X": 100.0,
+                                      "Y": 50.0
+                                    },
+                                    "Name": "checkBtn",
+                                    "ctype": "ButtonObjectData"
+                                  },
+                                  {
+                                    "FontSize": 14,
+                                    "ButtonText": "",
+                                    "TextColor": {
+                                      "R": 65,
+                                      "G": 65,
+                                      "B": 70
+                                    },
+                                    "Scale9Enable": true,
+                                    "Scale9OriginX": -15,
+                                    "Scale9OriginY": -11,
+                                    "Scale9Width": 30,
+                                    "Scale9Height": 22,
+                                    "OutlineColor": {
+                                      "G": 0,
+                                      "B": 0
+                                    },
+                                    "ShadowColor": {
+                                      "R": 110,
+                                      "G": 110,
+                                      "B": 110
+                                    },
+                                    "ShadowOffsetX": 2.0,
+                                    "ShadowOffsetY": -2.0,
+                                    "TouchEnable": true,
+                                    "AnchorPoint": {
+                                      "ScaleX": 0.5,
+                                      "ScaleY": 0.5
+                                    },
+                                    "Position": {
+                                      "X": 436.0,
+                                      "Y": 10.0
+                                    },
+                                    "Scale": {
+                                      "ScaleX": 1.0,
+                                      "ScaleY": 1.0
+                                    },
+                                    "CColor": {},
+                                    "IconVisible": false,
+                                    "PrePosition": {
+                                      "X": 3.1594,
+                                      "Y": 0.3571
+                                    },
+                                    "PreSize": {
+                                      "X": 0.7246,
+                                      "Y": 1.7857
+                                    },
+                                    "LeftMargin": 386.0,
+                                    "RightMargin": -348.0,
+                                    "TopMargin": -7.0,
+                                    "BottomMargin": -15.0,
+                                    "Children": [
+                                      {
+                                        "CheckedState": true,
+                                        "NormalBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "PressedBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "NodeNormalFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb1@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                          "ScaleX": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 35.0,
+                                          "Y": 6.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.35,
+                                          "Y": 0.12
+                                        },
+                                        "PreSize": {
+                                          "X": 0.42,
+                                          "Y": 0.88
+                                        },
+                                        "LeftMargin": 14.0,
+                                        "RightMargin": 44.0,
+                                        "BottomMargin": 6.0,
+                                        "Tag": 4923,
+                                        "ActionTag": 2006259946,
+                                        "Size": {
+                                          "X": 42.0,
+                                          "Y": 44.0
+                                        },
+                                        "Name": "Check",
+                                        "ctype": "CheckBoxObjectData"
+                                      },
+                                      {
+                                        "FontSize": 24,
+                                        "LabelText": "200  ",
+                                        "FontResource": {
+                                          "Type": "Normal",
+                                          "Path": "Font/FZY4JW_0569.TTF",
+                                          "Plist": ""
+                                        },
+                                        "OutlineColor": {
+                                          "G": 0,
+                                          "B": 0
+                                        },
+                                        "ShadowColor": {
+                                          "R": 110,
+                                          "G": 110,
+                                          "B": 110
+                                        },
+                                        "ShadowOffsetX": 2.0,
+                                        "ShadowOffsetY": -2.0,
+                                        "AnchorPoint": {
+                                          "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 62.0,
+                                          "Y": 26.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.62,
+                                          "Y": 0.52
+                                        },
+                                        "PreSize": {
+                                          "X": 0.48,
+                                          "Y": 0.56
+                                        },
+                                        "LeftMargin": 62.0,
+                                        "RightMargin": -10.0,
+                                        "TopMargin": 10.0,
+                                        "BottomMargin": 12.0,
+                                        "Tag": 4924,
+                                        "ActionTag": -1833974634,
+                                        "Size": {
+                                          "X": 48.0,
+                                          "Y": 28.0
+                                        },
+                                        "Name": "TextLabel",
+                                        "ctype": "TextObjectData"
+                                      }
+                                    ],
+                                    "ActionTag": -1518028848,
+                                    "Size": {
+                                      "X": 100.0,
+                                      "Y": 50.0
+                                    },
+                                    "Name": "checkBtn",
+                                    "ctype": "ButtonObjectData"
+                                  },
+                                  {
+                                    "FontSize": 14,
+                                    "ButtonText": "",
+                                    "TextColor": {
+                                      "R": 65,
+                                      "G": 65,
+                                      "B": 70
+                                    },
+                                    "Scale9Enable": true,
+                                    "Scale9OriginX": -15,
+                                    "Scale9OriginY": -11,
+                                    "Scale9Width": 30,
+                                    "Scale9Height": 22,
+                                    "OutlineColor": {
+                                      "G": 0,
+                                      "B": 0
+                                    },
+                                    "ShadowColor": {
+                                      "R": 110,
+                                      "G": 110,
+                                      "B": 110
+                                    },
+                                    "ShadowOffsetX": 2.0,
+                                    "ShadowOffsetY": -2.0,
+                                    "TouchEnable": true,
+                                    "AnchorPoint": {
+                                      "ScaleX": 0.5,
+                                      "ScaleY": 0.5
+                                    },
+                                    "Position": {
+                                      "X": 576.0,
+                                      "Y": 10.0
+                                    },
+                                    "Scale": {
+                                      "ScaleX": 1.0,
+                                      "ScaleY": 1.0
+                                    },
+                                    "CColor": {},
+                                    "IconVisible": false,
+                                    "PrePosition": {
+                                      "X": 4.1739,
+                                      "Y": 0.3571
+                                    },
+                                    "PreSize": {
+                                      "X": 0.7246,
+                                      "Y": 1.7857
+                                    },
+                                    "LeftMargin": 526.0,
+                                    "RightMargin": -488.0,
+                                    "TopMargin": -7.0,
+                                    "BottomMargin": -15.0,
+                                    "Children": [
+                                      {
+                                        "CheckedState": true,
+                                        "NormalBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "PressedBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "NodeNormalFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb1@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                          "ScaleX": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 35.0,
+                                          "Y": 6.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.35,
+                                          "Y": 0.12
+                                        },
+                                        "PreSize": {
+                                          "X": 0.42,
+                                          "Y": 0.88
+                                        },
+                                        "LeftMargin": 14.0,
+                                        "RightMargin": 44.0,
+                                        "BottomMargin": 6.0,
+                                        "Tag": 4930,
+                                        "ActionTag": -1621128658,
+                                        "Size": {
+                                          "X": 42.0,
+                                          "Y": 44.0
+                                        },
+                                        "Name": "Check",
+                                        "ctype": "CheckBoxObjectData"
+                                      },
+                                      {
+                                        "FontSize": 24,
+                                        "LabelText": "300  ",
+                                        "FontResource": {
+                                          "Type": "Normal",
+                                          "Path": "Font/FZY4JW_0569.TTF",
+                                          "Plist": ""
+                                        },
+                                        "OutlineColor": {
+                                          "G": 0,
+                                          "B": 0
+                                        },
+                                        "ShadowColor": {
+                                          "R": 110,
+                                          "G": 110,
+                                          "B": 110
+                                        },
+                                        "ShadowOffsetX": 2.0,
+                                        "ShadowOffsetY": -2.0,
+                                        "AnchorPoint": {
+                                          "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 62.0,
+                                          "Y": 26.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.62,
+                                          "Y": 0.52
+                                        },
+                                        "PreSize": {
+                                          "X": 0.48,
+                                          "Y": 0.56
+                                        },
+                                        "LeftMargin": 62.0,
+                                        "RightMargin": -10.0,
+                                        "TopMargin": 10.0,
+                                        "BottomMargin": 12.0,
+                                        "Tag": 4931,
+                                        "ActionTag": -1716782373,
+                                        "Size": {
+                                          "X": 48.0,
+                                          "Y": 28.0
+                                        },
+                                        "Name": "TextLabel",
+                                        "ctype": "TextObjectData"
+                                      }
+                                    ],
+                                    "ActionTag": 2070253168,
+                                    "Size": {
+                                      "X": 100.0,
+                                      "Y": 50.0
+                                    },
+                                    "Name": "checkBtn",
+                                    "ctype": "ButtonObjectData"
+                                  },
+                                  {
+                                    "FontSize": 14,
+                                    "ButtonText": "",
+                                    "TextColor": {
+                                      "R": 65,
+                                      "G": 65,
+                                      "B": 70
+                                    },
+                                    "Scale9Enable": true,
+                                    "Scale9OriginX": -15,
+                                    "Scale9OriginY": -11,
+                                    "Scale9Width": 30,
+                                    "Scale9Height": 22,
+                                    "OutlineColor": {
+                                      "G": 0,
+                                      "B": 0
+                                    },
+                                    "ShadowColor": {
+                                      "R": 110,
+                                      "G": 110,
+                                      "B": 110
+                                    },
+                                    "ShadowOffsetX": 2.0,
+                                    "ShadowOffsetY": -2.0,
+                                    "TouchEnable": true,
+                                    "AnchorPoint": {
+                                      "ScaleX": 0.5,
+                                      "ScaleY": 0.5
+                                    },
+                                    "Position": {
+                                      "X": 720.0,
+                                      "Y": 10.0
+                                    },
+                                    "Scale": {
+                                      "ScaleX": 1.0,
+                                      "ScaleY": 1.0
+                                    },
+                                    "CColor": {},
+                                    "IconVisible": false,
+                                    "PrePosition": {
+                                      "X": 5.2174,
+                                      "Y": 0.3571
+                                    },
+                                    "PreSize": {
+                                      "X": 0.7246,
+                                      "Y": 1.7857
+                                    },
+                                    "LeftMargin": 670.0,
+                                    "RightMargin": -632.0,
+                                    "TopMargin": -7.0,
+                                    "BottomMargin": -15.0,
+                                    "Children": [
+                                      {
+                                        "CheckedState": true,
+                                        "NormalBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "PressedBackFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "NodeNormalFileData": {
+                                          "Type": "Normal",
+                                          "Path": "goldres/baofang/yyjp_btn_tb1@2x_bf.png",
+                                          "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                          "ScaleX": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 35.0,
+                                          "Y": 6.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.35,
+                                          "Y": 0.12
+                                        },
+                                        "PreSize": {
+                                          "X": 0.42,
+                                          "Y": 0.88
+                                        },
+                                        "LeftMargin": 14.0,
+                                        "RightMargin": 44.0,
+                                        "BottomMargin": 6.0,
+                                        "Tag": 4933,
+                                        "ActionTag": -1644253812,
+                                        "Size": {
+                                          "X": 42.0,
+                                          "Y": 44.0
+                                        },
+                                        "Name": "Check",
+                                        "ctype": "CheckBoxObjectData"
+                                      },
+                                      {
+                                        "FontSize": 24,
+                                        "LabelText": "500  ",
+                                        "FontResource": {
+                                          "Type": "Normal",
+                                          "Path": "Font/FZY4JW_0569.TTF",
+                                          "Plist": ""
+                                        },
+                                        "OutlineColor": {
+                                          "G": 0,
+                                          "B": 0
+                                        },
+                                        "ShadowColor": {
+                                          "R": 110,
+                                          "G": 110,
+                                          "B": 110
+                                        },
+                                        "ShadowOffsetX": 2.0,
+                                        "ShadowOffsetY": -2.0,
+                                        "AnchorPoint": {
+                                          "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 62.0,
+                                          "Y": 26.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                          "X": 0.62,
+                                          "Y": 0.52
+                                        },
+                                        "PreSize": {
+                                          "X": 0.48,
+                                          "Y": 0.56
+                                        },
+                                        "LeftMargin": 62.0,
+                                        "RightMargin": -10.0,
+                                        "TopMargin": 10.0,
+                                        "BottomMargin": 12.0,
+                                        "Tag": 4934,
+                                        "ActionTag": 2057661670,
+                                        "Size": {
+                                          "X": 48.0,
+                                          "Y": 28.0
+                                        },
+                                        "Name": "TextLabel",
+                                        "ctype": "TextObjectData"
+                                      }
+                                    ],
+                                    "ActionTag": 2053747864,
+                                    "Size": {
+                                      "X": 100.0,
+                                      "Y": 50.0
+                                    },
+                                    "Name": "checkBtn",
+                                    "ctype": "ButtonObjectData"
+                                  },
+                                  {
+                                    "FileData": {
+                                      "Type": "Normal",
+                                      "Path": "commonCells/commonPic/createPic/yypk_img_fenlan@2x.png",
+                                      "Plist": ""
+                                    },
+                                    "Scale9OriginX": 266,
+                                    "Scale9Width": 276,
+                                    "Scale9Height": 3,
+                                    "AnchorPoint": {
+                                      "ScaleX": 0.5,
+                                      "ScaleY": 0.5
+                                    },
+                                    "Position": {
+                                      "X": 402.0,
+                                      "Y": -25.0
+                                    },
+                                    "Scale": {
+                                      "ScaleX": 1.0,
+                                      "ScaleY": 1.0
+                                    },
+                                    "CColor": {},
+                                    "IconVisible": false,
+                                    "PrePosition": {
+                                      "X": 2.913,
+                                      "Y": -0.8929
+                                    },
+                                    "PreSize": {
+                                      "X": 5.8551,
+                                      "Y": 0.1071
+                                    },
+                                    "VerticalEdge": "TopEdge",
+                                    "LeftMargin": -2.0,
+                                    "RightMargin": -668.0,
+                                    "TopMargin": 51.5,
+                                    "BottomMargin": -26.5,
+                                    "Tag": 4925,
+                                    "ActionTag": -1483922571,
+                                    "Size": {
+                                      "X": 808.0,
+                                      "Y": 3.0
+                                    },
+                                    "Name": "Image_23",
+                                    "ctype": "ImageViewObjectData"
+                                  }
+                                ],
+                                "ActionTag": 572877229,
+                                "Size": {
+                                  "X": 138.0,
+                                  "Y": 28.0
+                                },
+                                "Name": "item",
+                                "ctype": "SpriteObjectData"
+                              }
+                            ],
+                            "ActionTag": -1472371636,
+                            "Size": {
+                              "X": 200.0,
+                              "Y": 200.0
+                            },
+                            "Name": "bxwf",
+                            "ctype": "PanelObjectData"
+                          }
+                        ],
+                        "ActionTag": 1173675358,
+                        "Size": {
+                          "X": 1136.0,
+                          "Y": 640.0
+                        },
+                        "Name": "rulePanel",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 1203386874,
+                    "Size": {
+                      "X": 1136.0,
+                      "Y": 640.0
+                    },
+                    "Name": "panel_sdb",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1726204511,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 640.0
+                },
+                "Name": "panelLayer",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -884726555,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/createPic/goldCreate/yyjb_btn_tb1@2x.png",
+        "commonCells/commonPic/createPic/goldCreate/yyjb_btn_tb2@2x.png",
+        "commonCells/commonPic/createPic/yypk_img_fenlan@2x.png",
+        "commonCells/commonPic/jxnn_btn_close@2x.png",
+        "Font/FZY4JW_0569.TTF",
+        "goldres/baofang/yyjp_bg_create@2x_bf.png",
+        "goldres/baofang/yyjp_btn_create2_bf.png",
+        "goldres/baofang/yyjp_btn_tb1@2x_bf.png",
+        "goldres/baofang/yyjp_btn_tb2@2x_bf.png",
+        "goldres/baofang/yyjp_img_bxwf@2x_bf.png",
+        "goldres/baofang/yyjp_img_df@2x_bf.png",
+        "goldres/baofang/yyjp_img_wf@2x_bf.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

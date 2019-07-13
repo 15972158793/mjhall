@@ -1,0 +1,96 @@
+
+juese03.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lian1
+  rotate: false
+  xy: 132, 128
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+lian2
+  rotate: true
+  xy: 151, 2
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+lian3
+  rotate: true
+  xy: 188, 3
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 105, 35
+  size: 44, 8
+  orig: 44, 8
+  offset: 0, 0
+  index: -1
+shangyi
+  rotate: false
+  xy: 132, 165
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 226, 107
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 18
+  size: 101, 108
+  orig: 101, 108
+  offset: 0, 0
+  index: -1
+xiazhi
+  rotate: false
+  xy: 2, 128
+  size: 128, 126
+  orig: 128, 126
+  offset: 0, 0
+  index: -1
+youbi1
+  rotate: false
+  xy: 226, 24
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 198, 176
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+zuobi1
+  rotate: true
+  xy: 199, 74
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 105, 45
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 151, 62
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1

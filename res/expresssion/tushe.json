@@ -1,0 +1,84 @@
+{
+"bones": [
+	{ "name": "root", "x": -0.37, "y": 0.37 },
+	{ "name": "meimao012", "parent": "root", "x": 16.81, "y": 25.31 },
+	{ "name": "shenti01", "parent": "root" },
+	{ "name": "yanjing06", "parent": "root", "x": -14.33, "y": 5.66 },
+	{ "name": "yanjing062", "parent": "root", "x": 13.98, "y": 5.31 },
+	{ "name": "meimao01", "parent": "shenti01", "x": -17.34, "y": 25.84 },
+	{ "name": "shetou", "parent": "shenti01", "y": -14.33 }
+],
+"slots": [
+	{ "name": "shenti01", "bone": "shenti01", "attachment": "shenti01" },
+	{ "name": "meimao01", "bone": "meimao01", "attachment": "meimao01" },
+	{ "name": "meimao012", "bone": "meimao012", "attachment": "meimao01" },
+	{ "name": "yanjing06", "bone": "yanjing06", "attachment": "yanjing06" },
+	{ "name": "yanjing062", "bone": "yanjing062", "attachment": "yanjing06" },
+	{ "name": "shetou01", "bone": "shetou", "attachment": "shetou03" }
+],
+"skins": {
+	"default": {
+		"meimao01": {
+			"meimao01": { "x": -1.65, "y": 2.15, "width": 16, "height": 11 }
+		},
+		"meimao012": {
+			"meimao01": { "x": 2.18, "y": 2.68, "scaleX": -1, "width": 16, "height": 11 }
+		},
+		"shenti01": {
+			"shenti01": { "width": 74, "height": 74 }
+		},
+		"shetou01": {
+			"shetou01": { "y": -12.33, "width": 23, "height": 27 },
+			"shetou02": { "x": -4.27, "y": -12.18, "width": 26, "height": 26 },
+			"shetou03": { "path": "shetou02", "x": 5.46, "y": -12.54, "scaleX": -1, "width": 26, "height": 26 }
+		},
+		"yanjing06": {
+			"yanjing06": { "x": 0.33, "y": -0.16, "width": 7, "height": 7 }
+		},
+		"yanjing062": {
+			"yanjing06": { "x": 0.01, "y": -0.31, "width": 7, "height": 7 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"shenti01": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 15 },
+					{ "time": 0.3333, "angle": 345 },
+					{ "time": 0.6666, "angle": 15 },
+					{ "time": 1, "angle": 345 },
+					{ "time": 1.3333, "angle": 15 },
+					{ "time": 1.6666, "angle": 345 },
+					{ "time": 2, "angle": 15 }
+				]
+			}
+		},
+		"slots": {
+			"shetou01": {
+				"attachment": [
+					{ "time": 0, "name": "shetou01" },
+					{ "time": 0.1, "name": "shetou03" },
+					{ "time": 0.3333, "name": "shetou01" },
+					{ "time": 0.4333, "name": "shetou02" },
+					{ "time": 0.6666, "name": "shetou01" },
+					{ "time": 0.7666, "name": "shetou03" },
+					{ "time": 1, "name": "shetou01" },
+					{ "time": 1.1, "name": "shetou02" },
+					{ "time": 1.3333, "name": "shetou01" },
+					{ "time": 1.4333, "name": "shetou03" },
+					{ "time": 1.6666, "name": "shetou01" },
+					{ "time": 1.7666, "name": "shetou02" },
+					{ "time": 2, "name": "shetou01" }
+				]
+			}
+		}
+	}
+}
+}

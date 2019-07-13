@@ -1,0 +1,357 @@
+{
+  "ID": "6f175f68-a5e6-40b4-9e4a-a6806833fa99",
+  "Version": "2.3.4",
+  "Name": "Pdk_head_node",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 84,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "xiangjun/game/17-room/xjhy_bg_roomHead1@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 85.936,
+              "Y": 93.6082
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4774,
+              "Y": 0.39
+            },
+            "PreSize": {
+              "X": 0.4944,
+              "Y": 0.6
+            },
+            "LeftMargin": 41.436,
+            "RightMargin": 49.564,
+            "TopMargin": 74.3918,
+            "BottomMargin": 21.6082,
+            "Tag": 2690,
+            "ActionTag": 505400439,
+            "Size": {
+              "X": 89.0,
+              "Y": 144.0
+            },
+            "Name": "head",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "xiangjun/game/17-room/xjhy_bg_roomHead3@2x.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 50,
+            "Scale9Height": 58,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 86.04,
+              "Y": 120.048
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.478,
+              "Y": 0.5002
+            },
+            "PreSize": {
+              "X": 0.4444,
+              "Y": 0.3333
+            },
+            "LeftMargin": 46.04,
+            "RightMargin": 53.96,
+            "TopMargin": 79.952,
+            "BottomMargin": 80.048,
+            "Tag": 85,
+            "ActionTag": -1976986309,
+            "Size": {
+              "X": 80.0,
+              "Y": 80.0
+            },
+            "Name": "headbg",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "xiangjun/game/17-room/xjhy_btn_jifen@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 97.11,
+              "Y": 38.016
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5395,
+              "Y": 0.1584
+            },
+            "PreSize": {
+              "X": 0.4556,
+              "Y": 0.0958
+            },
+            "LeftMargin": 56.11,
+            "RightMargin": 41.89,
+            "TopMargin": 190.484,
+            "BottomMargin": 26.516,
+            "Tag": 88,
+            "Children": [
+              {
+                "FontSize": 18,
+                "LabelText": "1231",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 52.9228,
+                  "Y": 10.5593
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6454,
+                  "Y": 0.4591
+                },
+                "PreSize": {
+                  "X": 0.439,
+                  "Y": 0.913
+                },
+                "LeftMargin": 34.9228,
+                "RightMargin": 11.0772,
+                "TopMargin": 1.9407,
+                "BottomMargin": 0.0593,
+                "Tag": 89,
+                "ActionTag": 513631437,
+                "Size": {
+                  "X": 36.0,
+                  "Y": 21.0
+                },
+                "Name": "jifenText",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "xiangjun/game/17-room/xjhy_img_jifen@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 13,
+                "Scale9OriginY": 7,
+                "Scale9Width": 14,
+                "Scale9Height": 8,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 10.0,
+                  "Y": 11.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.122,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4878,
+                  "Y": 0.9565
+                },
+                "LeftMargin": -10.0,
+                "RightMargin": 52.0,
+                "TopMargin": 0.5,
+                "BottomMargin": 0.5,
+                "Tag": 660,
+                "ActionTag": -1069027665,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 22.0
+                },
+                "Name": "Image_10",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -900619497,
+            "Size": {
+              "X": 82.0,
+              "Y": 23.0
+            },
+            "Name": "jifen",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": " 连接连接中德  ",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Font/FZY4JW_0569.TTF",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 84.744,
+              "Y": 63.696
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.4708,
+              "Y": 0.2654
+            },
+            "PreSize": {
+              "X": 0.7222,
+              "Y": 0.0958
+            },
+            "LeftMargin": 19.744,
+            "RightMargin": 30.256,
+            "TopMargin": 164.804,
+            "BottomMargin": 52.196,
+            "Tag": 86,
+            "ActionTag": -739322648,
+            "Size": {
+              "X": 130.0,
+              "Y": 23.0
+            },
+            "Name": "playername",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 180.0,
+          "Y": 240.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Font/FZY4JW_0569.TTF",
+        "xiangjun/game/17-room/xjhy_bg_roomHead1@2x.png",
+        "xiangjun/game/17-room/xjhy_bg_roomHead3@2x.png",
+        "xiangjun/game/17-room/xjhy_btn_jifen@2x.png",
+        "xiangjun/game/17-room/xjhy_img_jifen@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

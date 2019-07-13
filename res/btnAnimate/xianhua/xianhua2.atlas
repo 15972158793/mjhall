@@ -1,0 +1,82 @@
+
+xianhua2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua1
+  rotate: false
+  xy: 109, 76
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: true
+  xy: 417, 481
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+light01
+  rotate: false
+  xy: 417, 2
+  size: 234, 172
+  orig: 640, 480
+  offset: 221, 119
+  index: -1
+light02
+  rotate: false
+  xy: 417, 176
+  size: 237, 235
+  orig: 640, 480
+  offset: 211, 123
+  index: -1
+light03
+  rotate: true
+  xy: 656, 179
+  size: 232, 220
+  orig: 640, 480
+  offset: 224, 132
+  index: -1
+light04
+  rotate: true
+  xy: 807, 480
+  size: 211, 180
+  orig: 640, 480
+  offset: 234, 162
+  index: -1
+light05
+  rotate: false
+  xy: 482, 413
+  size: 323, 278
+  orig: 640, 480
+  offset: 151, 115
+  index: -1
+light06
+  rotate: false
+  xy: 2, 128
+  size: 413, 420
+  orig: 640, 480
+  offset: 99, 57
+  index: -1
+light07
+  rotate: false
+  xy: 2, 550
+  size: 478, 472
+  orig: 640, 480
+  offset: 72, 8
+  index: -1
+light08
+  rotate: false
+  xy: 482, 693
+  size: 443, 329
+  orig: 640, 480
+  offset: 131, 51
+  index: -1
+zhigan
+  rotate: false
+  xy: 2, 2
+  size: 105, 124
+  orig: 105, 124
+  offset: 0, 0
+  index: -1

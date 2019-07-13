@@ -1,0 +1,33 @@
+
+meiniu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banner
+  rotate: false
+  xy: 2, 39
+  size: 187, 84
+  orig: 187, 84
+  offset: 0, 0
+  index: -1
+helix
+  rotate: false
+  xy: 2, 2
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 191, 55
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 261, 58
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1

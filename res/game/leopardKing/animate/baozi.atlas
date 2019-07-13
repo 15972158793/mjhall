@@ -1,0 +1,19 @@
+
+baozi.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozi1
+  rotate: false
+  xy: 2, 2
+  size: 233, 159
+  orig: 233, 159
+  offset: 0, 0
+  index: -1
+baozi2
+  rotate: false
+  xy: 237, 57
+  size: 151, 104
+  orig: 151, 104
+  offset: 0, 0
+  index: -1

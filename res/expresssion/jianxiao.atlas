@@ -1,0 +1,33 @@
+
+jianxiao.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti01
+  rotate: false
+  xy: 2, 46
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+yanjing04
+  rotate: false
+  xy: 78, 115
+  size: 26, 5
+  orig: 26, 5
+  offset: 0, 0
+  index: -1
+yanjing06
+  rotate: false
+  xy: 2, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+zuiba03
+  rotate: false
+  xy: 2, 11
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,54 @@
+
+wunai.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meimao03
+  rotate: false
+  xy: 32, 40
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+shenti01
+  rotate: false
+  xy: 2, 52
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+shou04-1
+  rotate: false
+  xy: 78, 96
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+shou04-2
+  rotate: true
+  xy: 2, 2
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+shou04-3
+  rotate: false
+  xy: 2, 25
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+yanjing06
+  rotate: false
+  xy: 96, 119
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+zuiba06
+  rotate: false
+  xy: 78, 83
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1

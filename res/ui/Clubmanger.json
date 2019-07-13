@@ -1,0 +1,3495 @@
+{
+  "ID": "993fe772-1e4c-4ce1-a420-99de13789ee0",
+  "Version": "2.3.4",
+  "Name": "Clubmanger",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 132,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 133,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/createPic/goldCreate/yyjb_bg_invite@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 572.0,
+                  "Y": 316.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5035,
+                  "Y": 0.4938
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 4.0,
+                "RightMargin": -4.0,
+                "TopMargin": 4.0,
+                "BottomMargin": -4.0,
+                "Tag": 134,
+                "ActionTag": -208280143,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 640.0
+                },
+                "Name": "bgImg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 36,
+                "LabelText": "悠悠聚游棋牌俱乐部十",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 562.0,
+                  "Y": 594.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4947,
+                  "Y": 0.9281
+                },
+                "PreSize": {
+                  "X": 0.3187,
+                  "Y": 0.0656
+                },
+                "LeftMargin": 381.0,
+                "RightMargin": 393.0,
+                "TopMargin": 25.0,
+                "BottomMargin": 573.0,
+                "Tag": 150,
+                "ActionTag": -1230846907,
+                "Size": {
+                  "X": 362.0,
+                  "Y": 42.0
+                },
+                "Name": "nameTxt",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "123456",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1066.0,
+                  "Y": 595.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9384,
+                  "Y": 0.9297
+                },
+                "PreSize": {
+                  "X": 0.088,
+                  "Y": 0.0344
+                },
+                "LeftMargin": 1016.0,
+                "RightMargin": 20.0,
+                "TopMargin": 34.0,
+                "BottomMargin": 584.0,
+                "Tag": 196,
+                "ActionTag": 1504241951,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 22.0
+                },
+                "Name": "idTxt",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "俱乐部ID：",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 964.0,
+                  "Y": 595.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8486,
+                  "Y": 0.9297
+                },
+                "PreSize": {
+                  "X": 0.088,
+                  "Y": 0.0344
+                },
+                "LeftMargin": 914.0,
+                "RightMargin": 122.0,
+                "TopMargin": 34.0,
+                "BottomMargin": 584.0,
+                "Tag": 195,
+                "ActionTag": -59150027,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 22.0
+                },
+                "Name": "Text_9",
+                "ctype": "TextObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "ScrollDirectionType": 0,
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 4.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0035,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.1884,
+                  "Y": 0.8359
+                },
+                "LeftMargin": 4.0,
+                "RightMargin": 918.0,
+                "TopMargin": 105.0,
+                "Tag": 201,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "Button",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 4,
+                    "Scale9Width": 12,
+                    "Scale9Height": 6,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 445.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.8318
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.1682
+                    },
+                    "BottomMargin": 445.0,
+                    "Tag": 198,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/createPic/goldCreate/yyjb_btn_tb2@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0111
+                        },
+                        "TopMargin": -1.0,
+                        "Tag": 199,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "clubres/clubinfo/club_img_ksbf2@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 107.0,
+                              "Y": 45.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.4945
+                            },
+                            "PreSize": {
+                              "X": 0.5888,
+                              "Y": 0.3297
+                            },
+                            "LeftMargin": 44.0,
+                            "RightMargin": 44.0,
+                            "TopMargin": 31.0,
+                            "BottomMargin": 30.0,
+                            "Tag": 202,
+                            "ActionTag": 1705809412,
+                            "Size": {
+                              "X": 126.0,
+                              "Y": 30.0
+                            },
+                            "Name": "Sprite_24",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": -412013721,
+                        "Size": {
+                          "X": 214.0,
+                          "Y": 91.0
+                        },
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/createPic/goldCreate/yyjb_btn_tb1@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 200,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "clubres/clubinfo/club_img_ksbj1@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 107.0,
+                              "Y": 45.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.5888,
+                              "Y": 0.3333
+                            },
+                            "LeftMargin": 44.0,
+                            "RightMargin": 44.0,
+                            "TopMargin": 30.0,
+                            "BottomMargin": 30.0,
+                            "Tag": 203,
+                            "ActionTag": 495928317,
+                            "Size": {
+                              "X": 126.0,
+                              "Y": 30.0
+                            },
+                            "Name": "Sprite_25",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": 289035510,
+                        "Size": {
+                          "X": 214.0,
+                          "Y": 90.0
+                        },
+                        "Name": "select",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -821206006,
+                    "Size": {
+                      "X": 214.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn0",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "Button",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 4,
+                    "Scale9Width": 12,
+                    "Scale9Height": 6,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 355.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.6636
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.1682
+                    },
+                    "TopMargin": 90.0,
+                    "BottomMargin": 355.0,
+                    "Tag": 204,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/createPic/goldCreate/yyjb_btn_tb2@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0111
+                        },
+                        "TopMargin": -1.0,
+                        "Tag": 205,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "clubres/clubinfo/club_img_fjlb2@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 107.0,
+                              "Y": 45.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.4945
+                            },
+                            "PreSize": {
+                              "X": 0.5888,
+                              "Y": 0.3297
+                            },
+                            "LeftMargin": 44.0,
+                            "RightMargin": 44.0,
+                            "TopMargin": 31.0,
+                            "BottomMargin": 30.0,
+                            "Tag": 206,
+                            "ActionTag": 1026500684,
+                            "Size": {
+                              "X": 126.0,
+                              "Y": 30.0
+                            },
+                            "Name": "Sprite_24",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": 1714828250,
+                        "Size": {
+                          "X": 214.0,
+                          "Y": 91.0
+                        },
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/createPic/goldCreate/yyjb_btn_tb1@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 207,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "clubres/clubinfo/club_img_fjlb1@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 107.0,
+                              "Y": 45.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.5888,
+                              "Y": 0.3333
+                            },
+                            "LeftMargin": 44.0,
+                            "RightMargin": 44.0,
+                            "TopMargin": 30.0,
+                            "BottomMargin": 30.0,
+                            "Tag": 208,
+                            "ActionTag": -671639606,
+                            "Size": {
+                              "X": 126.0,
+                              "Y": 30.0
+                            },
+                            "Name": "Sprite_25",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": -1570996593,
+                        "Size": {
+                          "X": 214.0,
+                          "Y": 90.0
+                        },
+                        "Name": "select",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -92341361,
+                    "ZOrder": 1,
+                    "Size": {
+                      "X": 214.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "Button",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 4,
+                    "Scale9Width": 12,
+                    "Scale9Height": 6,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 265.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.4953
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.1682
+                    },
+                    "TopMargin": 180.0,
+                    "BottomMargin": 265.0,
+                    "Tag": 209,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/createPic/goldCreate/yyjb_btn_tb2@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0111
+                        },
+                        "TopMargin": -1.0,
+                        "Tag": 210,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "clubres/clubinfo/club_img_jlbzj2@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 107.0,
+                              "Y": 45.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.4945
+                            },
+                            "PreSize": {
+                              "X": 0.7477,
+                              "Y": 0.3297
+                            },
+                            "LeftMargin": 27.0,
+                            "RightMargin": 27.0,
+                            "TopMargin": 31.0,
+                            "BottomMargin": 30.0,
+                            "Tag": 211,
+                            "ActionTag": 127242889,
+                            "Size": {
+                              "X": 160.0,
+                              "Y": 30.0
+                            },
+                            "Name": "Sprite_24",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": 1652411862,
+                        "Size": {
+                          "X": 214.0,
+                          "Y": 91.0
+                        },
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/createPic/goldCreate/yyjb_btn_tb1@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 212,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "clubres/clubinfo/club_img_jlbzj@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 107.0,
+                              "Y": 45.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.7477,
+                              "Y": 0.3333
+                            },
+                            "LeftMargin": 27.0,
+                            "RightMargin": 27.0,
+                            "TopMargin": 30.0,
+                            "BottomMargin": 30.0,
+                            "Tag": 213,
+                            "ActionTag": -1851196529,
+                            "Size": {
+                              "X": 160.0,
+                              "Y": 30.0
+                            },
+                            "Name": "Sprite_25",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": -765472159,
+                        "Size": {
+                          "X": 214.0,
+                          "Y": 90.0
+                        },
+                        "Name": "select",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -410601325,
+                    "ZOrder": 2,
+                    "Size": {
+                      "X": 214.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "Button",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 4,
+                    "Scale9Width": 12,
+                    "Scale9Height": 6,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 175.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.3271
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.1682
+                    },
+                    "TopMargin": 270.0,
+                    "BottomMargin": 175.0,
+                    "Tag": 214,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/createPic/goldCreate/yyjb_btn_tb2@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0111
+                        },
+                        "TopMargin": -1.0,
+                        "Tag": 215,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "clubres/clubinfo/club_img_jlbgl2@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 107.0,
+                              "Y": 45.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.4945
+                            },
+                            "PreSize": {
+                              "X": 0.7477,
+                              "Y": 0.3297
+                            },
+                            "LeftMargin": 27.0,
+                            "RightMargin": 27.0,
+                            "TopMargin": 31.0,
+                            "BottomMargin": 30.0,
+                            "Tag": 216,
+                            "ActionTag": 973381132,
+                            "Size": {
+                              "X": 160.0,
+                              "Y": 30.0
+                            },
+                            "Name": "Sprite_24",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": 548275565,
+                        "Size": {
+                          "X": 214.0,
+                          "Y": 91.0
+                        },
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/createPic/goldCreate/yyjb_btn_tb1@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 217,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "clubres/clubinfo/club_img_jlbgl1@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 107.0,
+                              "Y": 45.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.7477,
+                              "Y": 0.3333
+                            },
+                            "LeftMargin": 27.0,
+                            "RightMargin": 27.0,
+                            "TopMargin": 30.0,
+                            "BottomMargin": 30.0,
+                            "Tag": 218,
+                            "ActionTag": -626392129,
+                            "Size": {
+                              "X": 160.0,
+                              "Y": 30.0
+                            },
+                            "Name": "Sprite_25",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": 745361878,
+                        "Size": {
+                          "X": 214.0,
+                          "Y": 90.0
+                        },
+                        "Name": "select",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/hallPic/jxnn_img_tishidian@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 197.9399,
+                          "Y": 73.1607
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.925,
+                          "Y": 0.8129
+                        },
+                        "PreSize": {
+                          "X": 0.0935,
+                          "Y": 0.2333
+                        },
+                        "LeftMargin": 187.9399,
+                        "RightMargin": 6.0601,
+                        "TopMargin": 6.3393,
+                        "BottomMargin": 62.6607,
+                        "Tag": 158,
+                        "ActionTag": 175295682,
+                        "Size": {
+                          "X": 20.0,
+                          "Y": 21.0
+                        },
+                        "Name": "manageRedIcon",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -1278258906,
+                    "ZOrder": 3,
+                    "Size": {
+                      "X": 214.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn3",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 556002213,
+                "Size": {
+                  "X": 214.0,
+                  "Y": 535.0
+                },
+                "Name": "tabListView",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.3125
+                },
+                "RightMargin": 936.0,
+                "TopMargin": 440.0,
+                "Tag": 220,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 239,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": -15,
+                        "Scale9OriginY": -11,
+                        "Scale9Width": 30,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 240.0,
+                          "Y": 395.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 1.2,
+                          "Y": 1.975
+                        },
+                        "PreSize": {
+                          "X": 4.5,
+                          "Y": 0.7
+                        },
+                        "LeftMargin": 240.0,
+                        "RightMargin": -940.0,
+                        "TopMargin": -335.0,
+                        "BottomMargin": 395.0,
+                        "Tag": 229,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "clubres/clubinfo/club_bg@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Scale": {
+                              "ScaleX": 0.985,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 1.0133,
+                              "Y": 1.0
+                            },
+                            "RightMargin": -12.0,
+                            "Tag": 230,
+                            "ActionTag": 104183553,
+                            "Size": {
+                              "X": 912.0,
+                              "Y": 140.0
+                            },
+                            "Name": "Sprite_44",
+                            "ctype": "SpriteObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "clubres/clubinfo/club_btn_addGame@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 456.0,
+                              "Y": 70.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5067,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.3133,
+                              "Y": 0.4429
+                            },
+                            "LeftMargin": 315.0,
+                            "RightMargin": 303.0,
+                            "TopMargin": 39.0,
+                            "BottomMargin": 39.0,
+                            "Tag": 224,
+                            "ActionTag": -1215141317,
+                            "Size": {
+                              "X": 282.0,
+                              "Y": 62.0
+                            },
+                            "Name": "Sprite_39",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": 465089726,
+                        "Size": {
+                          "X": 900.0,
+                          "Y": 140.0
+                        },
+                        "Name": "btn0",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": -15,
+                        "Scale9OriginY": -11,
+                        "Scale9Width": 30,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 240.0,
+                          "Y": 232.0855
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 1.2,
+                          "Y": 1.1604
+                        },
+                        "PreSize": {
+                          "X": 4.5,
+                          "Y": 0.7
+                        },
+                        "LeftMargin": 240.0,
+                        "RightMargin": -940.0,
+                        "TopMargin": -172.0855,
+                        "BottomMargin": 232.0855,
+                        "Tag": 231,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "clubres/clubinfo/club_bg@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Scale": {
+                              "ScaleX": 0.985,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 1.0133,
+                              "Y": 1.0
+                            },
+                            "RightMargin": -12.0,
+                            "Tag": 232,
+                            "ActionTag": -385515946,
+                            "Size": {
+                              "X": 912.0,
+                              "Y": 140.0
+                            },
+                            "Name": "Sprite_44",
+                            "ctype": "SpriteObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "clubres/clubinfo/club_btn_addGame@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 456.0,
+                              "Y": 70.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5067,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.3133,
+                              "Y": 0.4429
+                            },
+                            "LeftMargin": 315.0,
+                            "RightMargin": 303.0,
+                            "TopMargin": 39.0,
+                            "BottomMargin": 39.0,
+                            "Tag": 233,
+                            "ActionTag": 1688888583,
+                            "Size": {
+                              "X": 282.0,
+                              "Y": 62.0
+                            },
+                            "Name": "Sprite_39",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": -569521104,
+                        "Size": {
+                          "X": 900.0,
+                          "Y": 140.0
+                        },
+                        "Name": "btn1",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": -15,
+                        "Scale9OriginY": -11,
+                        "Scale9Width": 30,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 240.0,
+                          "Y": 69.1711
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 1.2,
+                          "Y": 0.3459
+                        },
+                        "PreSize": {
+                          "X": 4.5,
+                          "Y": 0.7
+                        },
+                        "LeftMargin": 240.0,
+                        "RightMargin": -940.0,
+                        "TopMargin": -9.1711,
+                        "BottomMargin": 69.1711,
+                        "Tag": 234,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "clubres/clubinfo/club_bg@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Scale": {
+                              "ScaleX": 0.985,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 1.0133,
+                              "Y": 1.0
+                            },
+                            "RightMargin": -12.0,
+                            "Tag": 235,
+                            "ActionTag": -886601131,
+                            "Size": {
+                              "X": 912.0,
+                              "Y": 140.0
+                            },
+                            "Name": "Sprite_44",
+                            "ctype": "SpriteObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "clubres/clubinfo/club_btn_addGame@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 456.0,
+                              "Y": 70.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5067,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.3133,
+                              "Y": 0.4429
+                            },
+                            "LeftMargin": 315.0,
+                            "RightMargin": 303.0,
+                            "TopMargin": 39.0,
+                            "BottomMargin": 39.0,
+                            "Tag": 236,
+                            "ActionTag": 1626596627,
+                            "Size": {
+                              "X": 282.0,
+                              "Y": 62.0
+                            },
+                            "Name": "Sprite_39",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": -1763083810,
+                        "Size": {
+                          "X": 900.0,
+                          "Y": 140.0
+                        },
+                        "Name": "btn2",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -1332760863,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "Name": "btnContain",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 645,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "clubRoomSetItem.json",
+                          "Plist": ""
+                        },
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 240.0,
+                          "Y": 395.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 1.2,
+                          "Y": 1.975
+                        },
+                        "PreSize": {
+                          "X": 4.5,
+                          "Y": 0.7
+                        },
+                        "LeftMargin": 240.0,
+                        "RightMargin": -940.0,
+                        "TopMargin": -335.0,
+                        "BottomMargin": 395.0,
+                        "Tag": 657,
+                        "ActionTag": -83658978,
+                        "Size": {
+                          "X": 900.0,
+                          "Y": 140.0
+                        },
+                        "Name": "room0",
+                        "ctype": "ProjectNodeObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "clubRoomSetItem.json",
+                          "Plist": ""
+                        },
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 240.0,
+                          "Y": 232.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 1.2,
+                          "Y": 1.1625
+                        },
+                        "PreSize": {
+                          "X": 4.5,
+                          "Y": 0.7
+                        },
+                        "LeftMargin": 240.0,
+                        "RightMargin": -940.0,
+                        "TopMargin": -172.5,
+                        "BottomMargin": 232.5,
+                        "Tag": 664,
+                        "ActionTag": 1699698107,
+                        "Size": {
+                          "X": 900.0,
+                          "Y": 140.0
+                        },
+                        "Name": "room1",
+                        "ctype": "ProjectNodeObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "clubRoomSetItem.json",
+                          "Plist": ""
+                        },
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 240.0,
+                          "Y": 70.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 1.2,
+                          "Y": 0.35
+                        },
+                        "PreSize": {
+                          "X": 4.5,
+                          "Y": 0.7
+                        },
+                        "LeftMargin": 240.0,
+                        "RightMargin": -940.0,
+                        "TopMargin": -10.0,
+                        "BottomMargin": 70.0,
+                        "Tag": 671,
+                        "ActionTag": -881443004,
+                        "Size": {
+                          "X": 900.0,
+                          "Y": 140.0
+                        },
+                        "Name": "room2",
+                        "ctype": "ProjectNodeObjectData"
+                      }
+                    ],
+                    "ActionTag": 583430204,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "Name": "roomContain",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "clubres/clubinfo/club_bg_beizhu@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 669.4422,
+                      "Y": 31.3127
+                    },
+                    "Scale": {
+                      "ScaleX": 0.6,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 3.3472,
+                      "Y": 0.1566
+                    },
+                    "PreSize": {
+                      "X": 3.89,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 280.4422,
+                    "RightMargin": -858.4421,
+                    "TopMargin": 151.1873,
+                    "BottomMargin": 13.8127,
+                    "Tag": 240,
+                    "ActionTag": 351365068,
+                    "Size": {
+                      "X": 778.0,
+                      "Y": 35.0
+                    },
+                    "Name": "Sprite_49",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "扣俱乐部主席房卡，仅该俱乐部成员加入",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 669.9271,
+                      "Y": 30.2329
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 3.3496,
+                      "Y": 0.1512
+                    },
+                    "PreSize": {
+                      "X": 2.0,
+                      "Y": 0.11
+                    },
+                    "LeftMargin": 469.9271,
+                    "RightMargin": -669.9271,
+                    "TopMargin": 158.7671,
+                    "BottomMargin": 19.2329,
+                    "Tag": 241,
+                    "ActionTag": -2123875474,
+                    "Size": {
+                      "X": 400.0,
+                      "Y": 22.0
+                    },
+                    "Name": "powerInfoTxt",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -37460660,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "roomSetPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.3125
+                },
+                "RightMargin": 936.0,
+                "TopMargin": 440.0,
+                "Tag": 483,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 240.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.2,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 4.5,
+                      "Y": 2.675
+                    },
+                    "LeftMargin": 240.0,
+                    "RightMargin": -940.0,
+                    "TopMargin": -335.0,
+                    "Tag": 484,
+                    "ActionTag": -78569949,
+                    "Size": {
+                      "X": 900.0,
+                      "Y": 535.0
+                    },
+                    "Name": "listContain",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 1431145947,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "roomListPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 10.0,
+                  "Y": -10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0088,
+                  "Y": -0.0156
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.3125
+                },
+                "LeftMargin": 10.0,
+                "RightMargin": 926.0,
+                "TopMargin": 450.0,
+                "BottomMargin": -10.0,
+                "Tag": 485,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 240.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.2,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 4.5,
+                      "Y": 2.675
+                    },
+                    "LeftMargin": 240.0,
+                    "RightMargin": -940.0,
+                    "TopMargin": -335.0,
+                    "Tag": 486,
+                    "ActionTag": 2005133705,
+                    "Size": {
+                      "X": 900.0,
+                      "Y": 535.0
+                    },
+                    "Name": "listContain",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -165591400,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "recordListPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.3125
+                },
+                "RightMargin": 936.0,
+                "TopMargin": 440.0,
+                "Tag": 219,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 1294,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "clubres/clubinfo/club_bg_tishi@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 975.76,
+                          "Y": 848.8
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 4.8788,
+                          "Y": 4.244
+                        },
+                        "PreSize": {
+                          "X": 1.775,
+                          "Y": 0.235
+                        },
+                        "LeftMargin": 798.26,
+                        "RightMargin": -953.26,
+                        "TopMargin": -672.3,
+                        "BottomMargin": 825.3,
+                        "Tag": 1129,
+                        "Children": [
+                          {
+                            "FontSize": 24,
+                            "LabelText": "创建成功    ",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/FZY4JW_0569.TTF",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 177.5,
+                              "Y": 23.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 229,
+                              "G": 229,
+                              "B": 229
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.3211,
+                              "Y": 0.5957
+                            },
+                            "LeftMargin": 120.5,
+                            "RightMargin": 120.5,
+                            "TopMargin": 9.5,
+                            "BottomMargin": 9.5,
+                            "Tag": 1287,
+                            "ActionTag": -2044268980,
+                            "Size": {
+                              "X": 114.0,
+                              "Y": 28.0
+                            },
+                            "Name": "Text_1",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -1912968617,
+                        "Size": {
+                          "X": 355.0,
+                          "Y": 47.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "createsusstip",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "clubres/clubinfo/club_btn_xxtz@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 54,
+                        "Scale9Height": 89,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 791.3149,
+                          "Y": 324.3076
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 3.9566,
+                          "Y": 1.6215
+                        },
+                        "PreSize": {
+                          "X": 0.42,
+                          "Y": 0.555
+                        },
+                        "LeftMargin": 749.3149,
+                        "RightMargin": -633.3149,
+                        "TopMargin": -179.8076,
+                        "BottomMargin": 268.8076,
+                        "Tag": 173,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "commonCells/commonPic/hallPic/jxnn_img_tishidian@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 73.94,
+                              "Y": 103.16
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.8802,
+                              "Y": 0.9294
+                            },
+                            "PreSize": {
+                              "X": 0.2381,
+                              "Y": 0.1892
+                            },
+                            "LeftMargin": 63.94,
+                            "RightMargin": 0.06,
+                            "TopMargin": -2.66,
+                            "BottomMargin": 92.66,
+                            "Tag": 97,
+                            "ActionTag": -1783330082,
+                            "Size": {
+                              "X": 20.0,
+                              "Y": 21.0
+                            },
+                            "Name": "messageRedIcon",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": -97966083,
+                        "Size": {
+                          "X": 84.0,
+                          "Y": 111.0
+                        },
+                        "Name": "btn_message",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "clubres/clubinfo/club_btn_sqlb@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 54,
+                        "Scale9Height": 89,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 578.6798,
+                          "Y": 324.3076
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 2.8934,
+                          "Y": 1.6215
+                        },
+                        "PreSize": {
+                          "X": 0.42,
+                          "Y": 0.555
+                        },
+                        "LeftMargin": 536.6798,
+                        "RightMargin": -420.6798,
+                        "TopMargin": -179.8076,
+                        "BottomMargin": 268.8076,
+                        "Tag": 1291,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "commonCells/commonPic/hallPic/jxnn_img_tishidian@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 73.9398,
+                              "Y": 103.1606
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.8802,
+                              "Y": 0.9294
+                            },
+                            "PreSize": {
+                              "X": 0.2381,
+                              "Y": 0.1892
+                            },
+                            "LeftMargin": 63.9398,
+                            "RightMargin": 0.0602,
+                            "TopMargin": -2.6606,
+                            "BottomMargin": 92.6606,
+                            "Tag": 163,
+                            "ActionTag": -1827172647,
+                            "Size": {
+                              "X": 20.0,
+                              "Y": 21.0
+                            },
+                            "Name": "applyRedIcon",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": -1251086567,
+                        "Size": {
+                          "X": 84.0,
+                          "Y": 111.0
+                        },
+                        "Name": "btn_applylist",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "clubres/clubinfo/club_btn_fksz@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 54,
+                        "Scale9Height": 89,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 1003.9499,
+                          "Y": 458.4944
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 5.0197,
+                          "Y": 2.2925
+                        },
+                        "PreSize": {
+                          "X": 0.42,
+                          "Y": 0.555
+                        },
+                        "LeftMargin": 961.9499,
+                        "RightMargin": -845.95,
+                        "TopMargin": -313.9944,
+                        "BottomMargin": 402.9944,
+                        "Tag": 1290,
+                        "ActionTag": -1917914481,
+                        "Size": {
+                          "X": 84.0,
+                          "Y": 111.0
+                        },
+                        "Name": "btn_fkset",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "clubres/clubinfo/club_btn_xgmc@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 4,
+                        "Scale9Width": 54,
+                        "Scale9Height": 103,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 366.0438,
+                          "Y": 458.4945
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 1.8302,
+                          "Y": 2.2925
+                        },
+                        "PreSize": {
+                          "X": 0.42,
+                          "Y": 0.555
+                        },
+                        "LeftMargin": 324.0438,
+                        "RightMargin": -208.0438,
+                        "TopMargin": -313.9945,
+                        "BottomMargin": 402.9945,
+                        "Tag": 1288,
+                        "ActionTag": -517206761,
+                        "Size": {
+                          "X": 84.0,
+                          "Y": 111.0
+                        },
+                        "Name": "btn_changename",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "clubres/clubinfo/club_btn_xggg@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 54,
+                        "Scale9Height": 89,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 578.6798,
+                          "Y": 458.4944
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 2.8934,
+                          "Y": 2.2925
+                        },
+                        "PreSize": {
+                          "X": 0.42,
+                          "Y": 0.555
+                        },
+                        "LeftMargin": 536.6798,
+                        "RightMargin": -420.6798,
+                        "TopMargin": -313.9944,
+                        "BottomMargin": 402.9944,
+                        "Tag": 487,
+                        "ActionTag": 1441373520,
+                        "Size": {
+                          "X": 84.0,
+                          "Y": 111.0
+                        },
+                        "Name": "btn_changeNotice",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "clubres/clubinfo/club_btn_jiesan@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 4,
+                        "Scale9Width": 154,
+                        "Scale9Height": 64,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 850.0,
+                          "Y": 60.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 4.25,
+                          "Y": 0.3
+                        },
+                        "PreSize": {
+                          "X": 0.92,
+                          "Y": 0.36
+                        },
+                        "LeftMargin": 758.0,
+                        "RightMargin": -742.0,
+                        "TopMargin": 104.0,
+                        "BottomMargin": 24.0,
+                        "Tag": 1131,
+                        "ActionTag": 481847986,
+                        "Size": {
+                          "X": 184.0,
+                          "Y": 72.0
+                        },
+                        "Name": "btn_distroyclub",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "clubres/clubinfo/club_btn_xgtx@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 54,
+                        "Scale9Height": 89,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 791.3149,
+                          "Y": 458.4944
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 3.9566,
+                          "Y": 2.2925
+                        },
+                        "PreSize": {
+                          "X": 0.42,
+                          "Y": 0.555
+                        },
+                        "LeftMargin": 749.3149,
+                        "RightMargin": -633.3149,
+                        "TopMargin": -313.9944,
+                        "BottomMargin": 402.9944,
+                        "Tag": 488,
+                        "ActionTag": -1227889637,
+                        "Size": {
+                          "X": 84.0,
+                          "Y": 111.0
+                        },
+                        "Name": "btn_changeIcon",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "clubres/clubinfo/club_btn_cyxx@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 54,
+                        "Scale9Height": 89,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 366.0438,
+                          "Y": 324.3076
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 1.8302,
+                          "Y": 1.6215
+                        },
+                        "PreSize": {
+                          "X": 0.42,
+                          "Y": 0.555
+                        },
+                        "LeftMargin": 324.0438,
+                        "RightMargin": -208.0438,
+                        "TopMargin": -179.8076,
+                        "BottomMargin": 268.8076,
+                        "Tag": 489,
+                        "ActionTag": 762855423,
+                        "Size": {
+                          "X": 84.0,
+                          "Y": 111.0
+                        },
+                        "Name": "btn_member",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "clubres/clubinfo/club_btn_sjtj@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 54,
+                        "Scale9Height": 89,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 1003.9499,
+                          "Y": 324.3076
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 5.0197,
+                          "Y": 1.6215
+                        },
+                        "PreSize": {
+                          "X": 0.42,
+                          "Y": 0.555
+                        },
+                        "LeftMargin": 961.9499,
+                        "RightMargin": -845.95,
+                        "TopMargin": -179.8076,
+                        "BottomMargin": 268.8076,
+                        "Tag": 490,
+                        "ActionTag": 1983530452,
+                        "Size": {
+                          "X": 84.0,
+                          "Y": 111.0
+                        },
+                        "Name": "btn_statisstics",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "clubres/clubinfo/club_btn_wxyq@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 54,
+                        "Scale9Height": 89,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 366.0438,
+                          "Y": 190.1206
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 1.8302,
+                          "Y": 0.9506
+                        },
+                        "PreSize": {
+                          "X": 0.42,
+                          "Y": 0.555
+                        },
+                        "LeftMargin": 324.0438,
+                        "RightMargin": -208.0438,
+                        "TopMargin": -45.6206,
+                        "BottomMargin": 134.6206,
+                        "Tag": 491,
+                        "ActionTag": -595488889,
+                        "Size": {
+                          "X": 84.0,
+                          "Y": 111.0
+                        },
+                        "Name": "btn_invite",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 2034408944,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "Name": "mangerui",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "clubres/clubinfo/club_btn_clean@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 4,
+                    "Scale9Width": 154,
+                    "Scale9Height": 64,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 540.0,
+                      "Y": 60.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 2.7,
+                      "Y": 0.3
+                    },
+                    "PreSize": {
+                      "X": 0.92,
+                      "Y": 0.36
+                    },
+                    "LeftMargin": 448.0,
+                    "RightMargin": -432.0,
+                    "TopMargin": 104.0,
+                    "BottomMargin": 24.0,
+                    "Tag": 1286,
+                    "ActionTag": -1088039233,
+                    "Size": {
+                      "X": 184.0,
+                      "Y": 72.0
+                    },
+                    "Name": "btn_clearmessage",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "clubres/clubinfo/club_btn_quit@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 4,
+                    "Scale9Width": 154,
+                    "Scale9Height": 64,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 850.0,
+                      "Y": 60.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 4.25,
+                      "Y": 0.3
+                    },
+                    "PreSize": {
+                      "X": 0.92,
+                      "Y": 0.36
+                    },
+                    "LeftMargin": 758.0,
+                    "RightMargin": -742.0,
+                    "TopMargin": 104.0,
+                    "BottomMargin": 24.0,
+                    "Tag": 1296,
+                    "ActionTag": -2065117629,
+                    "Size": {
+                      "X": 184.0,
+                      "Y": 72.0
+                    },
+                    "Name": "btn_qiutclub",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 409897399,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "managerPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_btn_return@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 4,
+                "Scale9Width": 30,
+                "Scale9Height": 55,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 45.44,
+                  "Y": 595.2
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.04,
+                  "Y": 0.93
+                },
+                "PreSize": {
+                  "X": 0.0528,
+                  "Y": 0.0984
+                },
+                "LeftMargin": 15.44,
+                "RightMargin": 1060.5601,
+                "TopMargin": 13.3,
+                "BottomMargin": 563.7,
+                "Tag": 137,
+                "ActionTag": -1068968725,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 63.0
+                },
+                "Name": "closeBtn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1249620858,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "clubres/clubinfo/club_bg@2x.png",
+        "clubres/clubinfo/club_bg_beizhu@2x.png",
+        "clubres/clubinfo/club_bg_tishi@2x.png",
+        "clubres/clubinfo/club_btn_addGame@2x.png",
+        "clubres/clubinfo/club_btn_clean@2x.png",
+        "clubres/clubinfo/club_btn_cyxx@2x.png",
+        "clubres/clubinfo/club_btn_fksz@2x.png",
+        "clubres/clubinfo/club_btn_jiesan@2x.png",
+        "clubres/clubinfo/club_btn_quit@2x.png",
+        "clubres/clubinfo/club_btn_sjtj@2x.png",
+        "clubres/clubinfo/club_btn_sqlb@2x.png",
+        "clubres/clubinfo/club_btn_wxyq@2x.png",
+        "clubres/clubinfo/club_btn_xggg@2x.png",
+        "clubres/clubinfo/club_btn_xgmc@2x.png",
+        "clubres/clubinfo/club_btn_xgtx@2x.png",
+        "clubres/clubinfo/club_btn_xxtz@2x.png",
+        "clubres/clubinfo/club_img_fjlb1@2x.png",
+        "clubres/clubinfo/club_img_fjlb2@2x.png",
+        "clubres/clubinfo/club_img_jlbgl1@2x.png",
+        "clubres/clubinfo/club_img_jlbgl2@2x.png",
+        "clubres/clubinfo/club_img_jlbzj@2x.png",
+        "clubres/clubinfo/club_img_jlbzj2@2x.png",
+        "clubres/clubinfo/club_img_ksbf2@2x.png",
+        "clubres/clubinfo/club_img_ksbj1@2x.png",
+        "clubRoomSetItem.json",
+        "commonCells/commonPic/createPic/goldCreate/yyjb_bg_invite@2x.png",
+        "commonCells/commonPic/createPic/goldCreate/yyjb_btn_tb1@2x.png",
+        "commonCells/commonPic/createPic/goldCreate/yyjb_btn_tb2@2x.png",
+        "commonCells/commonPic/hallPic/goldScene/yyjb_btn_return@2x.png",
+        "commonCells/commonPic/hallPic/jxnn_img_tishidian@2x.png",
+        "Default/Button_Disable.png",
+        "Font/FZY4JW_0569.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

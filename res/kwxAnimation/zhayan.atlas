@@ -1,0 +1,40 @@
+
+zhayan.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+r1
+  rotate: false
+  xy: 2, 2
+  size: 669, 544
+  orig: 669, 544
+  offset: 0, 0
+  index: -1
+r2
+  rotate: true
+  xy: 673, 444
+  size: 102, 59
+  orig: 102, 59
+  offset: 0, 0
+  index: -1
+r3
+  rotate: true
+  xy: 673, 340
+  size: 102, 59
+  orig: 102, 59
+  offset: 0, 0
+  index: -1
+r4
+  rotate: true
+  xy: 673, 236
+  size: 102, 59
+  orig: 102, 59
+  offset: 0, 0
+  index: -1
+r5
+  rotate: true
+  xy: 673, 132
+  size: 102, 59
+  orig: 102, 59
+  offset: 0, 0
+  index: -1

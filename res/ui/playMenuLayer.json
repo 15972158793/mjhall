@@ -1,0 +1,719 @@
+{
+  "ID": "c39d35c0-69ff-455c-8731-1181b3980b45",
+  "Version": "2.3.4",
+  "Name": "playMenuLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 686,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/inRoomSamePic/yypk_roomMask@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 687,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -15,
+                "Scale9OriginY": -11,
+                "Scale9Width": 30,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 37.3455,
+                  "Y": 487.4882
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1348,
+                  "Y": 0.7617
+                },
+                "PreSize": {
+                  "X": 0.2888,
+                  "Y": 0.125
+                },
+                "LeftMargin": -2.6545,
+                "RightMargin": 199.6545,
+                "TopMargin": 112.5118,
+                "BottomMargin": 447.4882,
+                "Tag": 688,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/inRoomSamePic/yypk_btn_music@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 14,
+                    "Scale9OriginY": 14,
+                    "Scale9Width": 13,
+                    "Scale9Height": 37,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5125,
+                      "Y": 0.8125
+                    },
+                    "LeftMargin": 19.5,
+                    "RightMargin": 19.5,
+                    "TopMargin": 7.5,
+                    "BottomMargin": 7.5,
+                    "Tag": 689,
+                    "ActionTag": -2010663766,
+                    "Size": {
+                      "X": 41.0,
+                      "Y": 65.0
+                    },
+                    "Name": "sp",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/inRoomSamePic/yypk_img_forbidden@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 14,
+                    "Scale9OriginY": 14,
+                    "Scale9Width": 16,
+                    "Scale9Height": 16,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.55,
+                      "Y": 0.55
+                    },
+                    "LeftMargin": 18.0,
+                    "RightMargin": 18.0,
+                    "TopMargin": 18.0,
+                    "BottomMargin": 18.0,
+                    "Tag": 690,
+                    "ActionTag": 1265863423,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 44.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "spIconMusic",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1915765030,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 80.0
+                },
+                "Name": "btn_yinyue",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -15,
+                "Scale9OriginY": -11,
+                "Scale9Width": 30,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 37.3411,
+                  "Y": 383.314
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1348,
+                  "Y": 0.5989
+                },
+                "PreSize": {
+                  "X": 0.2888,
+                  "Y": 0.125
+                },
+                "LeftMargin": -2.6589,
+                "RightMargin": 199.6589,
+                "TopMargin": 216.686,
+                "BottomMargin": 343.314,
+                "Tag": 691,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/inRoomSamePic/yypk_btn_sound@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 14,
+                    "Scale9OriginY": 20,
+                    "Scale9Width": 15,
+                    "Scale9Height": 23,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5375,
+                      "Y": 0.7875
+                    },
+                    "LeftMargin": 18.5,
+                    "RightMargin": 18.5,
+                    "TopMargin": 8.5,
+                    "BottomMargin": 8.5,
+                    "Tag": 692,
+                    "ActionTag": 1567758205,
+                    "Size": {
+                      "X": 43.0,
+                      "Y": 63.0
+                    },
+                    "Name": "sp",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/inRoomSamePic/yypk_img_forbidden@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 14,
+                    "Scale9OriginY": 14,
+                    "Scale9Width": 16,
+                    "Scale9Height": 16,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.55,
+                      "Y": 0.55
+                    },
+                    "LeftMargin": 18.0,
+                    "RightMargin": 18.0,
+                    "TopMargin": 18.0,
+                    "BottomMargin": 18.0,
+                    "Tag": 693,
+                    "ActionTag": -166960923,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 44.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "spIconEffect",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -754639917,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 80.0
+                },
+                "Name": "btn_yinxiao",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -15,
+                "Scale9OriginY": -11,
+                "Scale9Width": 30,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 37.3455,
+                  "Y": 279.1395
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1348,
+                  "Y": 0.4362
+                },
+                "PreSize": {
+                  "X": 0.2888,
+                  "Y": 0.125
+                },
+                "LeftMargin": -2.6545,
+                "RightMargin": 199.6545,
+                "TopMargin": 320.8605,
+                "BottomMargin": 239.1395,
+                "Tag": 694,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/inRoomSamePic/btn_wenti@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 22,
+                    "Scale9Width": 15,
+                    "Scale9Height": 23,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5125,
+                      "Y": 0.8375
+                    },
+                    "LeftMargin": 19.5,
+                    "RightMargin": 19.5,
+                    "TopMargin": 6.5,
+                    "BottomMargin": 6.5,
+                    "Tag": 695,
+                    "ActionTag": 999581137,
+                    "Size": {
+                      "X": 41.0,
+                      "Y": 67.0
+                    },
+                    "Name": "sp",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -539153362,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 80.0
+                },
+                "Name": "btn_bangzhu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -15,
+                "Scale9OriginY": -11,
+                "Scale9Width": 30,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 37.346,
+                  "Y": 174.9668
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1348,
+                  "Y": 0.2734
+                },
+                "PreSize": {
+                  "X": 0.2888,
+                  "Y": 0.125
+                },
+                "LeftMargin": -2.654,
+                "RightMargin": 199.654,
+                "TopMargin": 425.0332,
+                "BottomMargin": 134.9668,
+                "Tag": 696,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/inRoomSamePic/btn_zhuti@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 20,
+                    "Scale9Width": 17,
+                    "Scale9Height": 23,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5875,
+                      "Y": 0.7875
+                    },
+                    "LeftMargin": 16.5,
+                    "RightMargin": 16.5,
+                    "TopMargin": 8.5,
+                    "BottomMargin": 8.5,
+                    "Tag": 697,
+                    "ActionTag": -1178772538,
+                    "Size": {
+                      "X": 47.0,
+                      "Y": 63.0
+                    },
+                    "Name": "sp",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 535671140,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 80.0
+                },
+                "Name": "btn_huanfu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -15,
+                "Scale9OriginY": -11,
+                "Scale9Width": 30,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 37.3455,
+                  "Y": 70.7939
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1348,
+                  "Y": 0.1106
+                },
+                "PreSize": {
+                  "X": 0.2888,
+                  "Y": 0.125
+                },
+                "LeftMargin": -2.6545,
+                "RightMargin": 199.6545,
+                "TopMargin": 529.2061,
+                "BottomMargin": 30.7939,
+                "Tag": 698,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/inRoomSamePic/gold_tuichu@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 20,
+                    "Scale9Width": 15,
+                    "Scale9Height": 23,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5125,
+                      "Y": 0.7875
+                    },
+                    "LeftMargin": 19.5,
+                    "RightMargin": 19.5,
+                    "TopMargin": 8.5,
+                    "BottomMargin": 8.5,
+                    "Tag": 699,
+                    "ActionTag": -1053386515,
+                    "Size": {
+                      "X": 41.0,
+                      "Y": 63.0
+                    },
+                    "Name": "sp",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1619211181,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 80.0
+                },
+                "Name": "btn_jiesan",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -627098427,
+            "Size": {
+              "X": 277.0,
+              "Y": 640.0
+            },
+            "Name": "btn_list",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 277.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/inRoomSamePic/btn_wenti@2x.png",
+        "commonCells/commonPic/inRoomSamePic/btn_zhuti@2x.png",
+        "commonCells/commonPic/inRoomSamePic/gold_tuichu@2x.png",
+        "commonCells/commonPic/inRoomSamePic/yypk_btn_music@2x.png",
+        "commonCells/commonPic/inRoomSamePic/yypk_btn_sound@2x.png",
+        "commonCells/commonPic/inRoomSamePic/yypk_img_forbidden@2x.png",
+        "commonCells/commonPic/inRoomSamePic/yypk_roomMask@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

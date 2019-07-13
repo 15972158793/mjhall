@@ -1,0 +1,2737 @@
+{
+  "ID": "f9603d6e-fcc8-4b8d-b3d3-307c8e367a16",
+  "Version": "2.3.4",
+  "Name": "goldNysTable_GameUi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 381,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/inRoomSamePic/yypk_img_wifi.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 7,
+            "Scale9OriginY": 6,
+            "Scale9Width": 10,
+            "Scale9Height": 8,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 102.4745,
+              "Y": 617.9734
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0902,
+              "Y": 0.9656
+            },
+            "PreSize": {
+              "X": 0.0211,
+              "Y": 0.0313
+            },
+            "LeftMargin": 90.4745,
+            "RightMargin": 1021.5255,
+            "TopMargin": 12.0266,
+            "BottomMargin": 607.9734,
+            "Tag": 3938,
+            "ActionTag": -828517139,
+            "Size": {
+              "X": 24.0,
+              "Y": 20.0
+            },
+            "Name": "wifi",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "18:00\n",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Font/FZY4JW_0569.TTF",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 131.208,
+              "Y": 591.168
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 238,
+              "G": 209,
+              "B": 56
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.1155,
+              "Y": 0.9237
+            },
+            "PreSize": {
+              "X": 0.1585,
+              "Y": 0.0391
+            },
+            "LeftMargin": 41.208,
+            "RightMargin": 914.792,
+            "TopMargin": 36.332,
+            "BottomMargin": 578.668,
+            "Tag": 3939,
+            "ActionTag": 123626595,
+            "Size": {
+              "X": 180.0,
+              "Y": 25.0
+            },
+            "Name": "time",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0405,
+              "Y": 0.0719
+            },
+            "LeftMargin": 545.0,
+            "RightMargin": 545.0,
+            "TopMargin": 297.0,
+            "BottomMargin": 297.0,
+            "Tag": 357,
+            "ActionTag": -1838501131,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "diFen",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 22,
+            "LabelText": "本场每局消耗1000金币",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Font/FZY4JW_0569.TTF",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 182.9632
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2859
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.0547
+            },
+            "LeftMargin": 418.0,
+            "RightMargin": 418.0,
+            "TopMargin": 439.5368,
+            "BottomMargin": 165.4632,
+            "Tag": 374,
+            "ActionTag": 1368692545,
+            "Size": {
+              "X": 300.0,
+              "Y": 35.0
+            },
+            "Name": "payScore",
+            "ctype": "TextObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 668.0,
+              "Y": 547.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.588,
+              "Y": 0.8547
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.3125
+            },
+            "LeftMargin": 568.0,
+            "RightMargin": 368.0,
+            "TopMargin": -7.0,
+            "BottomMargin": 447.0,
+            "Tag": 1078,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/ptj_bg_jishi@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 22,
+                "Scale9OriginY": 22,
+                "Scale9Width": 24,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.34,
+                  "Y": 0.34
+                },
+                "LeftMargin": -34.0,
+                "RightMargin": 166.0,
+                "TopMargin": 166.0,
+                "BottomMargin": -34.0,
+                "Tag": 1079,
+                "ActionTag": 1951596453,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 68.0
+                },
+                "Name": "Image_8",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "zjhCells/gold/nn_img_waitting@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 51,
+                "Scale9OriginY": 12,
+                "Scale9Width": 52,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": -60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": -0.3
+                },
+                "PreSize": {
+                  "X": 0.77,
+                  "Y": 0.185
+                },
+                "LeftMargin": -77.0,
+                "RightMargin": 123.0,
+                "TopMargin": 241.5,
+                "BottomMargin": -78.5,
+                "Tag": 1080,
+                "ActionTag": -170066730,
+                "Size": {
+                  "X": 154.0,
+                  "Y": 37.0
+                },
+                "Name": "Image_6",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "999",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.8857,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0044,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.68,
+                  "Y": 0.115
+                },
+                "LeftMargin": -67.1143,
+                "RightMargin": 131.1143,
+                "TopMargin": 188.5,
+                "BottomMargin": -11.5,
+                "Tag": 1081,
+                "ActionTag": 1516854685,
+                "Size": {
+                  "X": 136.0,
+                  "Y": 23.0
+                },
+                "Name": "txt",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1840913536,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "readyMovie",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "inRoomSamePic/img_battery2.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 5,
+            "Scale9Width": 13,
+            "Scale9Height": 7,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 120.7518,
+              "Y": 608.566
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1063,
+              "Y": 0.9509
+            },
+            "PreSize": {
+              "X": 0.029,
+              "Y": 0.0266
+            },
+            "LeftMargin": 120.7518,
+            "RightMargin": 982.2482,
+            "TopMargin": 14.434,
+            "BottomMargin": 608.566,
+            "Tag": 3940,
+            "Children": [
+              {
+                "ProgressInfo": 100,
+                "ImageFileData": {
+                  "Type": "Normal",
+                  "Path": "inRoomSamePic/img_battery.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 3941,
+                "ActionTag": -236006019,
+                "Size": {
+                  "X": 33.0,
+                  "Y": 17.0
+                },
+                "Name": "dianchi",
+                "ctype": "LoadingBarObjectData"
+              }
+            ],
+            "ActionTag": -1904261352,
+            "Size": {
+              "X": 33.0,
+              "Y": 17.0
+            },
+            "Name": "dianchiBg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 24,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "goldNYS/nn_btn_tz@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 172,
+            "Scale9Height": 48,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 245.632
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3838
+            },
+            "PreSize": {
+              "X": 0.1778,
+              "Y": 0.1094
+            },
+            "LeftMargin": 467.0,
+            "RightMargin": 467.0,
+            "TopMargin": 359.368,
+            "BottomMargin": 210.632,
+            "Tag": 475,
+            "Children": [
+              {
+                "FontSize": 30,
+                "LabelText": "122",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 165,
+                  "G": 42,
+                  "B": 42
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.9252,
+                  "Y": 36.477
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.7026,
+                  "Y": 0.5211
+                },
+                "PreSize": {
+                  "X": 0.2327,
+                  "Y": 0.5
+                },
+                "LeftMargin": 94.9252,
+                "RightMargin": 60.0748,
+                "TopMargin": 16.023,
+                "BottomMargin": 18.977,
+                "Tag": 546,
+                "ActionTag": -1446479344,
+                "Size": {
+                  "X": 47.0,
+                  "Y": 35.0
+                },
+                "Name": "label",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -332319537,
+            "Size": {
+              "X": 202.0,
+              "Y": 70.0
+            },
+            "Name": "btn_tuizhu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 420.32,
+              "Y": 192.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.37,
+              "Y": 0.3
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.1563
+            },
+            "LeftMargin": 420.32,
+            "RightMargin": 415.68,
+            "TopMargin": 348.0,
+            "BottomMargin": 192.0,
+            "Tag": 1189,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/nn_btn_green_l@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 156,
+                "Scale9Height": 63,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 60.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.62,
+                  "Y": 0.85
+                },
+                "LeftMargin": -33.0,
+                "RightMargin": 147.0,
+                "TopMargin": 7.5,
+                "BottomMargin": 7.5,
+                "Tag": 1192,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "niuniuPic/img_tishi@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.0,
+                      "Y": 42.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3441,
+                      "Y": 0.3412
+                    },
+                    "LeftMargin": 61.0,
+                    "RightMargin": 61.0,
+                    "TopMargin": 28.0,
+                    "BottomMargin": 28.0,
+                    "Tag": 1194,
+                    "ActionTag": -775663598,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Sprite_57",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1997623015,
+                "Size": {
+                  "X": 186.0,
+                  "Y": 85.0
+                },
+                "Name": "btn_showTishi",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/nn_btn_yellow_l@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 156,
+                "Scale9Height": 63,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.62,
+                  "Y": 0.85
+                },
+                "LeftMargin": 147.0,
+                "RightMargin": -33.0,
+                "TopMargin": 7.5,
+                "BottomMargin": 7.5,
+                "Tag": 1193,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "niuniuPic/img_liangpai@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.0,
+                      "Y": 42.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3441,
+                      "Y": 0.3412
+                    },
+                    "LeftMargin": 61.0,
+                    "RightMargin": 61.0,
+                    "TopMargin": 28.0,
+                    "BottomMargin": 28.0,
+                    "Tag": 1195,
+                    "ActionTag": -646835275,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Sprite_57_0",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1580508576,
+                "Size": {
+                  "X": 186.0,
+                  "Y": 85.0
+                },
+                "Name": "btn_show",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1117402563,
+            "Size": {
+              "X": 300.0,
+              "Y": 100.0
+            },
+            "Name": "btn_showCardLayer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 420.32,
+              "Y": 192.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.37,
+              "Y": 0.3
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.1563
+            },
+            "LeftMargin": 420.32,
+            "RightMargin": 415.68,
+            "TopMargin": 348.0,
+            "BottomMargin": 192.0,
+            "Tag": 1188,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/nn_btn_green_l@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 156,
+                "Scale9Height": 63,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 60.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.62,
+                  "Y": 0.85
+                },
+                "LeftMargin": -33.0,
+                "RightMargin": 147.0,
+                "TopMargin": 7.5,
+                "BottomMargin": 7.5,
+                "Tag": 1190,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldNYS/nn_img_cp@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.0,
+                      "Y": 42.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3978,
+                      "Y": 0.3882
+                    },
+                    "LeftMargin": 56.0,
+                    "RightMargin": 56.0,
+                    "TopMargin": 26.0,
+                    "BottomMargin": 26.0,
+                    "Tag": 1196,
+                    "ActionTag": -1247285484,
+                    "Size": {
+                      "X": 74.0,
+                      "Y": 33.0
+                    },
+                    "Name": "Sprite_57_1",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -2009019504,
+                "Size": {
+                  "X": 186.0,
+                  "Y": 85.0
+                },
+                "Name": "btn_cuo",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/nn_btn_yellow_l@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 156,
+                "Scale9Height": 63,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.62,
+                  "Y": 0.85
+                },
+                "LeftMargin": 147.0,
+                "RightMargin": -33.0,
+                "TopMargin": 7.5,
+                "BottomMargin": 7.5,
+                "Tag": 1191,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldNYS/nn_img_fp@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.0,
+                      "Y": 42.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3978,
+                      "Y": 0.3882
+                    },
+                    "LeftMargin": 56.0,
+                    "RightMargin": 56.0,
+                    "TopMargin": 26.0,
+                    "BottomMargin": 26.0,
+                    "Tag": 1197,
+                    "ActionTag": -576462728,
+                    "Size": {
+                      "X": 74.0,
+                      "Y": 33.0
+                    },
+                    "Name": "Sprite_57_2",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1505471076,
+                "Size": {
+                  "X": 186.0,
+                  "Y": 85.0
+                },
+                "Name": "btn_fan",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -74702627,
+            "Size": {
+              "X": 300.0,
+              "Y": 100.0
+            },
+            "Name": "btn_cuoPaiLayer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 239.6662
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3745
+            },
+            "PreSize": {
+              "X": 0.4577,
+              "Y": 0.3125
+            },
+            "LeftMargin": 308.0,
+            "RightMargin": 308.0,
+            "TopMargin": 300.3338,
+            "BottomMargin": 139.6662,
+            "Tag": 105,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/nn_btn_green_s@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 102,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 104.4817
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.5224
+                },
+                "PreSize": {
+                  "X": 0.2538,
+                  "Y": 0.35
+                },
+                "LeftMargin": -66.0,
+                "RightMargin": 454.0,
+                "TopMargin": 60.5183,
+                "BottomMargin": 69.4817,
+                "Tag": 109,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldNYS/nn_img_bq@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 19,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 35,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 66.0,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.553,
+                      "Y": 0.4714
+                    },
+                    "LeftMargin": 29.5,
+                    "RightMargin": 29.5,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 18.5,
+                    "Tag": 1609,
+                    "ActionTag": -1859144426,
+                    "Size": {
+                      "X": 73.0,
+                      "Y": 33.0
+                    },
+                    "Name": "Image",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -898328781,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 70.0
+                },
+                "Name": "qzBtn_0",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/nn_btn_yellow_s@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 102,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 130.0,
+                  "Y": 103.5825
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.25,
+                  "Y": 0.5179
+                },
+                "PreSize": {
+                  "X": 0.2538,
+                  "Y": 0.35
+                },
+                "LeftMargin": 64.0,
+                "RightMargin": 324.0,
+                "TopMargin": 61.4175,
+                "BottomMargin": 68.5825,
+                "Tag": 106,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldNYS/nn_img_bei1@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 29,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 66.0,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.4167,
+                      "Y": 0.4714
+                    },
+                    "LeftMargin": 38.5,
+                    "RightMargin": 38.5,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 18.5,
+                    "Tag": 1610,
+                    "ActionTag": 294645332,
+                    "Size": {
+                      "X": 55.0,
+                      "Y": 33.0
+                    },
+                    "Name": "Image_0",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 5134245,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 70.0
+                },
+                "Name": "qzBtn_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/nn_btn_yellow_s@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 102,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 260.0,
+                  "Y": 103.5825
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5179
+                },
+                "PreSize": {
+                  "X": 0.2538,
+                  "Y": 0.35
+                },
+                "LeftMargin": 194.0,
+                "RightMargin": 194.0,
+                "TopMargin": 61.4175,
+                "BottomMargin": 68.5825,
+                "Tag": 107,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldNYS/nn_img_bei2@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 30,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 66.0,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.4545,
+                      "Y": 0.4714
+                    },
+                    "LeftMargin": 36.0,
+                    "RightMargin": 36.0,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 18.5,
+                    "Tag": 1611,
+                    "ActionTag": 538530743,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 33.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1713508699,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 70.0
+                },
+                "Name": "qzBtn_2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/nn_btn_yellow_s@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 102,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 390.0,
+                  "Y": 103.5825
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.75,
+                  "Y": 0.5179
+                },
+                "PreSize": {
+                  "X": 0.2538,
+                  "Y": 0.35
+                },
+                "LeftMargin": 324.0,
+                "RightMargin": 64.0,
+                "TopMargin": 61.4175,
+                "BottomMargin": 68.5825,
+                "Tag": 371,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldNYS/nn_img_bei3@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 30,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 66.0,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.4545,
+                      "Y": 0.4714
+                    },
+                    "LeftMargin": 36.0,
+                    "RightMargin": 36.0,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 18.5,
+                    "Tag": 372,
+                    "ActionTag": 85293430,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 33.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -603220538,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 70.0
+                },
+                "Name": "qzBtn_3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/nn_btn_yellow_s@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 102,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 520.0,
+                  "Y": 103.5825
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.0,
+                  "Y": 0.5179
+                },
+                "PreSize": {
+                  "X": 0.2538,
+                  "Y": 0.35
+                },
+                "LeftMargin": 454.0,
+                "RightMargin": -66.0,
+                "TopMargin": 61.4175,
+                "BottomMargin": 68.5825,
+                "Tag": 108,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldNYS/nn_img_bei4@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 31,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 66.0,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.4621,
+                      "Y": 0.4714
+                    },
+                    "LeftMargin": 35.5,
+                    "RightMargin": 35.5,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 18.5,
+                    "Tag": 1612,
+                    "ActionTag": 1793281302,
+                    "Size": {
+                      "X": 61.0,
+                      "Y": 33.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 999089212,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 70.0
+                },
+                "Name": "qzBtn_4",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1335886736,
+            "Size": {
+              "X": 520.0,
+              "Y": 200.0
+            },
+            "Name": "QZbtnLayer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "commonCells/game/nn_btn_green_l@2x.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 24,
+            "Scale9OriginY": 18,
+            "Scale9Width": 128,
+            "Scale9Height": 53,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 658.88,
+              "Y": 240.96
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.58,
+              "Y": 0.3765
+            },
+            "PreSize": {
+              "X": 0.1637,
+              "Y": 0.1328
+            },
+            "LeftMargin": 565.88,
+            "RightMargin": 384.12,
+            "TopMargin": 356.54,
+            "BottomMargin": 198.46,
+            "Tag": 5375,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "zjhCells/gold/psz_img_zhunbei@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 24,
+                "Scale9OriginY": 10,
+                "Scale9Width": 25,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 93.0,
+                  "Y": 42.5
+                },
+                "Scale": {
+                  "ScaleX": 1.3,
+                  "ScaleY": 1.3
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3925,
+                  "Y": 0.3882
+                },
+                "LeftMargin": 56.5,
+                "RightMargin": 56.5,
+                "TopMargin": 26.0,
+                "BottomMargin": 26.0,
+                "Tag": 1453,
+                "ActionTag": -1976514275,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 33.0
+                },
+                "Name": "Image_132",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 734479008,
+            "Size": {
+              "X": 186.0,
+              "Y": 85.0
+            },
+            "Name": "beginBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 569.2117,
+              "Y": 244.864
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5011,
+              "Y": 0.3826
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.0938
+            },
+            "LeftMargin": 469.2117,
+            "RightMargin": 466.7883,
+            "TopMargin": 365.136,
+            "BottomMargin": 214.864,
+            "Tag": 6345,
+            "Children": [
+              {
+                "FontSize": 24,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/nn_btn_green_s@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 102,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -160.0,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.8,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.66,
+                  "Y": 1.1667
+                },
+                "LeftMargin": -226.0,
+                "RightMargin": 294.0,
+                "TopMargin": -5.0,
+                "BottomMargin": -5.0,
+                "Tag": 6346,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldNYS/nn_img_bei1@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 19,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 66.0,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.04,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.4167,
+                      "Y": 0.4714
+                    },
+                    "LeftMargin": 38.5,
+                    "RightMargin": 38.5,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 18.5,
+                    "Tag": 6351,
+                    "ActionTag": -1953950169,
+                    "Size": {
+                      "X": 55.0,
+                      "Y": 33.0
+                    },
+                    "Name": "Image_414",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 874977011,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 70.0
+                },
+                "Name": "gamebets1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/nn_btn_green_s@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 102,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -30.0,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": -0.15,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.66,
+                  "Y": 1.1667
+                },
+                "LeftMargin": -96.0,
+                "RightMargin": 164.0,
+                "TopMargin": -5.0,
+                "BottomMargin": -5.0,
+                "Tag": 6347,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldNYS/nn_img_bei2@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 24,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 66.0,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.04,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.4545,
+                      "Y": 0.4714
+                    },
+                    "LeftMargin": 36.0,
+                    "RightMargin": 36.0,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 18.5,
+                    "Tag": 6352,
+                    "ActionTag": -1392677010,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 33.0
+                    },
+                    "Name": "Image_414_0",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -484432330,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 70.0
+                },
+                "Name": "gamebets2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/nn_btn_green_s@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 102,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 100.0,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.66,
+                  "Y": 1.1667
+                },
+                "LeftMargin": 34.0,
+                "RightMargin": 34.0,
+                "TopMargin": -5.0,
+                "BottomMargin": -5.0,
+                "Tag": 6348,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldNYS/nn_img_bei3@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 24,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 66.0,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.04,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.4545,
+                      "Y": 0.4714
+                    },
+                    "LeftMargin": 36.0,
+                    "RightMargin": 36.0,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 18.5,
+                    "Tag": 6353,
+                    "ActionTag": 1754685089,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 33.0
+                    },
+                    "Name": "Image_414_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1910998898,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 70.0
+                },
+                "Name": "gamebets3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/nn_btn_green_s@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 102,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 230.0,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 1.15,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.66,
+                  "Y": 1.1667
+                },
+                "LeftMargin": 164.0,
+                "RightMargin": -96.0,
+                "TopMargin": -5.0,
+                "BottomMargin": -5.0,
+                "Tag": 6349,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldNYS/nn_img_bei4@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 25,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 66.0,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.04,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.4621,
+                      "Y": 0.4714
+                    },
+                    "LeftMargin": 35.5,
+                    "RightMargin": 35.5,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 18.5,
+                    "Tag": 6354,
+                    "ActionTag": 1924079726,
+                    "Size": {
+                      "X": 61.0,
+                      "Y": 33.0
+                    },
+                    "Name": "Image_414_2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 524117763,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 70.0
+                },
+                "Name": "gamebets4",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/nn_btn_green_s@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 102,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 360.0,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 1.8,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.66,
+                  "Y": 1.1667
+                },
+                "LeftMargin": 294.0,
+                "RightMargin": -226.0,
+                "TopMargin": -5.0,
+                "BottomMargin": -5.0,
+                "Tag": 6350,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldNYS/nn_img_bei5@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 24,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 66.0,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.04,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.4545,
+                      "Y": 0.4714
+                    },
+                    "LeftMargin": 36.0,
+                    "RightMargin": 36.0,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 18.5,
+                    "Tag": 6355,
+                    "ActionTag": 753066644,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 33.0
+                    },
+                    "Name": "Image_414_3",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1595977446,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 70.0
+                },
+                "Name": "gamebets5",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -208954490,
+            "Size": {
+              "X": 200.0,
+              "Y": 60.0
+            },
+            "Name": "gamebets",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "commonCells/game/nn_btn_yellow_l@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 156,
+            "Scale9Height": 63,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 477.12,
+              "Y": 240.96
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.42,
+              "Y": 0.3765
+            },
+            "PreSize": {
+              "X": 0.1637,
+              "Y": 0.1328
+            },
+            "LeftMargin": 384.12,
+            "RightMargin": 565.88,
+            "TopMargin": 356.54,
+            "BottomMargin": 198.46,
+            "Tag": 1083,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/game/psz_img_huanzhuo@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 93.0,
+                  "Y": 42.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4677,
+                  "Y": 0.4471
+                },
+                "LeftMargin": 49.5,
+                "RightMargin": 49.5,
+                "TopMargin": 23.5,
+                "BottomMargin": 23.5,
+                "Tag": 1084,
+                "ActionTag": -1279634875,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 38.0
+                },
+                "Name": "Sprite_3",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1063979606,
+            "Size": {
+              "X": 186.0,
+              "Y": 85.0
+            },
+            "Name": "changetab",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/inRoomSamePic/yypk_img_wifi.png",
+        "commonCells/game/nn_btn_green_l@2x.png",
+        "commonCells/game/nn_btn_green_s@2x.png",
+        "commonCells/game/nn_btn_yellow_l@2x.png",
+        "commonCells/game/nn_btn_yellow_s@2x.png",
+        "commonCells/game/psz_img_huanzhuo@2x.png",
+        "Default/Sprite.png",
+        "Font/FZY4JW_0569.TTF",
+        "goldNYS/loadRes/ptj_bg_jishi@2x.png",
+        "goldNYS/nn_btn_tz@2x.png",
+        "goldNYS/nn_img_bei1@2x.png",
+        "goldNYS/nn_img_bei2@2x.png",
+        "goldNYS/nn_img_bei3@2x.png",
+        "goldNYS/nn_img_bei4@2x.png",
+        "goldNYS/nn_img_bei5@2x.png",
+        "goldNYS/nn_img_bq@2x.png",
+        "goldNYS/nn_img_cp@2x.png",
+        "goldNYS/nn_img_fp@2x.png",
+        "inRoomSamePic/img_battery.png",
+        "inRoomSamePic/img_battery2.png",
+        "niuniuPic/img_liangpai@2x.png",
+        "niuniuPic/img_tishi@2x.png",
+        "zjhCells/gold/nn_img_waitting@2x.png",
+        "zjhCells/gold/psz_img_zhunbei@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

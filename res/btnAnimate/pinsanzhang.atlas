@@ -1,0 +1,33 @@
+
+pinsanzhang.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 261, 87
+  size: 188, 136
+  orig: 188, 136
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 59
+  size: 257, 164
+  orig: 257, 164
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 451, 166
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 2
+  size: 147, 55
+  orig: 147, 55
+  offset: 0, 0
+  index: -1

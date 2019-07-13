@@ -1,0 +1,26 @@
+
+xianhua1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua1
+  rotate: false
+  xy: 297, 57
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+hualunkuo
+  rotate: true
+  xy: 2, 2
+  size: 105, 167
+  orig: 105, 167
+  offset: 0, 0
+  index: -1
+zhigan
+  rotate: true
+  xy: 171, 2
+  size: 105, 124
+  orig: 105, 124
+  offset: 0, 0
+  index: -1

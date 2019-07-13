@@ -1,0 +1,26 @@
+
+zjts.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 211
+  size: 608, 207
+  orig: 608, 207
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 2
+  size: 608, 207
+  orig: 608, 207
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 612, 293
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1

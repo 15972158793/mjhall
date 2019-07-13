@@ -1,0 +1,19 @@
+
+dianzan1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou
+  rotate: false
+  xy: 2, 148
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+shoulunkuo
+  rotate: false
+  xy: 2, 2
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1

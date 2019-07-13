@@ -1,0 +1,169 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "banner", "parent": "root", "y": 7.07 },
+	{ "name": "helix", "parent": "root", "x": 84.43, "y": 33.05 },
+	{ "name": "helix2", "parent": "root", "x": -93.87, "y": 13.46 },
+	{ "name": "helix3", "parent": "root", "x": -13.15, "y": 52.62 },
+	{ "name": "t1", "parent": "root", "x": -27.26, "y": 3 },
+	{ "name": "t2", "parent": "root", "x": 35.92 }
+],
+"slots": [
+	{ "name": "banner", "bone": "banner", "attachment": "banner" },
+	{ "name": "t1", "bone": "t1", "attachment": "t1" },
+	{ "name": "t2", "bone": "t2", "attachment": "t2" },
+	{ "name": "helix", "bone": "helix", "attachment": "helix" },
+	{ "name": "helix2", "bone": "helix2", "attachment": "helix" },
+	{ "name": "helix3", "bone": "helix3", "attachment": "helix" }
+],
+"skins": {
+	"default": {
+		"banner": {
+			"banner": { "y": -15.56, "width": 187, "height": 84 }
+		},
+		"helix": {
+			"helix": { "x": 0.62, "y": -1.5, "scaleX": 0.5, "scaleY": 0.5, "width": 36, "height": 35 }
+		},
+		"helix2": {
+			"helix": { "y": -1.29, "scaleX": 0.7, "scaleY": 0.7, "width": 36, "height": 35 }
+		},
+		"helix3": {
+			"helix": { "x": -0.62, "y": -1.05, "width": 36, "height": 35 }
+		},
+		"t1": {
+			"t1": { "x": -4.14, "y": -3, "width": 68, "height": 68 }
+		},
+		"t2": {
+			"t2": { "x": -0.27, "width": 65, "height": 69 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"banner": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.4333, "x": 1.2, "y": 1.2 },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"t1": {
+				"rotate": [
+					{
+						"time": 0.3333,
+						"angle": 10.68,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6,
+						"angle": 18.31,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6333,
+						"angle": -7.29,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.6666, "angle": 0 }
+				],
+				"translate": [
+					{
+						"time": 0.3333,
+						"x": -132.34,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6333,
+						"x": 1.78,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.6666, "x": 0, "y": 0 }
+				]
+			},
+			"t2": {
+				"rotate": [
+					{ "time": 0.3333, "angle": -13.52 },
+					{ "time": 0.6, "angle": -25.91 },
+					{ "time": 0.6333, "angle": 20.87 },
+					{ "time": 0.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0.3333, "x": 129.96, "y": 0 },
+					{ "time": 0.6333, "x": -3.76, "y": 0 },
+					{ "time": 0.6666, "x": -1.53, "y": 0 }
+				]
+			},
+			"helix3": {
+				"rotate": [
+					{ "time": 0.6666, "angle": 0 },
+					{ "time": 1.3333, "angle": -180 }
+				]
+			},
+			"helix": {
+				"rotate": [
+					{ "time": 1.3333, "angle": 0 },
+					{ "time": 2, "angle": -180 }
+				]
+			},
+			"helix2": {
+				"rotate": [
+					{ "time": 0.8333, "angle": 0 },
+					{ "time": 1.5, "angle": -180 }
+				]
+			}
+		},
+		"slots": {
+			"banner": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1666, "color": "ffffffff" }
+				]
+			},
+			"helix": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffff00" },
+					{ "time": 1.5, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.8333, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
+				]
+			},
+			"t1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.6333, "color": "ffffffff" }
+				]
+			},
+			"helix2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.5, "color": "ffffff00" }
+				]
+			},
+			"t2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.6333, "color": "ffffffff" }
+				]
+			},
+			"helix3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.6666, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.1666, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}

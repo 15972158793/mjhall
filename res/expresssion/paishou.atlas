@@ -1,0 +1,40 @@
+
+paishou.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meimao01
+  rotate: false
+  xy: 25, 36
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+shenti01
+  rotate: false
+  xy: 2, 49
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+shou02
+  rotate: false
+  xy: 2, 19
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+yanjing02
+  rotate: false
+  xy: 2, 2
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+zuiba04
+  rotate: false
+  xy: 78, 91
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: -1

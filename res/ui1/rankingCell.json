@@ -1,0 +1,350 @@
+{
+  "ID": "0c45ee3a-d522-423d-a2c8-72a549c432eb",
+  "Version": "2.3.4",
+  "Name": "rankingCell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3463,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "goldRankingList/yyjb_bg_list2@2x.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 241,
+            "Scale9OriginY": 31,
+            "Scale9Width": 250,
+            "Scale9Height": 34,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 366.0,
+              "Y": 48.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 3464,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "11",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 60.0221,
+                  "Y": 47.7594
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.082,
+                  "Y": 0.4975
+                },
+                "PreSize": {
+                  "X": 0.0683,
+                  "Y": 0.3125
+                },
+                "LeftMargin": 35.0221,
+                "RightMargin": 646.9779,
+                "TopMargin": 33.2406,
+                "BottomMargin": 32.7594,
+                "Tag": 3616,
+                "ActionTag": 22359584,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 30.0
+                },
+                "Name": "rankNum",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_bg_head1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 27,
+                "Scale9OriginY": 27,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 202.7511,
+                  "Y": 49.3881
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.277,
+                  "Y": 0.5145
+                },
+                "PreSize": {
+                  "X": 0.112,
+                  "Y": 0.8542
+                },
+                "LeftMargin": 161.7511,
+                "RightMargin": 488.2489,
+                "TopMargin": 5.6119,
+                "BottomMargin": 8.3881,
+                "Tag": 3617,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "方源捡肥皂肥皂",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.7599,
+                      "Y": 50.8542
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1434,
+                      "Y": 0.6202
+                    },
+                    "PreSize": {
+                      "X": 2.439,
+                      "Y": 0.2439
+                    },
+                    "LeftMargin": 93.7599,
+                    "RightMargin": -211.7599,
+                    "TopMargin": 21.1458,
+                    "BottomMargin": 40.8542,
+                    "Tag": 3618,
+                    "ActionTag": 358409753,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 20.0
+                    },
+                    "Name": "name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "123456789",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.4392
+                    },
+                    "Position": {
+                      "X": 94.5543,
+                      "Y": 15.7587
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1531,
+                      "Y": 0.1922
+                    },
+                    "PreSize": {
+                      "X": 2.3171,
+                      "Y": 0.2439
+                    },
+                    "LeftMargin": 94.5543,
+                    "RightMargin": -202.5543,
+                    "TopMargin": 55.0253,
+                    "BottomMargin": 6.9747,
+                    "Tag": 3619,
+                    "ActionTag": -1253837386,
+                    "Size": {
+                      "X": 190.0,
+                      "Y": 20.0
+                    },
+                    "Name": "id",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1020062073,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 82.0
+                },
+                "Name": "icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "CharWidth": 22,
+                "CharHeight": 28,
+                "LabelText": "./0123456789",
+                "StartChar": ".",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "goldRankingList/yyjb_font2.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 701.2599,
+                  "Y": 46.7929
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.958,
+                  "Y": 0.4874
+                },
+                "PreSize": {
+                  "X": 0.3607,
+                  "Y": 0.2917
+                },
+                "LeftMargin": 437.2599,
+                "RightMargin": 30.7401,
+                "TopMargin": 35.2071,
+                "BottomMargin": 32.7929,
+                "Tag": 3621,
+                "ActionTag": 269028887,
+                "Size": {
+                  "X": 264.0,
+                  "Y": 28.0
+                },
+                "Name": "money",
+                "ctype": "TextAtlasObjectData"
+              }
+            ],
+            "ActionTag": -1419094041,
+            "Size": {
+              "X": 732.0,
+              "Y": 96.0
+            },
+            "Name": "bg",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 732.0,
+          "Y": 96.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/hallPic/goldScene/yyjb_bg_head1@2x.png",
+        "Font/FZY4JW_0569.TTF",
+        "goldRankingList/yyjb_bg_list2@2x.png",
+        "goldRankingList/yyjb_font2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

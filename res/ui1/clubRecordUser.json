@@ -1,0 +1,211 @@
+{
+  "ID": "5b17c288-cb8c-4c32-8bc0-a079afaa3896",
+  "Version": "2.3.4",
+  "Name": "clubRecordUser",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 399,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "clubres/clubinfo/club_bg_head2@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 21.0,
+              "Y": 22.9998
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1105,
+              "Y": 0.217
+            },
+            "PreSize": {
+              "X": 0.4105,
+              "Y": 0.7358
+            },
+            "LeftMargin": 21.0,
+            "RightMargin": 91.0,
+            "TopMargin": 5.0002,
+            "BottomMargin": 22.9998,
+            "Tag": 400,
+            "ActionTag": 315394158,
+            "Size": {
+              "X": 78.0,
+              "Y": 78.0
+            },
+            "Name": "headBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "clubres/clubinfo/club_bg_head1@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 23.0,
+              "Y": 24.9996
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1211,
+              "Y": 0.2358
+            },
+            "PreSize": {
+              "X": 0.3895,
+              "Y": 0.6981
+            },
+            "LeftMargin": 23.0,
+            "RightMargin": 93.0,
+            "TopMargin": 7.0004,
+            "BottomMargin": 24.9996,
+            "Tag": 402,
+            "ActionTag": 522117069,
+            "Size": {
+              "X": 74.0,
+              "Y": 74.0
+            },
+            "Name": "headImg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "一二三四五六",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.6316,
+              "Y": 0.1887
+            },
+            "RightMargin": 70.0,
+            "TopMargin": 86.0,
+            "Tag": 401,
+            "ActionTag": 591919722,
+            "Size": {
+              "X": 120.0,
+              "Y": 20.0
+            },
+            "Name": "nameTxt",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "+888",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 138.9999,
+              "Y": 72.9199
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7316,
+              "Y": 0.6879
+            },
+            "PreSize": {
+              "X": 0.3789,
+              "Y": 0.3396
+            },
+            "LeftMargin": 102.9999,
+            "RightMargin": 15.0001,
+            "TopMargin": 15.0801,
+            "BottomMargin": 54.9199,
+            "Tag": 403,
+            "ActionTag": -247155422,
+            "Size": {
+              "X": 72.0,
+              "Y": 36.0
+            },
+            "Name": "scoreTxt",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 190.0,
+          "Y": 106.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "clubres/clubinfo/club_bg_head1@2x.png",
+        "clubres/clubinfo/club_bg_head2@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

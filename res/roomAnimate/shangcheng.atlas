@@ -1,0 +1,40 @@
+
+shangcheng.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cheng
+  rotate: false
+  xy: 2, 2
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+icon
+  rotate: false
+  xy: 90, 44
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+lunkuo
+  rotate: false
+  xy: 2, 31
+  size: 86, 79
+  orig: 86, 79
+  offset: 0, 0
+  index: -1
+shang
+  rotate: false
+  xy: 165, 83
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 31, 5
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

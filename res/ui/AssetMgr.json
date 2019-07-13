@@ -1,0 +1,332 @@
+{
+  "ID": "ef02838a-a41b-41cb-acef-a32bf4b5e0f1",
+  "Version": "2.3.4",
+  "Name": "AssetMgr",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 309,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/jxnn_bg_login@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 374,
+            "Scale9OriginY": 211,
+            "Scale9Width": 388,
+            "Scale9Height": 218,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 310,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/AssetMgrPic/jingdutiao1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 152,
+                "Scale9OriginY": 13,
+                "Scale9Width": 158,
+                "Scale9Height": 16,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 575.4976,
+                  "Y": 125.4573
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5066,
+                  "Y": 0.196
+                },
+                "PreSize": {
+                  "X": 0.4067,
+                  "Y": 0.0656
+                },
+                "LeftMargin": 344.4976,
+                "RightMargin": 329.5024,
+                "TopMargin": 493.5427,
+                "BottomMargin": 104.4573,
+                "Tag": 423,
+                "Children": [
+                  {
+                    "ImageFileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/AssetMgrPic/jindutiao2.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 231.0,
+                      "Y": 21.9996
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5238
+                    },
+                    "PreSize": {
+                      "X": 0.974,
+                      "Y": 0.7381
+                    },
+                    "LeftMargin": 6.0,
+                    "RightMargin": 6.0,
+                    "TopMargin": 4.5004,
+                    "BottomMargin": 6.4996,
+                    "Tag": 422,
+                    "ActionTag": -1248944091,
+                    "Size": {
+                      "X": 450.0,
+                      "Y": 31.0
+                    },
+                    "Name": "jdt",
+                    "ctype": "LoadingBarObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "更新中",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 179.53,
+                      "Y": 21.7
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3886,
+                      "Y": 0.5167
+                    },
+                    "PreSize": {
+                      "X": 0.1494,
+                      "Y": 0.6667
+                    },
+                    "LeftMargin": 145.03,
+                    "RightMargin": 247.97,
+                    "TopMargin": 6.3,
+                    "BottomMargin": 7.7,
+                    "Tag": 69,
+                    "ActionTag": -1789014729,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 28.0
+                    },
+                    "Name": "updateLabel",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "LabelText": "100%",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 253.8228,
+                      "Y": 20.5854
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5494,
+                      "Y": 0.4901
+                    },
+                    "PreSize": {
+                      "X": 0.1342,
+                      "Y": 0.7619
+                    },
+                    "LeftMargin": 222.8228,
+                    "RightMargin": 177.1772,
+                    "TopMargin": 5.4146,
+                    "BottomMargin": 4.5854,
+                    "Tag": 311,
+                    "ActionTag": -1998760569,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 32.0
+                    },
+                    "Name": "text",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1187632038,
+                "Size": {
+                  "X": 462.0,
+                  "Y": 42.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 28501901,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "logo.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 191,
+            "Scale9OriginY": 56,
+            "Scale9Width": 218,
+            "Scale9Height": 459,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 585.608,
+              "Y": 409.28
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5155,
+              "Y": 0.6395
+            },
+            "PreSize": {
+              "X": 0.5282,
+              "Y": 0.8922
+            },
+            "LeftMargin": 285.608,
+            "RightMargin": 250.392,
+            "TopMargin": -54.78,
+            "BottomMargin": 123.78,
+            "Tag": 432,
+            "ActionTag": -200119354,
+            "Size": {
+              "X": 600.0,
+              "Y": 571.0
+            },
+            "Name": "Image_4",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/AssetMgrPic/jindutiao2.png",
+        "commonCells/commonPic/AssetMgrPic/jingdutiao1.png",
+        "commonCells/commonPic/jxnn_bg_login@2x.png",
+        "Font/FZY4JW_0569.TTF",
+        "logo.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

@@ -1,0 +1,365 @@
+{
+  "ID": "7b2fea13-c589-4040-9f38-73c49d189e6e",
+  "Version": "2.3.4",
+  "Name": "auditLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 39,
+        "Children": [
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 101,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 40,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/jxnn_bg_join@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 30,
+                "Scale9Width": 726,
+                "Scale9Height": 524,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.6919,
+                  "Y": 0.7563
+                },
+                "LeftMargin": 175.0,
+                "RightMargin": 175.0,
+                "TopMargin": 78.0,
+                "BottomMargin": 78.0,
+                "Tag": 185,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/yypk_title_cuyCards@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 50,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 162,
+                    "Scale9Height": 28,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 401.0956,
+                      "Y": 448.9859
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5103,
+                      "Y": 0.9277
+                    },
+                    "PreSize": {
+                      "X": 0.3333,
+                      "Y": 0.1074
+                    },
+                    "LeftMargin": 270.0956,
+                    "RightMargin": 253.9044,
+                    "TopMargin": 9.0141,
+                    "BottomMargin": 422.9859,
+                    "Tag": 38,
+                    "ActionTag": -390017117,
+                    "Size": {
+                      "X": 262.0,
+                      "Y": 52.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "Scale9OriginX": -15,
+                    "Scale9OriginY": -11,
+                    "Scale9Width": 30,
+                    "Scale9Height": 22,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 389.2409,
+                      "Y": 242.0625
+                    },
+                    "Scale": {
+                      "ScaleX": 1.2,
+                      "ScaleY": 1.2
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4952,
+                      "Y": 0.5001
+                    },
+                    "PreSize": {
+                      "X": 0.1781,
+                      "Y": 0.3843
+                    },
+                    "LeftMargin": 319.2409,
+                    "RightMargin": 326.7591,
+                    "TopMargin": 148.9375,
+                    "BottomMargin": 149.0625,
+                    "CallBackType": "Touch",
+                    "Tag": 50,
+                    "ActionTag": -1156448169,
+                    "Size": {
+                      "X": 140.0,
+                      "Y": 186.0
+                    },
+                    "Name": "buybtn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/buyCard/buycardbg.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 29,
+                    "Scale9OriginY": 27,
+                    "Scale9Width": 82,
+                    "Scale9Height": 132,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 389.2404,
+                      "Y": 240.5526
+                    },
+                    "Scale": {
+                      "ScaleX": 1.2,
+                      "ScaleY": 1.2
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4952,
+                      "Y": 0.497
+                    },
+                    "PreSize": {
+                      "X": 0.1781,
+                      "Y": 0.3843
+                    },
+                    "LeftMargin": 319.2404,
+                    "RightMargin": 326.7596,
+                    "TopMargin": 150.4474,
+                    "BottomMargin": 147.5526,
+                    "Tag": 87,
+                    "ActionTag": 182354037,
+                    "Size": {
+                      "X": 140.0,
+                      "Y": 186.0
+                    },
+                    "Name": "Image_9",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/jxnn_btn_close@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 43,
+                    "Scale9Height": 44,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 731.6899,
+                      "Y": 446.7941
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.9309,
+                      "Y": 0.9231
+                    },
+                    "PreSize": {
+                      "X": 0.0827,
+                      "Y": 0.1364
+                    },
+                    "LeftMargin": 699.1899,
+                    "RightMargin": 21.8101,
+                    "TopMargin": 4.2059,
+                    "BottomMargin": 413.7941,
+                    "Tag": 97,
+                    "ActionTag": 1776008893,
+                    "Size": {
+                      "X": 65.0,
+                      "Y": 66.0
+                    },
+                    "Name": "backBtn",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 670000754,
+                "Size": {
+                  "X": 786.0,
+                  "Y": 484.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1089115051,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/buyCard/buycardbg.png",
+        "commonCells/commonPic/jxnn_bg_join@2x.png",
+        "commonCells/commonPic/jxnn_btn_close@2x.png",
+        "commonCells/commonPic/settingPic/yypk_title_cuyCards@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,12 @@
+
+dayingjia02.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 2
+  size: 260, 252
+  orig: 260, 252
+  offset: 0, 0
+  index: -1

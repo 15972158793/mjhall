@@ -1,0 +1,26 @@
+
+tuoxie2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huichen
+  rotate: true
+  xy: 2, 2
+  size: 206, 262
+  orig: 640, 480
+  offset: 218, 106
+  index: -1
+tuoxie
+  rotate: false
+  xy: 266, 29
+  size: 82, 179
+  orig: 82, 179
+  offset: 0, 0
+  index: -1
+tuoxieyin
+  rotate: false
+  xy: 350, 29
+  size: 79, 179
+  orig: 79, 179
+  offset: 0, 0
+  index: -1

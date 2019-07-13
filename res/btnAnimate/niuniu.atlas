@@ -1,0 +1,47 @@
+
+niuniu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 262, 56
+  size: 211, 169
+  orig: 211, 169
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 61
+  size: 258, 164
+  orig: 258, 164
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: false
+  xy: 475, 192
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: false
+  xy: 163, 26
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 104, 2
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 4
+  size: 100, 55
+  orig: 100, 55
+  offset: 0, 0
+  index: -1

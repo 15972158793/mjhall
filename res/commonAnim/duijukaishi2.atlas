@@ -1,0 +1,47 @@
+
+duijukaishi2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/bg
+  rotate: false
+  xy: 2, 79
+  size: 685, 126
+  orig: 685, 126
+  offset: 0, 0
+  index: -1
+image/dui
+  rotate: false
+  xy: 689, 147
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+image/ju
+  rotate: false
+  xy: 749, 148
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+image/kai
+  rotate: false
+  xy: 2, 2
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+image/shi
+  rotate: false
+  xy: 689, 87
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+image/start
+  rotate: false
+  xy: 2, 61
+  size: 244, 16
+  orig: 244, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+
+zjtp.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 240
+  size: 648, 225
+  orig: 648, 225
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 13
+  size: 648, 225
+  orig: 648, 225
+  offset: 0, 0
+  index: -1
+blade
+  rotate: false
+  xy: 2, 2
+  size: 565, 9
+  orig: 565, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,2928 @@
+{
+  "ID": "de9058eb-3571-46fd-b2c8-74c543be077a",
+  "Version": "2.3.4",
+  "Name": "PdkEndPlayWindow",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 21,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 182,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 147,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "xiangjun/game/21-result/xjhy_bg_win1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 301,
+                "Scale9OriginY": 149,
+                "Scale9Width": 312,
+                "Scale9Height": 156,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 313.0584
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4892
+                },
+                "PreSize": {
+                  "X": 0.8046,
+                  "Y": 0.7094
+                },
+                "LeftMargin": 111.0,
+                "RightMargin": 111.0,
+                "TopMargin": 99.9416,
+                "BottomMargin": 86.0584,
+                "Tag": 661,
+                "ActionTag": 870948817,
+                "Size": {
+                  "X": 914.0,
+                  "Y": 454.0
+                },
+                "Name": "endbg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "xiangjun/game/21-result/xjhy_btn_tuichu-@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 160,
+                "Scale9Height": 46,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 45.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0703
+                },
+                "PreSize": {
+                  "X": 0.1673,
+                  "Y": 0.1063
+                },
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 473.0,
+                "RightMargin": 473.0,
+                "TopMargin": 561.0,
+                "BottomMargin": 11.0,
+                "Tag": 146,
+                "ActionTag": -750442767,
+                "Size": {
+                  "X": 190.0,
+                  "Y": 68.0
+                },
+                "Name": "jiesuan_btn_Ready",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -15,
+                "Scale9OriginY": -11,
+                "Scale9Width": 30,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1094.0817,
+                  "Y": 532.352
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.9631,
+                  "Y": 0.8318
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1094.0817,
+                "RightMargin": 41.9183,
+                "TopMargin": 107.648,
+                "BottomMargin": 532.352,
+                "Tag": 170,
+                "ActionTag": 751066404,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "VisibleForFrame": false,
+                "Name": "jiesuan_btn_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "xiangjun/game/21-result/xjhy_balance_win@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 547.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8562
+                },
+                "PreSize": {
+                  "X": 0.434,
+                  "Y": 0.2625
+                },
+                "LeftMargin": 321.5,
+                "RightMargin": 321.5,
+                "TopMargin": 8.0001,
+                "BottomMargin": 463.9999,
+                "Tag": 555,
+                "ActionTag": -263753902,
+                "Size": {
+                  "X": 493.0,
+                  "Y": 168.0
+                },
+                "Name": "winorlose",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "ItemMargin": 28,
+                "DirectionType": "Vertical",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 284.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4438
+                },
+                "PreSize": {
+                  "X": 0.8556,
+                  "Y": 0.5
+                },
+                "LeftMargin": 82.0,
+                "RightMargin": 82.0,
+                "TopMargin": 195.9998,
+                "BottomMargin": 124.0002,
+                "Tag": 634,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "xiangjun/game/21-result/xjhy_bg_win2@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 320,
+                    "Scale9OriginY": 25,
+                    "Scale9Width": 244,
+                    "Scale9Height": 37,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 486.0,
+                      "Y": 388.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8993
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.2014
+                    },
+                    "BottomMargin": 345.0,
+                    "Tag": 556,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 630,
+                        "Children": [
+                          {
+                            "FontSize": 22,
+                            "LabelText": "12345622x  ",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 534.6,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.55,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.1245,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 474.1,
+                            "RightMargin": 376.9,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 181,
+                            "ActionTag": -1439851315,
+                            "Size": {
+                              "X": 121.0,
+                              "Y": 22.0
+                            },
+                            "VisibleForFrame": false,
+                            "Name": "jiesuan_text_id0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "CharWidth": 24,
+                            "CharHeight": 32,
+                            "LabelText": "9999",
+                            "StartChar": ".",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_font1.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 859.9997,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8848,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0988,
+                              "Y": 0.3678
+                            },
+                            "LeftMargin": 811.9997,
+                            "RightMargin": 64.0003,
+                            "TopMargin": 27.5,
+                            "BottomMargin": 27.5,
+                            "Tag": 547,
+                            "ActionTag": 1232096487,
+                            "Size": {
+                              "X": 96.0,
+                              "Y": 32.0
+                            },
+                            "Name": "jiesuan_text_scorezheng0",
+                            "ctype": "TextAtlasObjectData"
+                          },
+                          {
+                            "CharWidth": 24,
+                            "CharHeight": 32,
+                            "LabelText": "9999",
+                            "StartChar": ".",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_font2.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 859.9997,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8848,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0988,
+                              "Y": 0.3678
+                            },
+                            "LeftMargin": 811.9997,
+                            "RightMargin": 64.0003,
+                            "TopMargin": 27.5,
+                            "BottomMargin": 27.5,
+                            "Tag": 553,
+                            "ActionTag": -850432288,
+                            "Size": {
+                              "X": 96.0,
+                              "Y": 32.0
+                            },
+                            "Name": "jiesuan_text_scorefu0",
+                            "ctype": "TextAtlasObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "玩家0xxxxdsdsa  ",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 167.4756,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.1723,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.1811,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 79.4756,
+                            "RightMargin": 716.5244,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 178,
+                            "ActionTag": 605650958,
+                            "Size": {
+                              "X": 176.0,
+                              "Y": 22.0
+                            },
+                            "Name": "jiesuan_text_name0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/17-room/lose_touxiang1@2x.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 21,
+                            "Scale9OriginY": 21,
+                            "Scale9Width": 22,
+                            "Scale9Height": 22,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 126.36,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.13,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0658,
+                              "Y": 0.7356
+                            },
+                            "LeftMargin": 94.36,
+                            "RightMargin": 813.64,
+                            "TopMargin": 11.5,
+                            "BottomMargin": 11.5,
+                            "Tag": 175,
+                            "ActionTag": -1994453453,
+                            "Size": {
+                              "X": 64.0,
+                              "Y": 64.0
+                            },
+                            "VisibleForFrame": false,
+                            "Name": "jiesuan_image_head0",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "炸弹：10 ",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/FZY4JW_0569.TTF",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 505.44,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.52,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0936,
+                              "Y": 0.3218
+                            },
+                            "LeftMargin": 505.44,
+                            "RightMargin": 375.5601,
+                            "TopMargin": 29.5,
+                            "BottomMargin": 29.5,
+                            "Tag": 723,
+                            "ActionTag": 943065154,
+                            "Size": {
+                              "X": 91.0,
+                              "Y": 28.0
+                            },
+                            "VisibleForFrame": false,
+                            "Name": "zhadan0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "剩牌：10 ",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/FZY4JW_0569.TTF",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 651.24,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.67,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0936,
+                              "Y": 0.3218
+                            },
+                            "LeftMargin": 651.24,
+                            "RightMargin": 229.76,
+                            "TopMargin": 29.5,
+                            "BottomMargin": 29.5,
+                            "Tag": 724,
+                            "ActionTag": 477171368,
+                            "Size": {
+                              "X": 91.0,
+                              "Y": 28.0
+                            },
+                            "VisibleForFrame": false,
+                            "Name": "shengpai0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_img_bord@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 60.0,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.0617,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0319,
+                              "Y": 0.3563
+                            },
+                            "LeftMargin": 44.5,
+                            "RightMargin": 896.5,
+                            "TopMargin": 28.0,
+                            "BottomMargin": 28.0,
+                            "Tag": 1822,
+                            "ActionTag": -445616567,
+                            "Size": {
+                              "X": 31.0,
+                              "Y": 31.0
+                            },
+                            "Name": "niao0",
+                            "ctype": "SpriteObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_b_jian.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 788.9724,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8117,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0237,
+                              "Y": 0.1034
+                            },
+                            "LeftMargin": 777.4724,
+                            "RightMargin": 171.5276,
+                            "TopMargin": 39.0,
+                            "BottomMargin": 39.0,
+                            "Tag": 550,
+                            "ActionTag": 1223907355,
+                            "Size": {
+                              "X": 23.0,
+                              "Y": 9.0
+                            },
+                            "Name": "fuhao0",
+                            "ctype": "SpriteObjectData"
+                          },
+                          {
+                            "CharWidth": 24,
+                            "CharHeight": 32,
+                            "LabelText": "9999",
+                            "StartChar": ".",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_font1.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 679.9993,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.6996,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0988,
+                              "Y": 0.3678
+                            },
+                            "LeftMargin": 631.9993,
+                            "RightMargin": 244.0007,
+                            "TopMargin": 27.5,
+                            "BottomMargin": 27.5,
+                            "Tag": 662,
+                            "ActionTag": -105338980,
+                            "Size": {
+                              "X": 96.0,
+                              "Y": 32.0
+                            },
+                            "Name": "jiesuan_text_boom0",
+                            "ctype": "TextAtlasObjectData"
+                          },
+                          {
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 326.0088,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": true,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.3354,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 326.0088,
+                            "RightMargin": 645.9912,
+                            "TopMargin": 43.5,
+                            "BottomMargin": 43.5,
+                            "Tag": 666,
+                            "ActionTag": -803840242,
+                            "Size": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Name": "cardnode0",
+                            "ctype": "SingleNodeObjectData"
+                          },
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 20,
+                            "LabelText": "99",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 280.0001,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.2881,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0309,
+                              "Y": 0.2299
+                            },
+                            "LeftMargin": 265.0001,
+                            "RightMargin": 676.9999,
+                            "TopMargin": 33.5,
+                            "BottomMargin": 33.5,
+                            "Tag": 233,
+                            "ActionTag": 1788915402,
+                            "Size": {
+                              "X": 30.0,
+                              "Y": 20.0
+                            },
+                            "Name": "cardnum0",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 1132097278,
+                        "Size": {
+                          "X": 972.0,
+                          "Y": 87.0
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 543942728,
+                    "Size": {
+                      "X": 972.0,
+                      "Y": 87.0
+                    },
+                    "Name": "playerbg0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "xiangjun/game/21-result/xjhy_bg_win2@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 320,
+                    "Scale9OriginY": 25,
+                    "Scale9Width": 244,
+                    "Scale9Height": 37,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 486.0,
+                      "Y": 273.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.6331
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.2014
+                    },
+                    "TopMargin": 115.0,
+                    "BottomMargin": 230.0,
+                    "Tag": 559,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": -1.1962,
+                          "Y": 0.0001
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.0012,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": -1.1962,
+                        "RightMargin": 1.1962,
+                        "TopMargin": -0.0001,
+                        "BottomMargin": 0.0001,
+                        "Tag": 631,
+                        "Children": [
+                          {
+                            "CharWidth": 24,
+                            "CharHeight": 32,
+                            "LabelText": "9999",
+                            "StartChar": ".",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_font1.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 679.9993,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.6996,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0988,
+                              "Y": 0.3678
+                            },
+                            "LeftMargin": 631.9993,
+                            "RightMargin": 244.0007,
+                            "TopMargin": 27.5,
+                            "BottomMargin": 27.5,
+                            "Tag": 663,
+                            "ActionTag": -499104535,
+                            "Size": {
+                              "X": 96.0,
+                              "Y": 32.0
+                            },
+                            "Name": "jiesuan_text_boom1",
+                            "ctype": "TextAtlasObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "23456722x  ",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 534.6,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.55,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.1245,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 474.1,
+                            "RightMargin": 376.9,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 182,
+                            "ActionTag": 1858152060,
+                            "Size": {
+                              "X": 121.0,
+                              "Y": 22.0
+                            },
+                            "VisibleForFrame": false,
+                            "Name": "jiesuan_text_id1",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "玩家1xxdsaxxxx  ",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 167.4756,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.1723,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.1811,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 79.4756,
+                            "RightMargin": 716.5244,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 179,
+                            "ActionTag": -1042635213,
+                            "Size": {
+                              "X": 176.0,
+                              "Y": 22.0
+                            },
+                            "Name": "jiesuan_text_name1",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/17-room/lose_touxiang1@2x.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 21,
+                            "Scale9OriginY": 21,
+                            "Scale9Width": 22,
+                            "Scale9Height": 22,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 126.36,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.13,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0658,
+                              "Y": 0.7356
+                            },
+                            "LeftMargin": 94.36,
+                            "RightMargin": 813.64,
+                            "TopMargin": 11.5,
+                            "BottomMargin": 11.5,
+                            "Tag": 176,
+                            "ActionTag": -2000721802,
+                            "Size": {
+                              "X": 64.0,
+                              "Y": 64.0
+                            },
+                            "VisibleForFrame": false,
+                            "Name": "jiesuan_image_head1",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "炸弹：10 ",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 505.44,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.52,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.1019,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 505.44,
+                            "RightMargin": 367.5601,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 726,
+                            "ActionTag": -1856021242,
+                            "Size": {
+                              "X": 99.0,
+                              "Y": 22.0
+                            },
+                            "VisibleForFrame": false,
+                            "Name": "zhadan1",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "剩牌：10 ",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 651.24,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.67,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.1019,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 651.24,
+                            "RightMargin": 221.76,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 727,
+                            "ActionTag": -1688218495,
+                            "Size": {
+                              "X": 99.0,
+                              "Y": 22.0
+                            },
+                            "VisibleForFrame": false,
+                            "Name": "shengpai1",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "CharWidth": 24,
+                            "CharHeight": 32,
+                            "LabelText": "9999",
+                            "StartChar": ".",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_font1.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 859.9998,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8848,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0988,
+                              "Y": 0.3678
+                            },
+                            "LeftMargin": 811.9998,
+                            "RightMargin": 64.0002,
+                            "TopMargin": 27.5,
+                            "BottomMargin": 27.5,
+                            "Tag": 548,
+                            "ActionTag": -49305552,
+                            "Size": {
+                              "X": 96.0,
+                              "Y": 32.0
+                            },
+                            "Name": "jiesuan_text_scorezheng1",
+                            "ctype": "TextAtlasObjectData"
+                          },
+                          {
+                            "CharWidth": 24,
+                            "CharHeight": 32,
+                            "LabelText": "9999",
+                            "StartChar": ".",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_font2.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 859.9997,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8848,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0988,
+                              "Y": 0.3678
+                            },
+                            "LeftMargin": 811.9997,
+                            "RightMargin": 64.0003,
+                            "TopMargin": 27.5,
+                            "BottomMargin": 27.5,
+                            "Tag": 554,
+                            "ActionTag": 266201215,
+                            "Size": {
+                              "X": 96.0,
+                              "Y": 32.0
+                            },
+                            "Name": "jiesuan_text_scorefu1",
+                            "ctype": "TextAtlasObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_b_jian.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 788.9724,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8117,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0237,
+                              "Y": 0.1034
+                            },
+                            "LeftMargin": 777.4724,
+                            "RightMargin": 171.5276,
+                            "TopMargin": 39.0,
+                            "BottomMargin": 39.0,
+                            "Tag": 551,
+                            "ActionTag": -698995985,
+                            "Size": {
+                              "X": 23.0,
+                              "Y": 9.0
+                            },
+                            "Name": "fuhao1",
+                            "ctype": "SpriteObjectData"
+                          },
+                          {
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 326.0088,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": true,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.3354,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 326.0088,
+                            "RightMargin": 645.9912,
+                            "TopMargin": 43.5,
+                            "BottomMargin": 43.5,
+                            "Tag": 665,
+                            "ActionTag": -963869227,
+                            "Size": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Name": "cardnode1",
+                            "ctype": "SingleNodeObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_img_bord@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 60.0,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.0617,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0319,
+                              "Y": 0.3563
+                            },
+                            "LeftMargin": 44.5,
+                            "RightMargin": 896.5,
+                            "TopMargin": 28.0,
+                            "BottomMargin": 28.0,
+                            "Tag": 1823,
+                            "ActionTag": 1154308746,
+                            "Size": {
+                              "X": 31.0,
+                              "Y": 31.0
+                            },
+                            "Name": "niao1",
+                            "ctype": "SpriteObjectData"
+                          },
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 20,
+                            "LabelText": "99",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 280.0001,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.2881,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0309,
+                              "Y": 0.2299
+                            },
+                            "LeftMargin": 265.0001,
+                            "RightMargin": 676.9999,
+                            "TopMargin": 33.5,
+                            "BottomMargin": 33.5,
+                            "Tag": 232,
+                            "ActionTag": 638936663,
+                            "Size": {
+                              "X": 30.0,
+                              "Y": 20.0
+                            },
+                            "Name": "cardnum1",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -468602361,
+                        "Size": {
+                          "X": 972.0,
+                          "Y": 87.0
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 311750639,
+                    "ZOrder": 1,
+                    "Size": {
+                      "X": 972.0,
+                      "Y": 87.0
+                    },
+                    "Name": "playerbg1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "xiangjun/game/21-result/xjhy_bg_win2@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 320,
+                    "Scale9OriginY": 25,
+                    "Scale9Width": 244,
+                    "Scale9Height": 37,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 486.0,
+                      "Y": 158.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.3669
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.2014
+                    },
+                    "TopMargin": 230.0,
+                    "BottomMargin": 115.0,
+                    "Tag": 560,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 632,
+                        "Children": [
+                          {
+                            "CharWidth": 24,
+                            "CharHeight": 32,
+                            "LabelText": "9999",
+                            "StartChar": ".",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_font1.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 679.9992,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.6996,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0988,
+                              "Y": 0.3678
+                            },
+                            "LeftMargin": 631.9992,
+                            "RightMargin": 244.0008,
+                            "TopMargin": 27.5,
+                            "BottomMargin": 27.5,
+                            "Tag": 664,
+                            "ActionTag": -518049753,
+                            "Size": {
+                              "X": 96.0,
+                              "Y": 32.0
+                            },
+                            "Name": "jiesuan_text_boom2",
+                            "ctype": "TextAtlasObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "34567228x  ",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 534.6,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.55,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.1245,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 474.1,
+                            "RightMargin": 376.9,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 183,
+                            "ActionTag": -2146865682,
+                            "Size": {
+                              "X": 121.0,
+                              "Y": 22.0
+                            },
+                            "VisibleForFrame": false,
+                            "Name": "jiesuan_text_id2",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "玩xxxxxxxxxxxx  ",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 167.4756,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.1723,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.1811,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 79.4756,
+                            "RightMargin": 716.5244,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 180,
+                            "ActionTag": -1535944637,
+                            "Size": {
+                              "X": 176.0,
+                              "Y": 22.0
+                            },
+                            "Name": "jiesuan_text_name2",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/17-room/lose_touxiang1@2x.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 21,
+                            "Scale9OriginY": 21,
+                            "Scale9Width": 22,
+                            "Scale9Height": 22,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 126.36,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.13,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0658,
+                              "Y": 0.7356
+                            },
+                            "LeftMargin": 94.36,
+                            "RightMargin": 813.64,
+                            "TopMargin": 11.5,
+                            "BottomMargin": 11.5,
+                            "Tag": 177,
+                            "ActionTag": -539168346,
+                            "Size": {
+                              "X": 64.0,
+                              "Y": 64.0
+                            },
+                            "VisibleForFrame": false,
+                            "Name": "jiesuan_image_head2",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "炸弹：10 ",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 505.44,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.52,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.1019,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 505.44,
+                            "RightMargin": 367.5601,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 728,
+                            "ActionTag": -456504807,
+                            "Size": {
+                              "X": 99.0,
+                              "Y": 22.0
+                            },
+                            "VisibleForFrame": false,
+                            "Name": "zhadan2",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "剩牌：10 ",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 651.24,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.67,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.1019,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 651.24,
+                            "RightMargin": 221.76,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 729,
+                            "ActionTag": 1013308831,
+                            "Size": {
+                              "X": 99.0,
+                              "Y": 22.0
+                            },
+                            "VisibleForFrame": false,
+                            "Name": "shengpai2",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "CharWidth": 24,
+                            "CharHeight": 32,
+                            "LabelText": "9999",
+                            "StartChar": ".",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_font1.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 859.9997,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8848,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0988,
+                              "Y": 0.3678
+                            },
+                            "LeftMargin": 811.9997,
+                            "RightMargin": 64.0003,
+                            "TopMargin": 27.5,
+                            "BottomMargin": 27.5,
+                            "Tag": 549,
+                            "ActionTag": -373352038,
+                            "Size": {
+                              "X": 96.0,
+                              "Y": 32.0
+                            },
+                            "Name": "jiesuan_text_scorezheng2",
+                            "ctype": "TextAtlasObjectData"
+                          },
+                          {
+                            "CharWidth": 24,
+                            "CharHeight": 32,
+                            "LabelText": "9999",
+                            "StartChar": ".",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_font2.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 859.9995,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8848,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0988,
+                              "Y": 0.3678
+                            },
+                            "LeftMargin": 811.9995,
+                            "RightMargin": 64.0005,
+                            "TopMargin": 27.5,
+                            "BottomMargin": 27.5,
+                            "Tag": 555,
+                            "ActionTag": -1095913100,
+                            "Size": {
+                              "X": 96.0,
+                              "Y": 32.0
+                            },
+                            "Name": "jiesuan_text_scorefu2",
+                            "ctype": "TextAtlasObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_b_jian.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 788.9724,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8117,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0237,
+                              "Y": 0.1034
+                            },
+                            "LeftMargin": 777.4724,
+                            "RightMargin": 171.5276,
+                            "TopMargin": 39.0,
+                            "BottomMargin": 39.0,
+                            "Tag": 552,
+                            "ActionTag": -364521794,
+                            "Size": {
+                              "X": 23.0,
+                              "Y": 9.0
+                            },
+                            "Name": "fuhao2",
+                            "ctype": "SpriteObjectData"
+                          },
+                          {
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 326.0088,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": true,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.3354,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 326.0088,
+                            "RightMargin": 645.9912,
+                            "TopMargin": 43.5,
+                            "BottomMargin": 43.5,
+                            "Tag": 667,
+                            "ActionTag": -971299246,
+                            "Size": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Name": "cardnode2",
+                            "ctype": "SingleNodeObjectData"
+                          },
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 20,
+                            "LabelText": "99",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 280.0,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.2881,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0309,
+                              "Y": 0.2299
+                            },
+                            "LeftMargin": 265.0,
+                            "RightMargin": 677.0,
+                            "TopMargin": 33.5,
+                            "BottomMargin": 33.5,
+                            "Tag": 231,
+                            "ActionTag": -1107100214,
+                            "Size": {
+                              "X": 30.0,
+                              "Y": 20.0
+                            },
+                            "Name": "cardnum2",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/21-result/xjhy_img_bord@2x.png",
+                              "Plist": ""
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 60.0,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.0617,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0319,
+                              "Y": 0.3563
+                            },
+                            "LeftMargin": 44.5,
+                            "RightMargin": 896.5,
+                            "TopMargin": 28.0,
+                            "BottomMargin": 28.0,
+                            "Tag": 1824,
+                            "ActionTag": 550811489,
+                            "Size": {
+                              "X": 31.0,
+                              "Y": 31.0
+                            },
+                            "Name": "niao2",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": -1787330513,
+                        "Size": {
+                          "X": 972.0,
+                          "Y": 87.0
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 708658859,
+                    "ZOrder": 2,
+                    "Size": {
+                      "X": 972.0,
+                      "Y": 87.0
+                    },
+                    "Name": "playerbg2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "xiangjun/game/21-result/xjhy_bg_win2@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 320,
+                    "Scale9OriginY": 25,
+                    "Scale9Width": 244,
+                    "Scale9Height": 37,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 486.0,
+                      "Y": 43.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1007
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.2014
+                    },
+                    "TopMargin": 345.0,
+                    "Tag": 1048,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 633,
+                        "Children": [
+                          {
+                            "FontSize": 22,
+                            "LabelText": "100    ",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 826.2,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.85,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0792,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 787.7,
+                            "RightMargin": 107.3,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 1049,
+                            "ActionTag": -924113718,
+                            "Size": {
+                              "X": 77.0,
+                              "Y": 22.0
+                            },
+                            "Name": "jiesuan_text_score3",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "34567228x  ",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 534.6,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.55,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.1245,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 474.1,
+                            "RightMargin": 376.9,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 1050,
+                            "ActionTag": 842182915,
+                            "Size": {
+                              "X": 121.0,
+                              "Y": 22.0
+                            },
+                            "Name": "jiesuan_text_id3",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "玩xxxxxxxxxxxx  ",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 262.44,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.27,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.1811,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 174.44,
+                            "RightMargin": 621.56,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 1051,
+                            "ActionTag": 1386612402,
+                            "Size": {
+                              "X": 176.0,
+                              "Y": 22.0
+                            },
+                            "Name": "jiesuan_text_name3",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "xiangjun/game/17-room/lose_touxiang1@2x.png",
+                              "Plist": ""
+                            },
+                            "Scale9OriginX": 21,
+                            "Scale9OriginY": 21,
+                            "Scale9Width": 22,
+                            "Scale9Height": 22,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 126.36,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.13,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0658,
+                              "Y": 0.7356
+                            },
+                            "LeftMargin": 94.36,
+                            "RightMargin": 813.64,
+                            "TopMargin": 11.5,
+                            "BottomMargin": 11.5,
+                            "Tag": 1052,
+                            "ActionTag": 1475447375,
+                            "Size": {
+                              "X": 64.0,
+                              "Y": 64.0
+                            },
+                            "Name": "jiesuan_image_head3",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "炸弹：10 ",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 505.44,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.52,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.1019,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 505.44,
+                            "RightMargin": 367.5601,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 1053,
+                            "ActionTag": -865610479,
+                            "Size": {
+                              "X": 99.0,
+                              "Y": 22.0
+                            },
+                            "VisibleForFrame": false,
+                            "Name": "zhadan3",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 22,
+                            "LabelText": "剩牌：10 ",
+                            "OutlineColor": {
+                              "R": 209,
+                              "G": 169,
+                              "B": 95
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 651.24,
+                              "Y": 43.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 234,
+                              "G": 192,
+                              "B": 120
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.67,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.1019,
+                              "Y": 0.2529
+                            },
+                            "LeftMargin": 651.24,
+                            "RightMargin": 221.76,
+                            "TopMargin": 32.5,
+                            "BottomMargin": 32.5,
+                            "Tag": 1054,
+                            "ActionTag": 1688706803,
+                            "Size": {
+                              "X": 99.0,
+                              "Y": 22.0
+                            },
+                            "VisibleForFrame": false,
+                            "Name": "shengpai3",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 406.0044,
+                              "Y": 9.1611
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": true,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.4177,
+                              "Y": 0.1053
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 406.0044,
+                            "RightMargin": 565.9956,
+                            "TopMargin": 77.8389,
+                            "BottomMargin": 9.1611,
+                            "Tag": 668,
+                            "ActionTag": 1828491669,
+                            "Size": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Name": "cardnode3",
+                            "ctype": "SingleNodeObjectData"
+                          }
+                        ],
+                        "ActionTag": -318745003,
+                        "Size": {
+                          "X": 972.0,
+                          "Y": 87.0
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 1545060394,
+                    "ZOrder": 3,
+                    "Size": {
+                      "X": 972.0,
+                      "Y": 87.0
+                    },
+                    "Name": "playerbg3",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -380208183,
+                "Size": {
+                  "X": 972.0,
+                  "Y": 320.0
+                },
+                "Name": "ListView_1",
+                "ctype": "ListViewObjectData"
+              }
+            ],
+            "ActionTag": 663103702,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "Panel_2",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "jiesuan_layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Font/FZY4JW_0569.TTF",
+        "xiangjun/game/17-room/lose_touxiang1@2x.png",
+        "xiangjun/game/21-result/xjhy_b_jian.png",
+        "xiangjun/game/21-result/xjhy_balance_win@2x.png",
+        "xiangjun/game/21-result/xjhy_bg_win1@2x.png",
+        "xiangjun/game/21-result/xjhy_bg_win2@2x.png",
+        "xiangjun/game/21-result/xjhy_btn_tuichu-@2x.png",
+        "xiangjun/game/21-result/xjhy_font1.png",
+        "xiangjun/game/21-result/xjhy_font2.png",
+        "xiangjun/game/21-result/xjhy_img_bord@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

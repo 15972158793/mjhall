@@ -1,0 +1,19 @@
+
+xianwen1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuichun
+  rotate: false
+  xy: 2, 2
+  size: 150, 108
+  orig: 150, 108
+  offset: 0, 0
+  index: -1
+zuichunlunkuo
+  rotate: false
+  xy: 154, 30
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,40 @@
+
+bishi.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meimao02
+  rotate: false
+  xy: 2, 2
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+shenti01
+  rotate: false
+  xy: 2, 43
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+shou03
+  rotate: false
+  xy: 2, 16
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+yanjing05
+  rotate: false
+  xy: 78, 107
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+zuiba05-1
+  rotate: false
+  xy: 32, 28
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1

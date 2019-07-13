@@ -1,0 +1,140 @@
+{
+"bones": [
+	{ "name": "root", "x": -0.37, "y": 0.37 },
+	{ "name": "shenti01", "parent": "root" },
+	{ "name": "qita01", "parent": "shenti01", "x": -24.31, "y": -10.74 },
+	{ "name": "qita012", "parent": "shenti01", "x": -18.29, "y": -13.75 },
+	{ "name": "qita013", "parent": "shenti01", "x": -12.45, "y": -7.37 },
+	{ "name": "yanbai02", "parent": "shenti01" },
+	{ "name": "xue", "parent": "yanbai02", "x": 1.88, "y": -19.06, "scaleX": 1.2, "scaleY": 1.2 }
+],
+"slots": [
+	{ "name": "shenti01", "bone": "shenti01", "attachment": "shenti01" },
+	{ "name": "qita01", "bone": "qita01", "attachment": "qita01" },
+	{ "name": "qita012", "bone": "qita012", "attachment": "qita01" },
+	{ "name": "qita013", "bone": "qita013", "attachment": "qita01" },
+	{ "name": "yanbai02", "bone": "yanbai02", "attachment": "yanbai02" },
+	{ "name": "xue01", "bone": "xue", "attachment": "xue02" }
+],
+"skins": {
+	"default": {
+		"qita01": {
+			"qita01": { "x": 0.06, "y": 3.55, "width": 4, "height": 21 }
+		},
+		"qita012": {
+			"qita01": { "x": -0.03, "y": 1.42, "width": 4, "height": 21 }
+		},
+		"qita013": {
+			"qita01": { "x": 0.04, "y": 1.74, "width": 4, "height": 21 }
+		},
+		"shenti01": {
+			"shenti01": { "width": 74, "height": 74 }
+		},
+		"xue01": {
+			"xue01": { "x": 18.34, "y": -1.04, "width": 40, "height": 18 },
+			"xue02": { "x": 18.55, "y": -2.62, "width": 39, "height": 22 }
+		},
+		"yanbai02": {
+			"yanbai02": { "x": 0.45, "y": 4.14, "width": 69, "height": 31 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"yanbai02": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": -1.76 },
+					{ "time": 0.6666, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": -1.76 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.6666, "x": 0, "y": -1.76 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"qita01": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": -6.02 },
+					{ "time": 0.6666, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": -6.02 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.6666, "x": 0, "y": -6.02 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"qita012": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 5.27 },
+					{ "time": 0.6666, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": 5.27 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.6666, "x": 0, "y": 5.27 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"qita013": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": -8.28 },
+					{ "time": 0.6666, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": -8.28 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.6666, "x": 0, "y": -8.28 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"xue": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 1.2, "y": 1.099 },
+					{ "time": 0.6666, "x": 1, "y": 1 },
+					{ "time": 1, "x": 1.2, "y": 1.099 },
+					{ "time": 1.3333, "x": 1, "y": 1 },
+					{ "time": 1.6666, "x": 1.2, "y": 1.099 },
+					{ "time": 2, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"slots": {
+			"xue01": {
+				"attachment": [
+					{ "time": 0, "name": "xue02" },
+					{ "time": 0.0666, "name": "xue01" },
+					{ "time": 0.1333, "name": "xue02" },
+					{ "time": 0.2, "name": "xue01" },
+					{ "time": 0.2666, "name": "xue02" },
+					{ "time": 0.3333, "name": "xue01" },
+					{ "time": 0.4, "name": "xue02" },
+					{ "time": 0.4666, "name": "xue01" },
+					{ "time": 0.5333, "name": "xue02" },
+					{ "time": 0.6, "name": "xue01" },
+					{ "time": 0.6666, "name": "xue02" },
+					{ "time": 0.7333, "name": "xue01" },
+					{ "time": 0.8, "name": "xue02" },
+					{ "time": 0.8666, "name": "xue01" },
+					{ "time": 0.9333, "name": "xue02" },
+					{ "time": 1, "name": "xue01" },
+					{ "time": 1.0666, "name": "xue02" },
+					{ "time": 1.1333, "name": "xue01" },
+					{ "time": 1.2, "name": "xue02" },
+					{ "time": 1.2666, "name": "xue01" },
+					{ "time": 1.3333, "name": "xue02" },
+					{ "time": 1.4, "name": "xue01" },
+					{ "time": 1.4666, "name": "xue02" },
+					{ "time": 1.5333, "name": "xue01" },
+					{ "time": 1.6, "name": "xue02" },
+					{ "time": 1.6666, "name": "xue01" },
+					{ "time": 1.7333, "name": "xue02" },
+					{ "time": 1.8, "name": "xue01" },
+					{ "time": 1.8666, "name": "xue02" },
+					{ "time": 1.9333, "name": "xue01" },
+					{ "time": 2, "name": "xue01" }
+				]
+			}
+		}
+	}
+}
+}

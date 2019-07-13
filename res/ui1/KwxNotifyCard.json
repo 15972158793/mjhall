@@ -1,0 +1,324 @@
+{
+  "ID": "5f9ca515-de15-4e99-b841-aa5788e677f3",
+  "Version": "2.3.4",
+  "Name": "KwxNotifyCard",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 128,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "kwxResource/newkwxres/kwx_bg_tishi2@2x.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 14,
+            "Scale9Width": 112,
+            "Scale9Height": 45,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 60.49,
+              "Y": 0.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -10.51,
+            "RightMargin": -131.49,
+            "TopMargin": -36.5001,
+            "BottomMargin": -36.4999,
+            "Tag": 132,
+            "ActionTag": -1262272469,
+            "Size": {
+              "X": 142.0,
+              "Y": 73.0
+            },
+            "Alpha": 160,
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 23.0,
+              "Y": 6.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 165,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 23.0,
+            "RightMargin": -23.0,
+            "TopMargin": -6.0,
+            "BottomMargin": 6.0,
+            "Tag": 133,
+            "ActionTag": 101098323,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "kwxResource/newkwxres/my_hutips.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 23.4958,
+              "Y": 1.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 5.9958,
+            "RightMargin": -40.9958,
+            "TopMargin": -28.0001,
+            "BottomMargin": -25.9999,
+            "Tag": 130,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "kwxResource/newkwxres/kwx_nouthcard.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 18.0,
+                  "Y": 32.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5143,
+                  "Y": 0.5926
+                },
+                "PreSize": {
+                  "X": 0.9714,
+                  "Y": 0.8148
+                },
+                "LeftMargin": 1.0,
+                "BottomMargin": 10.0,
+                "Tag": 164,
+                "ActionTag": 409835713,
+                "Size": {
+                  "X": 34.0,
+                  "Y": 44.0
+                },
+                "Name": "cardpng",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 435938310,
+            "Size": {
+              "X": 35.0,
+              "Y": 54.0
+            },
+            "Name": "card",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "4",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 59.9996,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 54.9996,
+            "RightMargin": -64.9996,
+            "TopMargin": -10.0,
+            "BottomMargin": -10.0,
+            "Tag": 134,
+            "ActionTag": 1229311758,
+            "Size": {
+              "X": 10.0,
+              "Y": 20.0
+            },
+            "Name": "leftnum",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "张",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 83.1645,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 73.1645,
+            "RightMargin": -93.1645,
+            "TopMargin": -10.0,
+            "BottomMargin": -10.0,
+            "Tag": 135,
+            "ActionTag": 378438552,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "Text_3",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "kwxResource/newkwxres/kwx_bg_tishi2@2x.png",
+        "kwxResource/newkwxres/kwx_nouthcard.png",
+        "kwxResource/newkwxres/my_hutips.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,26 @@
+
+fangkachang.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 68, 2
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 113, 2
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 14
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1

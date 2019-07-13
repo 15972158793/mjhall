@@ -1,0 +1,86 @@
+{
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "light01", "bone": "root", "attachment": "light01" },
+	{ "name": "zhigan", "bone": "root", "attachment": "zhigan" },
+	{ "name": "hua1", "bone": "root", "attachment": "hua1" }
+],
+"skins": {
+	"default": {
+		"hua1": {
+			"hua1": { "x": 5.05, "y": 70.54, "width": 36, "height": 50 },
+			"hua3": { "x": 3.16, "y": 69.13, "width": 67, "height": 50 }
+		},
+		"light01": {
+			"light01": { "x": -12.18, "y": 14.1, "width": 640, "height": 480 },
+			"light02": { "width": 640, "height": 480 },
+			"light03": { "x": -18.56, "width": 640, "height": 480 },
+			"light04": { "width": 640, "height": 480 },
+			"light05": { "width": 640, "height": 480 },
+			"light06": { "width": 640, "height": 480 },
+			"light07": { "width": 640, "height": 480 },
+			"light08": { "width": 640, "height": 480 }
+		},
+		"zhigan": {
+			"zhigan": { "x": 0.11, "y": -12.11, "width": 105, "height": 124 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"zhigan": {
+				"color": [
+					{
+						"time": 0.7333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"hua1": {
+				"attachment": [
+					{ "time": 0.4333, "name": "hua3" }
+				],
+				"color": [
+					{
+						"time": 0.7333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"light01": {
+				"attachment": [
+					{ "time": 0.0333, "name": "light01" },
+					{ "time": 0.1333, "name": "light02" },
+					{ "time": 0.2333, "name": "light03" },
+					{ "time": 0.3333, "name": "light04" },
+					{ "time": 0.4333, "name": "light05" },
+					{ "time": 0.5333, "name": "light06" },
+					{ "time": 0.6333, "name": "light07" },
+					{ "time": 0.7333, "name": "light08" }
+				],
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.0333, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 0.7333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}

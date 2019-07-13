@@ -1,0 +1,166 @@
+
+kawuxing.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 538
+  size: 359, 484
+  orig: 359, 484
+  offset: 0, 0
+  index: -1
+biankuangguang
+  rotate: true
+  xy: 703, 557
+  size: 60, 18
+  orig: 60, 18
+  offset: 0, 0
+  index: -1
+biaoti
+  rotate: false
+  xy: 363, 902
+  size: 359, 120
+  orig: 359, 120
+  offset: 0, 0
+  index: -1
+choumahuang
+  rotate: false
+  xy: 960, 802
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+choumalan
+  rotate: false
+  xy: 2, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+choumazi
+  rotate: false
+  xy: 135, 2
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 363, 782
+  size: 359, 118
+  orig: 359, 118
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: false
+  xy: 605, 527
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: true
+  xy: 2, 29
+  size: 42, 131
+  orig: 42, 131
+  offset: 0, 0
+  index: -1
+maoeryou
+  rotate: true
+  xy: 960, 830
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+maoerzuo
+  rotate: true
+  xy: 135, 31
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 73
+  size: 322, 463
+  orig: 322, 463
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 202, 14
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 605, 619
+  size: 139, 161
+  orig: 139, 161
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 724, 877
+  size: 145, 248
+  orig: 145, 248
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 746, 564
+  size: 118, 154
+  orig: 118, 154
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: true
+  xy: 518, 551
+  size: 229, 85
+  orig: 229, 85
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 746, 684
+  size: 166, 106
+  orig: 166, 106
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: true
+  xy: 974, 940
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: true
+  xy: 914, 708
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 363, 548
+  size: 153, 232
+  orig: 153, 232
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 724, 792
+  size: 83, 234
+  orig: 83, 234
+  offset: 0, 0
+  index: -1
+zuoshouzhi
+  rotate: false
+  xy: 326, 472
+  size: 24, 64
+  orig: 24, 64
+  offset: 0, 0
+  index: -1

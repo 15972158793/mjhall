@@ -1,0 +1,54 @@
+
+julebu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 2, 106
+  size: 344, 132
+  orig: 344, 132
+  offset: 0, 0
+  index: -1
+fangshe
+  rotate: false
+  xy: 348, 40
+  size: 222, 198
+  orig: 222, 198
+  offset: 0, 0
+  index: -1
+lunkuo
+  rotate: false
+  xy: 2, 2
+  size: 107, 102
+  orig: 107, 102
+  offset: 0, 0
+  index: -1
+saoguangshang
+  rotate: false
+  xy: 572, 157
+  size: 85, 32
+  orig: 85, 32
+  offset: 0, 0
+  index: -1
+saoguangxia
+  rotate: false
+  xy: 572, 191
+  size: 144, 47
+  orig: 144, 47
+  offset: 0, 0
+  index: -1
+xingxing1
+  rotate: false
+  xy: 111, 39
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+xingxing2
+  rotate: false
+  xy: 718, 206
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

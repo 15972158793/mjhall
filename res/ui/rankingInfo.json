@@ -1,0 +1,406 @@
+{
+  "ID": "8bed123e-b389-4830-9e1c-fd817d528f87",
+  "Version": "2.3.4",
+  "Name": "rankingInfo",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3622,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "goldRankingList/yyib_bg_player@2x.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 191,
+            "Scale9OriginY": 123,
+            "Scale9Width": 197,
+            "Scale9Height": 128,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 3623,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldRankingList/yyjb_title_player@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 55,
+                "Scale9OriginY": 12,
+                "Scale9Width": 57,
+                "Scale9Height": 15,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 475.6367
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7432
+                },
+                "PreSize": {
+                  "X": 0.147,
+                  "Y": 0.0609
+                },
+                "LeftMargin": 484.5,
+                "RightMargin": 484.5,
+                "TopMargin": 144.8633,
+                "BottomMargin": 456.1367,
+                "Tag": 3624,
+                "ActionTag": -2116821804,
+                "Size": {
+                  "X": 167.0,
+                  "Y": 39.0
+                },
+                "Name": "title",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "哈哈哈哈哈",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 332.7224
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5199
+                },
+                "PreSize": {
+                  "X": 0.4754,
+                  "Y": 0.1875
+                },
+                "LeftMargin": 298.0,
+                "RightMargin": 298.0,
+                "TopMargin": 307.2776,
+                "BottomMargin": 212.7224,
+                "Tag": 3630,
+                "ActionTag": -1365581642,
+                "Size": {
+                  "X": 540.0,
+                  "Y": 120.0
+                },
+                "Name": "qianmin",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_bg_head1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 27,
+                "Scale9OriginY": 27,
+                "Scale9Width": 28,
+                "Scale9Height": 28,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 343.0871,
+                  "Y": 387.4726
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.302,
+                  "Y": 0.6054
+                },
+                "PreSize": {
+                  "X": 0.0722,
+                  "Y": 0.1281
+                },
+                "LeftMargin": 302.0871,
+                "RightMargin": 751.9129,
+                "TopMargin": 211.5274,
+                "BottomMargin": 346.4726,
+                "Tag": 3626,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "方源捡肥皂肥皂",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.7602,
+                      "Y": 65.8543
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1434,
+                      "Y": 0.8031
+                    },
+                    "PreSize": {
+                      "X": 4.878,
+                      "Y": 0.2439
+                    },
+                    "LeftMargin": 93.7602,
+                    "RightMargin": -411.7602,
+                    "TopMargin": 6.1457,
+                    "BottomMargin": 55.8543,
+                    "Tag": 3627,
+                    "ActionTag": 948818275,
+                    "Size": {
+                      "X": 400.0,
+                      "Y": 20.0
+                    },
+                    "Name": "name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "123456789",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.7602,
+                      "Y": 39.0819
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1434,
+                      "Y": 0.4766
+                    },
+                    "PreSize": {
+                      "X": 2.1951,
+                      "Y": 0.2439
+                    },
+                    "LeftMargin": 93.7602,
+                    "RightMargin": -191.7602,
+                    "TopMargin": 32.9181,
+                    "BottomMargin": 29.0819,
+                    "Tag": 3628,
+                    "ActionTag": 1275334079,
+                    "Size": {
+                      "X": 180.0,
+                      "Y": 20.0
+                    },
+                    "Name": "id",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "女",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.7602,
+                      "Y": 12.3096
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1434,
+                      "Y": 0.1501
+                    },
+                    "PreSize": {
+                      "X": 2.1951,
+                      "Y": 0.2439
+                    },
+                    "LeftMargin": 93.7602,
+                    "RightMargin": -191.7602,
+                    "TopMargin": 59.6904,
+                    "BottomMargin": 2.3096,
+                    "Tag": 3629,
+                    "ActionTag": 1467791826,
+                    "Size": {
+                      "X": 180.0,
+                      "Y": 20.0
+                    },
+                    "Name": "sex",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -97904309,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 82.0
+                },
+                "Name": "icon",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -592090201,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/hallPic/goldScene/yyjb_bg_head1@2x.png",
+        "Font/FZY4JW_0569.TTF",
+        "goldRankingList/yyib_bg_player@2x.png",
+        "goldRankingList/yyjb_title_player@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

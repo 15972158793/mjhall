@@ -1,0 +1,47 @@
+
+shunziniu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banner
+  rotate: false
+  xy: 196, 125
+  size: 267, 93
+  orig: 267, 93
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 27
+  size: 192, 191
+  orig: 192, 191
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 2
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 196, 54
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 341, 59
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+t3
+  rotate: true
+  xy: 269, 58
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1

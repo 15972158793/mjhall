@@ -1,0 +1,1997 @@
+{
+  "ID": "61d2f209-0fc8-4736-a2a6-556f58fc037f",
+  "Version": "2.3.4",
+  "Name": "goldShop",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 455,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "goldShop/yyjb_bg_shop@2x.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 374,
+            "Scale9OriginY": 211,
+            "Scale9Width": 388,
+            "Scale9Height": 218,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 456,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "goldShop/yyjb_bg_buy@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 170,
+                "Scale9Height": 186,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 159.04,
+                  "Y": 420.7722
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.14,
+                  "Y": 0.6575
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.325
+                },
+                "LeftMargin": 59.04,
+                "RightMargin": 876.96,
+                "TopMargin": 115.2278,
+                "BottomMargin": 316.7722,
+                "Tag": 459,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/icon_gold_1@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 20,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 22,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0,
+                      "Y": 135.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.65
+                    },
+                    "PreSize": {
+                      "X": 0.31,
+                      "Y": 0.2788
+                    },
+                    "LeftMargin": 69.0,
+                    "RightMargin": 69.0,
+                    "TopMargin": 43.8,
+                    "BottomMargin": 106.2,
+                    "Tag": 460,
+                    "ActionTag": -1345600018,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 58.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CharWidth": 20,
+                    "CharHeight": 25,
+                    "LabelText": "1000",
+                    "StartChar": ".",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font1.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.8379,
+                      "Y": 79.3203
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3792,
+                      "Y": 0.3813
+                    },
+                    "PreSize": {
+                      "X": 0.4,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 35.8379,
+                    "RightMargin": 84.1621,
+                    "TopMargin": 116.1797,
+                    "BottomMargin": 66.8203,
+                    "Tag": 461,
+                    "ActionTag": 994130521,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 25.0
+                    },
+                    "Name": "AtlasLabel_1",
+                    "ctype": "TextAtlasObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font_jb.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 8,
+                    "Scale9Width": 18,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 142.1682,
+                      "Y": 79.2298
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7108,
+                      "Y": 0.3809
+                    },
+                    "PreSize": {
+                      "X": 0.24,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 118.1682,
+                    "RightMargin": 33.8318,
+                    "TopMargin": 116.2702,
+                    "BottomMargin": 66.7298,
+                    "Tag": 462,
+                    "ActionTag": -156384402,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 121693888,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 208.0
+                },
+                "Name": "btn0",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "goldShop/yyjb_bg_buy@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 170,
+                "Scale9Height": 186,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 419.5001,
+                  "Y": 420.7722
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3693,
+                  "Y": 0.6575
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.325
+                },
+                "LeftMargin": 319.5001,
+                "RightMargin": 616.4999,
+                "TopMargin": 115.2278,
+                "BottomMargin": 316.7722,
+                "Tag": 463,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/icon_gold_2@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 20,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 49,
+                    "Scale9Height": 31,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0,
+                      "Y": 135.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.65
+                    },
+                    "PreSize": {
+                      "X": 0.445,
+                      "Y": 0.3317
+                    },
+                    "LeftMargin": 55.5,
+                    "RightMargin": 55.5,
+                    "TopMargin": 38.3,
+                    "BottomMargin": 100.7,
+                    "Tag": 464,
+                    "ActionTag": -63658097,
+                    "Size": {
+                      "X": 89.0,
+                      "Y": 69.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CharWidth": 20,
+                    "CharHeight": 25,
+                    "LabelText": "3000",
+                    "StartChar": ".",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font1.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.8379,
+                      "Y": 79.3203
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3792,
+                      "Y": 0.3813
+                    },
+                    "PreSize": {
+                      "X": 0.4,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 35.8379,
+                    "RightMargin": 84.1621,
+                    "TopMargin": 116.1797,
+                    "BottomMargin": 66.8203,
+                    "Tag": 465,
+                    "ActionTag": 1858260666,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 25.0
+                    },
+                    "Name": "AtlasLabel_1",
+                    "ctype": "TextAtlasObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font_jb.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 8,
+                    "Scale9Width": 18,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 142.1682,
+                      "Y": 79.2298
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7108,
+                      "Y": 0.3809
+                    },
+                    "PreSize": {
+                      "X": 0.24,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 118.1682,
+                    "RightMargin": 33.8318,
+                    "TopMargin": 116.2702,
+                    "BottomMargin": 66.7298,
+                    "Tag": 466,
+                    "ActionTag": 38303263,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -92138229,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 208.0
+                },
+                "Name": "btn1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "goldShop/yyjb_bg_buy@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 170,
+                "Scale9Height": 186,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 703.6757,
+                  "Y": 420.7722
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6194,
+                  "Y": 0.6575
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.325
+                },
+                "LeftMargin": 603.6757,
+                "RightMargin": 332.3243,
+                "TopMargin": 115.2278,
+                "BottomMargin": 316.7722,
+                "Tag": 467,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/icon_gold_3@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 20,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 47,
+                    "Scale9Height": 39,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0,
+                      "Y": 135.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.65
+                    },
+                    "PreSize": {
+                      "X": 0.435,
+                      "Y": 0.3702
+                    },
+                    "LeftMargin": 56.5,
+                    "RightMargin": 56.5,
+                    "TopMargin": 34.3,
+                    "BottomMargin": 96.7,
+                    "Tag": 468,
+                    "ActionTag": -1331463288,
+                    "Size": {
+                      "X": 87.0,
+                      "Y": 77.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CharWidth": 20,
+                    "CharHeight": 25,
+                    "LabelText": "5000",
+                    "StartChar": ".",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font1.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.8379,
+                      "Y": 79.3203
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3792,
+                      "Y": 0.3813
+                    },
+                    "PreSize": {
+                      "X": 0.4,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 35.8379,
+                    "RightMargin": 84.1621,
+                    "TopMargin": 116.1797,
+                    "BottomMargin": 66.8203,
+                    "Tag": 469,
+                    "ActionTag": -1421101019,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 25.0
+                    },
+                    "Name": "AtlasLabel_1",
+                    "ctype": "TextAtlasObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font_jb.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 8,
+                    "Scale9Width": 18,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 142.1682,
+                      "Y": 79.2298
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7108,
+                      "Y": 0.3809
+                    },
+                    "PreSize": {
+                      "X": 0.24,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 118.1682,
+                    "RightMargin": 33.8318,
+                    "TopMargin": 116.2702,
+                    "BottomMargin": 66.7298,
+                    "Tag": 470,
+                    "ActionTag": 1038600468,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1509652810,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 208.0
+                },
+                "Name": "btn2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "goldShop/yyjb_bg_buy@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 170,
+                "Scale9Height": 186,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 976.96,
+                  "Y": 420.7722
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.86,
+                  "Y": 0.6575
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.325
+                },
+                "LeftMargin": 876.96,
+                "RightMargin": 59.04,
+                "TopMargin": 115.2278,
+                "BottomMargin": 316.7722,
+                "Tag": 471,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/icon_gold_4@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 20,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 54,
+                    "Scale9Height": 43,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0,
+                      "Y": 135.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.65
+                    },
+                    "PreSize": {
+                      "X": 0.47,
+                      "Y": 0.3894
+                    },
+                    "LeftMargin": 53.0,
+                    "RightMargin": 53.0,
+                    "TopMargin": 32.3,
+                    "BottomMargin": 94.7,
+                    "Tag": 472,
+                    "ActionTag": 746828543,
+                    "Size": {
+                      "X": 94.0,
+                      "Y": 81.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CharWidth": 20,
+                    "CharHeight": 25,
+                    "LabelText": "10000",
+                    "StartChar": ".",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font1.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.8379,
+                      "Y": 79.3203
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3792,
+                      "Y": 0.3813
+                    },
+                    "PreSize": {
+                      "X": 0.5,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 25.8379,
+                    "RightMargin": 74.1621,
+                    "TopMargin": 116.1797,
+                    "BottomMargin": 66.8203,
+                    "Tag": 473,
+                    "ActionTag": 900038325,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 25.0
+                    },
+                    "Name": "AtlasLabel_1",
+                    "ctype": "TextAtlasObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font_jb.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 8,
+                    "Scale9Width": 18,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 149.1678,
+                      "Y": 79.2298
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7458,
+                      "Y": 0.3809
+                    },
+                    "PreSize": {
+                      "X": 0.24,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 125.1678,
+                    "RightMargin": 26.8322,
+                    "TopMargin": 116.2702,
+                    "BottomMargin": 66.7298,
+                    "Tag": 474,
+                    "ActionTag": -281823789,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1955625559,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 208.0
+                },
+                "Name": "btn3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "goldShop/yyjb_bg_buy@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 170,
+                "Scale9Height": 186,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 159.04,
+                  "Y": 159.7186
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.14,
+                  "Y": 0.2496
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.325
+                },
+                "LeftMargin": 59.04,
+                "RightMargin": 876.96,
+                "TopMargin": 376.2814,
+                "BottomMargin": 55.7186,
+                "Tag": 475,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/icon_gold_5@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 20,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 53,
+                    "Scale9Height": 75,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0,
+                      "Y": 135.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.65
+                    },
+                    "PreSize": {
+                      "X": 0.465,
+                      "Y": 0.5433
+                    },
+                    "LeftMargin": 53.5,
+                    "RightMargin": 53.5,
+                    "TopMargin": 16.3,
+                    "BottomMargin": 78.7,
+                    "Tag": 476,
+                    "ActionTag": -1555787112,
+                    "Size": {
+                      "X": 93.0,
+                      "Y": 113.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CharWidth": 20,
+                    "CharHeight": 25,
+                    "LabelText": "30000",
+                    "StartChar": ".",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font1.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.8379,
+                      "Y": 74.2298
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3792,
+                      "Y": 0.3569
+                    },
+                    "PreSize": {
+                      "X": 0.5,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 25.8379,
+                    "RightMargin": 74.1621,
+                    "TopMargin": 121.2702,
+                    "BottomMargin": 61.7298,
+                    "Tag": 477,
+                    "ActionTag": -965832628,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 25.0
+                    },
+                    "Name": "AtlasLabel_1",
+                    "ctype": "TextAtlasObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font_jb.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 8,
+                    "Scale9Width": 18,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 150.1687,
+                      "Y": 74.2298
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7508,
+                      "Y": 0.3569
+                    },
+                    "PreSize": {
+                      "X": 0.24,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 126.1687,
+                    "RightMargin": 25.8313,
+                    "TopMargin": 121.2702,
+                    "BottomMargin": 61.7298,
+                    "Tag": 478,
+                    "ActionTag": -213750474,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1362208655,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 208.0
+                },
+                "Name": "btn4",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "goldShop/yyjb_bg_buy@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 170,
+                "Scale9Height": 186,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 431.68,
+                  "Y": 159.7186
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.38,
+                  "Y": 0.2496
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.325
+                },
+                "LeftMargin": 331.68,
+                "RightMargin": 604.32,
+                "TopMargin": 376.2814,
+                "BottomMargin": 55.7186,
+                "Tag": 479,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/icon_gold_6@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 20,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 66,
+                    "Scale9Height": 82,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0,
+                      "Y": 135.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.65
+                    },
+                    "PreSize": {
+                      "X": 0.53,
+                      "Y": 0.5769
+                    },
+                    "LeftMargin": 47.0,
+                    "RightMargin": 47.0,
+                    "TopMargin": 12.8,
+                    "BottomMargin": 75.2,
+                    "Tag": 480,
+                    "ActionTag": -1649077524,
+                    "Size": {
+                      "X": 106.0,
+                      "Y": 120.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CharWidth": 20,
+                    "CharHeight": 25,
+                    "LabelText": "50000",
+                    "StartChar": ".",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font1.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.8379,
+                      "Y": 74.2298
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3792,
+                      "Y": 0.3569
+                    },
+                    "PreSize": {
+                      "X": 0.5,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 25.8379,
+                    "RightMargin": 74.1621,
+                    "TopMargin": 121.2702,
+                    "BottomMargin": 61.7298,
+                    "Tag": 481,
+                    "ActionTag": -1116384288,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 25.0
+                    },
+                    "Name": "AtlasLabel_1",
+                    "ctype": "TextAtlasObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font_jb.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 8,
+                    "Scale9Width": 18,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 151.1683,
+                      "Y": 74.2298
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7558,
+                      "Y": 0.3569
+                    },
+                    "PreSize": {
+                      "X": 0.24,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 127.1683,
+                    "RightMargin": 24.8317,
+                    "TopMargin": 121.2702,
+                    "BottomMargin": 61.7298,
+                    "Tag": 482,
+                    "ActionTag": 1155186166,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -5803576,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 208.0
+                },
+                "Name": "btn5",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "goldShop/yyjb_bg_buy@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 170,
+                "Scale9Height": 186,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 704.3201,
+                  "Y": 159.7186
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.62,
+                  "Y": 0.2496
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.325
+                },
+                "LeftMargin": 604.3201,
+                "RightMargin": 331.6799,
+                "TopMargin": 376.2814,
+                "BottomMargin": 55.7186,
+                "Tag": 483,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/icon_gold_7@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 20,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 80,
+                    "Scale9Height": 92,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0,
+                      "Y": 137.1968
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.6596
+                    },
+                    "PreSize": {
+                      "X": 0.6,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 40.0,
+                    "RightMargin": 40.0,
+                    "TopMargin": 5.8032,
+                    "BottomMargin": 72.1968,
+                    "Tag": 484,
+                    "ActionTag": 503570807,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 130.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CharWidth": 20,
+                    "CharHeight": 25,
+                    "LabelText": "99900",
+                    "StartChar": ".",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font1.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.8379,
+                      "Y": 74.2298
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3792,
+                      "Y": 0.3569
+                    },
+                    "PreSize": {
+                      "X": 0.5,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 25.8379,
+                    "RightMargin": 74.1621,
+                    "TopMargin": 121.2702,
+                    "BottomMargin": 61.7298,
+                    "Tag": 485,
+                    "ActionTag": 118337369,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 25.0
+                    },
+                    "Name": "AtlasLabel_1",
+                    "ctype": "TextAtlasObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font_jb.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 8,
+                    "Scale9Width": 18,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 158.6779,
+                      "Y": 74.2298
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7934,
+                      "Y": 0.3569
+                    },
+                    "PreSize": {
+                      "X": 0.24,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 134.6779,
+                    "RightMargin": 17.3221,
+                    "TopMargin": 121.2702,
+                    "BottomMargin": 61.7298,
+                    "Tag": 486,
+                    "ActionTag": -1369114785,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1998971995,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 208.0
+                },
+                "Name": "btn6",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "goldShop/yyjb_bg_buy@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 170,
+                "Scale9Height": 186,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 976.96,
+                  "Y": 159.7186
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.86,
+                  "Y": 0.2496
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.325
+                },
+                "LeftMargin": 876.96,
+                "RightMargin": 59.04,
+                "TopMargin": 376.2814,
+                "BottomMargin": 55.7186,
+                "Tag": 487,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/icon_gold_8@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 20,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 123,
+                    "Scale9Height": 87,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0,
+                      "Y": 135.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.65
+                    },
+                    "PreSize": {
+                      "X": 0.815,
+                      "Y": 0.601
+                    },
+                    "LeftMargin": 18.5,
+                    "RightMargin": 18.5,
+                    "TopMargin": 10.3,
+                    "BottomMargin": 72.7,
+                    "Tag": 488,
+                    "ActionTag": 804266545,
+                    "Size": {
+                      "X": 163.0,
+                      "Y": 125.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CharWidth": 20,
+                    "CharHeight": 25,
+                    "LabelText": "200000",
+                    "StartChar": ".",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font1.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.8379,
+                      "Y": 74.2298
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3792,
+                      "Y": 0.3569
+                    },
+                    "PreSize": {
+                      "X": 0.6,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 15.8379,
+                    "RightMargin": 64.1621,
+                    "TopMargin": 121.2702,
+                    "BottomMargin": 61.7298,
+                    "Tag": 489,
+                    "ActionTag": 1517536346,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 25.0
+                    },
+                    "Name": "AtlasLabel_1",
+                    "ctype": "TextAtlasObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "goldShop/yyjb_font_jb.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 8,
+                    "Scale9Width": 18,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 157.1666,
+                      "Y": 74.2298
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7858,
+                      "Y": 0.3569
+                    },
+                    "PreSize": {
+                      "X": 0.24,
+                      "Y": 0.1202
+                    },
+                    "LeftMargin": 133.1666,
+                    "RightMargin": 18.8334,
+                    "TopMargin": 121.2702,
+                    "BottomMargin": 61.7298,
+                    "Tag": 490,
+                    "ActionTag": -1536432271,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1802602652,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 208.0
+                },
+                "Name": "btn7",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 679815511,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "goldShop/yyjb_title_shop@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 598.1955
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9347
+            },
+            "PreSize": {
+              "X": 0.0722,
+              "Y": 0.0609
+            },
+            "LeftMargin": 527.0,
+            "RightMargin": 527.0,
+            "TopMargin": 22.3045,
+            "BottomMargin": 578.6955,
+            "Tag": 496,
+            "ActionTag": 124214849,
+            "Size": {
+              "X": 82.0,
+              "Y": 39.0
+            },
+            "Name": "title",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_btn_return@2x.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 30,
+            "Scale9Height": 41,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 60.5035,
+              "Y": 598.1204
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0533,
+              "Y": 0.9346
+            },
+            "PreSize": {
+              "X": 0.0528,
+              "Y": 0.0984
+            },
+            "LeftMargin": 30.5035,
+            "RightMargin": 1045.4965,
+            "TopMargin": 10.3796,
+            "BottomMargin": 566.6204,
+            "Tag": 497,
+            "ActionTag": -1590266202,
+            "Size": {
+              "X": 60.0,
+              "Y": 63.0
+            },
+            "Name": "btn_close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_bg_goldNum@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 53,
+            "Scale9OriginY": 13,
+            "Scale9Width": 2,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 980.5952,
+              "Y": 584.832
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.8632,
+              "Y": 0.9138
+            },
+            "PreSize": {
+              "X": 0.0951,
+              "Y": 0.0422
+            },
+            "LeftMargin": 980.5952,
+            "RightMargin": 47.4048,
+            "TopMargin": 28.168,
+            "BottomMargin": 584.832,
+            "Tag": 532,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/hallPic/goldScene/hall_img_gold@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 13,
+                "Scale9Width": 22,
+                "Scale9Height": 17,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -24.0,
+                  "Y": -7.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.2222,
+                  "Y": -0.2593
+                },
+                "PreSize": {
+                  "X": 0.3889,
+                  "Y": 1.5926
+                },
+                "LeftMargin": -24.0,
+                "RightMargin": 90.0,
+                "TopMargin": -9.0,
+                "BottomMargin": -7.0,
+                "Tag": 533,
+                "ActionTag": 344840647,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 43.0
+                },
+                "Name": "Image_6",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "100111",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 55.6834,
+                  "Y": 11.2495
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5156,
+                  "Y": 0.4166
+                },
+                "PreSize": {
+                  "X": 0.8333,
+                  "Y": 1.0741
+                },
+                "LeftMargin": 10.6834,
+                "RightMargin": 7.3166,
+                "TopMargin": 1.2505,
+                "BottomMargin": -3.2505,
+                "Tag": 534,
+                "ActionTag": 1612006612,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 29.0
+                },
+                "Name": "gold",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1098025917,
+            "Size": {
+              "X": 108.0,
+              "Y": 27.0
+            },
+            "Name": "Image_5_0_0",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/hallPic/goldScene/hall_img_gold@2x.png",
+        "commonCells/commonPic/hallPic/goldScene/yyjb_bg_goldNum@2x.png",
+        "commonCells/commonPic/hallPic/goldScene/yyjb_btn_return@2x.png",
+        "Font/FZY4JW_0569.TTF",
+        "goldShop/icon_gold_1@2x.png",
+        "goldShop/icon_gold_2@2x.png",
+        "goldShop/icon_gold_3@2x.png",
+        "goldShop/icon_gold_4@2x.png",
+        "goldShop/icon_gold_5@2x.png",
+        "goldShop/icon_gold_6@2x.png",
+        "goldShop/icon_gold_7@2x.png",
+        "goldShop/icon_gold_8@2x.png",
+        "goldShop/yyjb_bg_buy@2x.png",
+        "goldShop/yyjb_bg_shop@2x.png",
+        "goldShop/yyjb_font_jb.png",
+        "goldShop/yyjb_font1.png",
+        "goldShop/yyjb_title_shop@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

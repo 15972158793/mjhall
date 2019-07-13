@@ -1,0 +1,477 @@
+{
+  "ID": "6a4d1be2-fa2d-42ab-8fe9-2215c309292b",
+  "Version": "2.3.4",
+  "Name": "shareLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 591,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 51,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 1081,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/jxnn_bg_setting@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 242,
+                "Scale9OriginY": 151,
+                "Scale9Width": 232,
+                "Scale9Height": 152,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.647,
+                  "Y": 0.7188
+                },
+                "LeftMargin": 200.5,
+                "RightMargin": 200.5,
+                "TopMargin": 90.0,
+                "BottomMargin": 90.0,
+                "Tag": 592,
+                "ActionTag": 430824554,
+                "Size": {
+                  "X": 735.0,
+                  "Y": 460.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/sharePic/jxnn_btm_wechat@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 118,
+                "Scale9Height": 126,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 420.32,
+                  "Y": 343.424
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.37,
+                  "Y": 0.5366
+                },
+                "PreSize": {
+                  "X": 0.1303,
+                  "Y": 0.2313
+                },
+                "LeftMargin": 346.32,
+                "RightMargin": 641.68,
+                "TopMargin": 222.576,
+                "BottomMargin": 269.424,
+                "Tag": 595,
+                "ActionTag": -220554486,
+                "Size": {
+                  "X": 148.0,
+                  "Y": 148.0
+                },
+                "Name": "wxShareBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/sharePic/jxnn_btm_friends@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 118,
+                "Scale9Height": 126,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 715.68,
+                  "Y": 343.424
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.63,
+                  "Y": 0.5366
+                },
+                "PreSize": {
+                  "X": 0.1303,
+                  "Y": 0.2313
+                },
+                "LeftMargin": 641.68,
+                "RightMargin": 346.32,
+                "TopMargin": 222.576,
+                "BottomMargin": 269.424,
+                "Tag": 596,
+                "ActionTag": 918545108,
+                "Size": {
+                  "X": 148.0,
+                  "Y": 148.0
+                },
+                "Name": "pyqShareBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/sharePic/jxnn_img_title_share@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 31,
+                "Scale9OriginY": 10,
+                "Scale9Width": 200,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 512.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8
+                },
+                "PreSize": {
+                  "X": 0.2306,
+                  "Y": 0.0812
+                },
+                "LeftMargin": 437.0,
+                "RightMargin": 437.0,
+                "TopMargin": 102.0,
+                "BottomMargin": 486.0,
+                "Tag": 597,
+                "ActionTag": 1429283287,
+                "Size": {
+                  "X": 262.0,
+                  "Y": 52.0
+                },
+                "Name": "title",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/sharePic/jxnn_img_wxhy@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 51,
+                "Scale9OriginY": 9,
+                "Scale9Width": 24,
+                "Scale9Height": 11,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 421.7968,
+                  "Y": 233.472
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3713,
+                  "Y": 0.3648
+                },
+                "PreSize": {
+                  "X": 0.1109,
+                  "Y": 0.0453
+                },
+                "LeftMargin": 358.7968,
+                "RightMargin": 651.2032,
+                "TopMargin": 392.028,
+                "BottomMargin": 218.972,
+                "Tag": 598,
+                "ActionTag": 132887587,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 29.0
+                },
+                "Name": "Image_4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/jxnn_btn_close@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 35,
+                "Scale9Height": 44,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 891.5328,
+                  "Y": 505.728
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.7848,
+                  "Y": 0.7902
+                },
+                "PreSize": {
+                  "X": 0.0572,
+                  "Y": 0.1031
+                },
+                "LeftMargin": 859.0328,
+                "RightMargin": 211.9672,
+                "TopMargin": 101.272,
+                "BottomMargin": 472.728,
+                "Tag": 599,
+                "ActionTag": 1417988692,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 66.0
+                },
+                "Name": "closeBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/sharePic/jxnn_img_pyq@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 37,
+                "Scale9OriginY": 9,
+                "Scale9Width": 83,
+                "Scale9Height": 11,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 711.4767,
+                  "Y": 233.472
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6263,
+                  "Y": 0.3648
+                },
+                "PreSize": {
+                  "X": 0.1382,
+                  "Y": 0.0453
+                },
+                "LeftMargin": 632.9767,
+                "RightMargin": 346.0233,
+                "TopMargin": 392.028,
+                "BottomMargin": 218.972,
+                "Tag": 600,
+                "ActionTag": -880823653,
+                "Size": {
+                  "X": 157.0,
+                  "Y": 29.0
+                },
+                "Name": "Image_5",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 406078144,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/jxnn_bg_setting@2x.png",
+        "commonCells/commonPic/jxnn_btn_close@2x.png",
+        "commonCells/commonPic/sharePic/jxnn_btm_friends@2x.png",
+        "commonCells/commonPic/sharePic/jxnn_btm_wechat@2x.png",
+        "commonCells/commonPic/sharePic/jxnn_img_pyq@2x.png",
+        "commonCells/commonPic/sharePic/jxnn_img_title_share@2x.png",
+        "commonCells/commonPic/sharePic/jxnn_img_wxhy@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

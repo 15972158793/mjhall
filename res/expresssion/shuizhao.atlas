@@ -1,0 +1,33 @@
+
+shuizhao.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biti01
+  rotate: false
+  xy: 2, 18
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+shenti01
+  rotate: false
+  xy: 2, 42
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+yanjing04
+  rotate: false
+  xy: 78, 111
+  size: 26, 5
+  orig: 26, 5
+  offset: 0, 0
+  index: -1
+z01
+  rotate: false
+  xy: 2, 2
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1

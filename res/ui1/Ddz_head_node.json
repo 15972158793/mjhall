@@ -1,0 +1,365 @@
+{
+  "ID": "a67cba53-f94f-47a0-b8ab-f9e60d0392a1",
+  "Version": "2.3.4",
+  "Name": "Ddz_head_node",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 84,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/hallPic/jxnn_bg_head1@2x.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/hallPic/jxnn_bg_head1@2x.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 33,
+            "Scale9Height": 42,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 82.764,
+              "Y": 132.024
+            },
+            "Scale": {
+              "ScaleX": 1.3,
+              "ScaleY": 1.3
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.4598,
+              "Y": 0.5501
+            },
+            "PreSize": {
+              "X": 0.35,
+              "Y": 0.2667
+            },
+            "LeftMargin": 51.264,
+            "RightMargin": 65.736,
+            "TopMargin": 75.976,
+            "BottomMargin": 100.024,
+            "Tag": 85,
+            "ActionTag": -1976986309,
+            "Size": {
+              "X": 63.0,
+              "Y": 64.0
+            },
+            "Name": "headbg",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/inRoomSamePic/img_jifen@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 80.532,
+              "Y": 31.5612
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.4474,
+              "Y": 0.1315
+            },
+            "PreSize": {
+              "X": 0.4444,
+              "Y": 0.0875
+            },
+            "LeftMargin": 40.532,
+            "RightMargin": 59.468,
+            "TopMargin": 197.9388,
+            "BottomMargin": 21.0612,
+            "Tag": 88,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "1231",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 70.0447,
+                  "Y": 11.9199
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8756,
+                  "Y": 0.5676
+                },
+                "PreSize": {
+                  "X": 0.75,
+                  "Y": 1.0476
+                },
+                "LeftMargin": 40.0447,
+                "RightMargin": -20.0447,
+                "TopMargin": -1.9199,
+                "BottomMargin": 0.9199,
+                "Tag": 89,
+                "ActionTag": 513631437,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 22.0
+                },
+                "Name": "jifenText",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/inRoomSamePic/yypk_img_jifen@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 13,
+                "Scale9OriginY": 7,
+                "Scale9Width": 14,
+                "Scale9Height": 8,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 12.4472
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.5927
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 1.0476
+                },
+                "RightMargin": 40.0,
+                "TopMargin": -2.4472,
+                "BottomMargin": 1.4472,
+                "Tag": 1058,
+                "ActionTag": 1743934593,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 22.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -900619497,
+            "Size": {
+              "X": 80.0,
+              "Y": 21.0
+            },
+            "Name": "jifen",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ddzCells/ddzPic/ddzTablePic/btn_nongmin@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 146.53,
+              "Y": 133.74
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8141,
+              "Y": 0.5573
+            },
+            "PreSize": {
+              "X": 0.1556,
+              "Y": 0.2125
+            },
+            "LeftMargin": 132.53,
+            "RightMargin": 19.47,
+            "TopMargin": 80.76,
+            "BottomMargin": 108.24,
+            "Tag": 87,
+            "ActionTag": 1695129035,
+            "Size": {
+              "X": 28.0,
+              "Y": 51.0
+            },
+            "Name": "isdizhu",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": " 连接连接中德  ",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Font/FZY4JW_0569.TTF",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 84.744,
+              "Y": 63.696
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.4708,
+              "Y": 0.2654
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.0958
+            },
+            "LeftMargin": -5.256,
+            "RightMargin": 5.256,
+            "TopMargin": 164.804,
+            "BottomMargin": 52.196,
+            "Tag": 86,
+            "ActionTag": -739322648,
+            "Size": {
+              "X": 180.0,
+              "Y": 23.0
+            },
+            "Name": "playername",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 180.0,
+          "Y": 240.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/hallPic/jxnn_bg_head1@2x.png",
+        "commonCells/commonPic/inRoomSamePic/img_jifen@2x.png",
+        "commonCells/commonPic/inRoomSamePic/yypk_img_jifen@2x.png",
+        "ddzCells/ddzPic/ddzTablePic/btn_nongmin@2x.png",
+        "Font/FZY4JW_0569.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,5601 @@
+{
+  "ID": "e3a8e848-9206-4e18-9dcb-8dc9601b4952",
+  "Version": "2.3.4",
+  "Name": "goldNysPlayer8",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 2879,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 289.68,
+              "Y": 219.776
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.255,
+              "Y": 0.3434
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 289.68,
+            "RightMargin": 846.32,
+            "TopMargin": 420.224,
+            "BottomMargin": 219.776,
+            "Tag": 3201,
+            "ActionTag": -899142737,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "notifynode7",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 289.68,
+              "Y": 359.936
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.255,
+              "Y": 0.5624
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 289.68,
+            "RightMargin": 846.32,
+            "TopMargin": 280.064,
+            "BottomMargin": 359.936,
+            "Tag": 3202,
+            "ActionTag": 2119283875,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "notifynode6",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 357.84,
+              "Y": 508.992
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.315,
+              "Y": 0.7953
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 357.84,
+            "RightMargin": 778.16,
+            "TopMargin": 131.008,
+            "BottomMargin": 508.992,
+            "Tag": 3203,
+            "ActionTag": -1326875747,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "notifynode5",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 568.0,
+              "Y": 456.96
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.714
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 568.0,
+            "RightMargin": 568.0,
+            "TopMargin": 183.04,
+            "BottomMargin": 456.96,
+            "Tag": 3204,
+            "ActionTag": 2008618288,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "notifynode4",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 772.9344,
+              "Y": 508.992
+            },
+            "Scale": {
+              "ScaleX": 0.6859,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.6804,
+              "Y": 0.7953
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 772.9344,
+            "RightMargin": 363.0656,
+            "TopMargin": 131.008,
+            "BottomMargin": 508.992,
+            "Tag": 3205,
+            "ActionTag": 1315483234,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "notifynode3",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 827.6896,
+              "Y": 359.936
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.7286,
+              "Y": 0.5624
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 827.6896,
+            "RightMargin": 308.3104,
+            "TopMargin": 280.064,
+            "BottomMargin": 359.936,
+            "Tag": 3206,
+            "ActionTag": 1618318608,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "notifynode2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 827.6896,
+              "Y": 219.84
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.7286,
+              "Y": 0.3435
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 827.6896,
+            "RightMargin": 308.3104,
+            "TopMargin": 420.16,
+            "BottomMargin": 219.84,
+            "Tag": 3207,
+            "ActionTag": 766670598,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "notifynode1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 570.84,
+              "Y": 55.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5025,
+              "Y": 0.0859
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 570.84,
+            "RightMargin": 565.16,
+            "TopMargin": 585.0,
+            "BottomMargin": 55.0,
+            "Tag": 3208,
+            "ActionTag": 742036596,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "notifynode0",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "niuniuPic/playerhead.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 145,
+            "Scale9Height": 60,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 95.7648,
+              "Y": 46.336
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0843,
+              "Y": 0.0724
+            },
+            "PreSize": {
+              "X": 0.154,
+              "Y": 0.1281
+            },
+            "LeftMargin": 8.2648,
+            "RightMargin": 952.7352,
+            "TopMargin": 552.664,
+            "BottomMargin": 5.336,
+            "Tag": 2880,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "zh个弓弩还是说",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 86.275,
+                  "Y": 35.8586
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.493,
+                  "Y": 0.4373
+                },
+                "PreSize": {
+                  "X": 0.8229,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 86.275,
+                "RightMargin": -55.275,
+                "TopMargin": 23.1414,
+                "BottomMargin": 35.8586,
+                "Tag": 2881,
+                "ActionTag": -1272269461,
+                "Size": {
+                  "X": 144.0,
+                  "Y": 23.0
+                },
+                "Name": "playername",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/nn331_ok@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 41.1775,
+                  "Y": 117.9242
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2353,
+                  "Y": 1.4381
+                },
+                "PreSize": {
+                  "X": 0.4171,
+                  "Y": 0.5732
+                },
+                "LeftMargin": 4.6775,
+                "RightMargin": 97.3225,
+                "TopMargin": -59.4242,
+                "BottomMargin": 94.4242,
+                "Tag": 2882,
+                "ActionTag": 1720515269,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 47.0
+                },
+                "Name": "ok",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/zjh_touxiang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 30,
+                "Scale9Width": 24,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.22,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.48,
+                  "Y": 1.0244
+                },
+                "LeftMargin": -3.5,
+                "RightMargin": 94.5,
+                "TopMargin": -1.0,
+                "BottomMargin": -1.0,
+                "Tag": 2883,
+                "ActionTag": -236183089,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 84.0
+                },
+                "Name": "icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/img_jifen@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 7,
+                "Scale9Width": 24,
+                "Scale9Height": 9,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 84.5075,
+                  "Y": 4.5592
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4829,
+                  "Y": 0.0556
+                },
+                "PreSize": {
+                  "X": 0.4686,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 84.5075,
+                "RightMargin": 8.4925,
+                "TopMargin": 54.4408,
+                "BottomMargin": 4.5592,
+                "Tag": 2884,
+                "ActionTag": 713945773,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 23.0
+                },
+                "Name": "score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_q2@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 74.7425,
+                  "Y": 118.244
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4271,
+                  "Y": 1.442
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6341
+                },
+                "LeftMargin": 22.2425,
+                "RightMargin": 47.7575,
+                "TopMargin": -62.244,
+                "BottomMargin": 92.244,
+                "Tag": 2885,
+                "ActionTag": -1726768891,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 52.0
+                },
+                "Name": "rob_zhuang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_b1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 12,
+                "Scale9Width": 81,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 72.6456,
+                  "Y": 117.8176
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4151,
+                  "Y": 1.4368
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6463
+                },
+                "LeftMargin": 20.1456,
+                "RightMargin": 49.8544,
+                "TopMargin": -62.3176,
+                "BottomMargin": 91.3176,
+                "Tag": 2886,
+                "ActionTag": 699428766,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 53.0
+                },
+                "Name": "call_score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 87.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 2887,
+                "ActionTag": -996395126,
+                "Size": {
+                  "X": 175.0,
+                  "Y": 82.0
+                },
+                "Alpha": 0,
+                "Name": "ccc",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "离 线",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 39.0425,
+                  "Y": 40.1554
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2231,
+                  "Y": 0.4897
+                },
+                "PreSize": {
+                  "X": 0.36,
+                  "Y": 0.3049
+                },
+                "LeftMargin": 7.5425,
+                "RightMargin": 104.4575,
+                "TopMargin": 29.3446,
+                "BottomMargin": 27.6554,
+                "Tag": 2888,
+                "ActionTag": 1204078013,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 25.0
+                },
+                "Name": "off_line",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_gold@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 10,
+                "Scale9Height": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 97.548,
+                  "Y": 15.4226
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5574,
+                  "Y": 0.1881
+                },
+                "PreSize": {
+                  "X": 0.16,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 83.548,
+                "RightMargin": 63.452,
+                "TopMargin": 52.5774,
+                "BottomMargin": 1.4226,
+                "Tag": 2889,
+                "ActionTag": 1970963634,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "Name": "Image_25",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "10000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": -0.5,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 115.1845,
+                  "Y": 15.5639
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6582,
+                  "Y": 0.1898
+                },
+                "PreSize": {
+                  "X": 0.5714,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 115.1845,
+                "RightMargin": -40.1845,
+                "TopMargin": 54.9361,
+                "BottomMargin": 4.0639,
+                "Tag": 2890,
+                "ActionTag": 851422688,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 23.0
+                },
+                "Name": "playerscore",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/light1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 60,
+                "Scale9OriginY": 31,
+                "Scale9Width": 64,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 85.3491,
+                  "Y": 41.5394
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4877,
+                  "Y": 0.5066
+                },
+                "PreSize": {
+                  "X": 1.0514,
+                  "Y": 1.1463
+                },
+                "LeftMargin": -6.6509,
+                "RightMargin": -2.3491,
+                "TopMargin": -6.5394,
+                "BottomMargin": -5.4606,
+                "Tag": 2891,
+                "ActionTag": -117757808,
+                "Size": {
+                  "X": 184.0,
+                  "Y": 94.0
+                },
+                "Name": "light",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_zhuang@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 20,
+                "Scale9OriginY": 21,
+                "Scale9Width": 24,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 164.9375,
+                  "Y": 80.5568
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.9425,
+                  "Y": 0.9824
+                },
+                "PreSize": {
+                  "X": 0.3657,
+                  "Y": 0.7805
+                },
+                "LeftMargin": 132.9375,
+                "RightMargin": -21.9375,
+                "TopMargin": -30.5568,
+                "BottomMargin": 48.5568,
+                "Tag": 2892,
+                "ActionTag": 1903793224,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "zhuang",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1494700148,
+            "Size": {
+              "X": 175.0,
+              "Y": 82.0
+            },
+            "Name": "UserNode0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "niuniuPic/playerhead.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 145,
+            "Scale9Height": 60,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1032.624,
+              "Y": 210.944
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.909,
+              "Y": 0.3296
+            },
+            "PreSize": {
+              "X": 0.154,
+              "Y": 0.1281
+            },
+            "LeftMargin": 945.124,
+            "RightMargin": 15.876,
+            "TopMargin": 388.056,
+            "BottomMargin": 169.944,
+            "Tag": 3209,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "zh个弓弩还是说",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 86.275,
+                  "Y": 35.8586
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.493,
+                  "Y": 0.4373
+                },
+                "PreSize": {
+                  "X": 0.8229,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 86.275,
+                "RightMargin": -55.275,
+                "TopMargin": 23.1414,
+                "BottomMargin": 35.8586,
+                "Tag": 3210,
+                "ActionTag": -2087161146,
+                "Size": {
+                  "X": 144.0,
+                  "Y": 23.0
+                },
+                "Name": "playername",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/nn331_ok@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.265,
+                  "Y": 111.643
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3958,
+                  "Y": 1.3615
+                },
+                "PreSize": {
+                  "X": 0.4171,
+                  "Y": 0.5732
+                },
+                "LeftMargin": 32.765,
+                "RightMargin": 69.235,
+                "TopMargin": -53.143,
+                "BottomMargin": 88.143,
+                "Tag": 3211,
+                "ActionTag": 1344354910,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 47.0
+                },
+                "Name": "ok",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/zjh_touxiang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 30,
+                "Scale9Width": 24,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.22,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.48,
+                  "Y": 1.0244
+                },
+                "LeftMargin": -3.5,
+                "RightMargin": 94.5,
+                "TopMargin": -1.0,
+                "BottomMargin": -1.0,
+                "Tag": 3212,
+                "ActionTag": -110561287,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 84.0
+                },
+                "Name": "icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/img_jifen@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 7,
+                "Scale9Width": 24,
+                "Scale9Height": 9,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 84.5075,
+                  "Y": 4.5592
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4829,
+                  "Y": 0.0556
+                },
+                "PreSize": {
+                  "X": 0.4686,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 84.5075,
+                "RightMargin": 8.4925,
+                "TopMargin": 54.4408,
+                "BottomMargin": 4.5592,
+                "Tag": 3213,
+                "ActionTag": 813123477,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 23.0
+                },
+                "Name": "score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_q2@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 86.485,
+                  "Y": 116.768
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4942,
+                  "Y": 1.424
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6341
+                },
+                "LeftMargin": 33.985,
+                "RightMargin": 36.015,
+                "TopMargin": -60.768,
+                "BottomMargin": 90.768,
+                "Tag": 3214,
+                "ActionTag": 417380742,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 52.0
+                },
+                "Name": "rob_zhuang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_b1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 12,
+                "Scale9Width": 81,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 92.972,
+                  "Y": 115.8332
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5313,
+                  "Y": 1.4126
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6463
+                },
+                "LeftMargin": 40.472,
+                "RightMargin": 29.528,
+                "TopMargin": -60.3332,
+                "BottomMargin": 89.3332,
+                "Tag": 3215,
+                "ActionTag": 1161912099,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 53.0
+                },
+                "Name": "call_score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 87.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 3216,
+                "ActionTag": 1018037813,
+                "Size": {
+                  "X": 175.0,
+                  "Y": 82.0
+                },
+                "Alpha": 0,
+                "Name": "ccc",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "离 线",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 39.0425,
+                  "Y": 40.1554
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2231,
+                  "Y": 0.4897
+                },
+                "PreSize": {
+                  "X": 0.36,
+                  "Y": 0.3049
+                },
+                "LeftMargin": 7.5425,
+                "RightMargin": 104.4575,
+                "TopMargin": 29.3446,
+                "BottomMargin": 27.6554,
+                "Tag": 3217,
+                "ActionTag": -1287185846,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 25.0
+                },
+                "Name": "off_line",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_gold@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 10,
+                "Scale9Height": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 97.548,
+                  "Y": 15.4226
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5574,
+                  "Y": 0.1881
+                },
+                "PreSize": {
+                  "X": 0.16,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 83.548,
+                "RightMargin": 63.452,
+                "TopMargin": 52.5774,
+                "BottomMargin": 1.4226,
+                "Tag": 3218,
+                "ActionTag": -1062026222,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "Name": "Image_25",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "10000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": -0.5,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 113.7325,
+                  "Y": 15.5636
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6499,
+                  "Y": 0.1898
+                },
+                "PreSize": {
+                  "X": 0.5714,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 113.7325,
+                "RightMargin": -38.7325,
+                "TopMargin": 54.9364,
+                "BottomMargin": 4.0636,
+                "Tag": 3219,
+                "ActionTag": 80097816,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 23.0
+                },
+                "Name": "playerscore",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/light1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 60,
+                "Scale9OriginY": 31,
+                "Scale9Width": 64,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 85.3491,
+                  "Y": 41.5394
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4877,
+                  "Y": 0.5066
+                },
+                "PreSize": {
+                  "X": 1.0514,
+                  "Y": 1.1463
+                },
+                "LeftMargin": -6.6509,
+                "RightMargin": -2.3491,
+                "TopMargin": -6.5394,
+                "BottomMargin": -5.4606,
+                "Tag": 3220,
+                "ActionTag": -520126608,
+                "Size": {
+                  "X": 184.0,
+                  "Y": 94.0
+                },
+                "Name": "light",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_zhuang@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 20,
+                "Scale9OriginY": 21,
+                "Scale9Width": 24,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1.9425,
+                  "Y": 80.5568
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0111,
+                  "Y": 0.9824
+                },
+                "PreSize": {
+                  "X": 0.3657,
+                  "Y": 0.7805
+                },
+                "LeftMargin": -30.0575,
+                "RightMargin": 141.0575,
+                "TopMargin": -30.5568,
+                "BottomMargin": 48.5568,
+                "Tag": 3221,
+                "ActionTag": -1822631308,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "zhuang",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1640714757,
+            "Size": {
+              "X": 175.0,
+              "Y": 82.0
+            },
+            "Name": "UserNode1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "niuniuPic/playerhead.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 145,
+            "Scale9Height": 60,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1027.2848,
+              "Y": 361.6
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.9043,
+              "Y": 0.565
+            },
+            "PreSize": {
+              "X": 0.154,
+              "Y": 0.1281
+            },
+            "LeftMargin": 939.7848,
+            "RightMargin": 21.2152,
+            "TopMargin": 237.4,
+            "BottomMargin": 320.6,
+            "Tag": 3251,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "zh个弓弩还是说",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 86.275,
+                  "Y": 35.8586
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.493,
+                  "Y": 0.4373
+                },
+                "PreSize": {
+                  "X": 0.8229,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 86.275,
+                "RightMargin": -55.275,
+                "TopMargin": 23.1414,
+                "BottomMargin": 35.8586,
+                "Tag": 3252,
+                "ActionTag": -201331306,
+                "Size": {
+                  "X": 144.0,
+                  "Y": 23.0
+                },
+                "Name": "playername",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/nn331_ok@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.265,
+                  "Y": 111.643
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3958,
+                  "Y": 1.3615
+                },
+                "PreSize": {
+                  "X": 0.4171,
+                  "Y": 0.5732
+                },
+                "LeftMargin": 32.765,
+                "RightMargin": 69.235,
+                "TopMargin": -53.143,
+                "BottomMargin": 88.143,
+                "Tag": 3253,
+                "ActionTag": -362106477,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 47.0
+                },
+                "Name": "ok",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/zjh_touxiang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 30,
+                "Scale9Width": 24,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.22,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.48,
+                  "Y": 1.0244
+                },
+                "LeftMargin": -3.5,
+                "RightMargin": 94.5,
+                "TopMargin": -1.0,
+                "BottomMargin": -1.0,
+                "Tag": 3254,
+                "ActionTag": -532415993,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 84.0
+                },
+                "Name": "icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/img_jifen@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 7,
+                "Scale9Width": 24,
+                "Scale9Height": 9,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 84.5075,
+                  "Y": 4.5592
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4829,
+                  "Y": 0.0556
+                },
+                "PreSize": {
+                  "X": 0.4686,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 84.5075,
+                "RightMargin": 8.4925,
+                "TopMargin": 54.4408,
+                "BottomMargin": 4.5592,
+                "Tag": 3255,
+                "ActionTag": -697068219,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 23.0
+                },
+                "Name": "score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_q2@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 86.485,
+                  "Y": 116.768
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4942,
+                  "Y": 1.424
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6341
+                },
+                "LeftMargin": 33.985,
+                "RightMargin": 36.015,
+                "TopMargin": -60.768,
+                "BottomMargin": 90.768,
+                "Tag": 3256,
+                "ActionTag": -219879356,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 52.0
+                },
+                "Name": "rob_zhuang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_b1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 12,
+                "Scale9Width": 81,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 92.972,
+                  "Y": 115.8332
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5313,
+                  "Y": 1.4126
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6463
+                },
+                "LeftMargin": 40.472,
+                "RightMargin": 29.528,
+                "TopMargin": -60.3332,
+                "BottomMargin": 89.3332,
+                "Tag": 3257,
+                "ActionTag": 1902555744,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 53.0
+                },
+                "Name": "call_score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 87.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 3258,
+                "ActionTag": 451968278,
+                "Size": {
+                  "X": 175.0,
+                  "Y": 82.0
+                },
+                "Alpha": 0,
+                "Name": "ccc",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "离 线",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 39.0425,
+                  "Y": 40.1554
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2231,
+                  "Y": 0.4897
+                },
+                "PreSize": {
+                  "X": 0.36,
+                  "Y": 0.3049
+                },
+                "LeftMargin": 7.5425,
+                "RightMargin": 104.4575,
+                "TopMargin": 29.3446,
+                "BottomMargin": 27.6554,
+                "Tag": 3259,
+                "ActionTag": -1169951121,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 25.0
+                },
+                "Name": "off_line",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_gold@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 10,
+                "Scale9Height": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 97.548,
+                  "Y": 15.4226
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5574,
+                  "Y": 0.1881
+                },
+                "PreSize": {
+                  "X": 0.16,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 83.548,
+                "RightMargin": 63.452,
+                "TopMargin": 52.5774,
+                "BottomMargin": 1.4226,
+                "Tag": 3260,
+                "ActionTag": 1582318983,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "Name": "Image_25",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "10000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": -0.5,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 113.7325,
+                  "Y": 15.5636
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6499,
+                  "Y": 0.1898
+                },
+                "PreSize": {
+                  "X": 0.5714,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 113.7325,
+                "RightMargin": -38.7325,
+                "TopMargin": 54.9364,
+                "BottomMargin": 4.0636,
+                "Tag": 3261,
+                "ActionTag": -944855571,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 23.0
+                },
+                "Name": "playerscore",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/light1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 60,
+                "Scale9OriginY": 31,
+                "Scale9Width": 64,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 85.3491,
+                  "Y": 41.5394
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4877,
+                  "Y": 0.5066
+                },
+                "PreSize": {
+                  "X": 1.0514,
+                  "Y": 1.1463
+                },
+                "LeftMargin": -6.6509,
+                "RightMargin": -2.3491,
+                "TopMargin": -6.5394,
+                "BottomMargin": -5.4606,
+                "Tag": 3262,
+                "ActionTag": 1210229227,
+                "Size": {
+                  "X": 184.0,
+                  "Y": 94.0
+                },
+                "Name": "light",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_zhuang@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 20,
+                "Scale9OriginY": 21,
+                "Scale9Width": 24,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1.9425,
+                  "Y": 80.5568
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0111,
+                  "Y": 0.9824
+                },
+                "PreSize": {
+                  "X": 0.3657,
+                  "Y": 0.7805
+                },
+                "LeftMargin": -30.0575,
+                "RightMargin": 141.0575,
+                "TopMargin": -30.5568,
+                "BottomMargin": 48.5568,
+                "Tag": 3263,
+                "ActionTag": 1325473087,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "zhuang",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1808814001,
+            "Size": {
+              "X": 175.0,
+              "Y": 82.0
+            },
+            "Name": "UserNode2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "niuniuPic/playerhead.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 145,
+            "Scale9Height": 60,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 967.6448,
+              "Y": 512.512
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.8518,
+              "Y": 0.8008
+            },
+            "PreSize": {
+              "X": 0.154,
+              "Y": 0.1281
+            },
+            "LeftMargin": 880.1448,
+            "RightMargin": 80.8552,
+            "TopMargin": 86.488,
+            "BottomMargin": 471.512,
+            "Tag": 3264,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "zh个弓弩还是说",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 86.275,
+                  "Y": 35.8586
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.493,
+                  "Y": 0.4373
+                },
+                "PreSize": {
+                  "X": 0.8229,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 86.275,
+                "RightMargin": -55.275,
+                "TopMargin": 23.1414,
+                "BottomMargin": 35.8586,
+                "Tag": 3265,
+                "ActionTag": 588321883,
+                "Size": {
+                  "X": 144.0,
+                  "Y": 23.0
+                },
+                "Name": "playername",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/nn331_ok@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.265,
+                  "Y": 111.643
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3958,
+                  "Y": 1.3615
+                },
+                "PreSize": {
+                  "X": 0.4171,
+                  "Y": 0.5732
+                },
+                "LeftMargin": 32.765,
+                "RightMargin": 69.235,
+                "TopMargin": -53.143,
+                "BottomMargin": 88.143,
+                "Tag": 3266,
+                "ActionTag": 955131404,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 47.0
+                },
+                "Name": "ok",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/zjh_touxiang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 30,
+                "Scale9Width": 24,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.22,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.48,
+                  "Y": 1.0244
+                },
+                "LeftMargin": -3.5,
+                "RightMargin": 94.5,
+                "TopMargin": -1.0,
+                "BottomMargin": -1.0,
+                "Tag": 3267,
+                "ActionTag": -500426931,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 84.0
+                },
+                "Name": "icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/img_jifen@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 7,
+                "Scale9Width": 24,
+                "Scale9Height": 9,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 84.5075,
+                  "Y": 4.5592
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4829,
+                  "Y": 0.0556
+                },
+                "PreSize": {
+                  "X": 0.4686,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 84.5075,
+                "RightMargin": 8.4925,
+                "TopMargin": 54.4408,
+                "BottomMargin": 4.5592,
+                "Tag": 3268,
+                "ActionTag": 1814451452,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 23.0
+                },
+                "Name": "score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_q2@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 86.485,
+                  "Y": 116.768
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4942,
+                  "Y": 1.424
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6341
+                },
+                "LeftMargin": 33.985,
+                "RightMargin": 36.015,
+                "TopMargin": -60.768,
+                "BottomMargin": 90.768,
+                "Tag": 3269,
+                "ActionTag": -1639604938,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 52.0
+                },
+                "Name": "rob_zhuang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_b1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 12,
+                "Scale9Width": 81,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 92.972,
+                  "Y": 115.8332
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5313,
+                  "Y": 1.4126
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6463
+                },
+                "LeftMargin": 40.472,
+                "RightMargin": 29.528,
+                "TopMargin": -60.3332,
+                "BottomMargin": 89.3332,
+                "Tag": 3270,
+                "ActionTag": 605358072,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 53.0
+                },
+                "Name": "call_score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 87.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 3271,
+                "ActionTag": 1415478578,
+                "Size": {
+                  "X": 175.0,
+                  "Y": 82.0
+                },
+                "Alpha": 0,
+                "Name": "ccc",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "离 线",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 39.0425,
+                  "Y": 40.1554
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2231,
+                  "Y": 0.4897
+                },
+                "PreSize": {
+                  "X": 0.36,
+                  "Y": 0.3049
+                },
+                "LeftMargin": 7.5425,
+                "RightMargin": 104.4575,
+                "TopMargin": 29.3446,
+                "BottomMargin": 27.6554,
+                "Tag": 3272,
+                "ActionTag": 1241254245,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 25.0
+                },
+                "Name": "off_line",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_gold@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 10,
+                "Scale9Height": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 97.548,
+                  "Y": 15.4226
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5574,
+                  "Y": 0.1881
+                },
+                "PreSize": {
+                  "X": 0.16,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 83.548,
+                "RightMargin": 63.452,
+                "TopMargin": 52.5774,
+                "BottomMargin": 1.4226,
+                "Tag": 3273,
+                "ActionTag": -777064786,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "Name": "Image_25",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "10000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": -0.5,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 113.7325,
+                  "Y": 15.5636
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6499,
+                  "Y": 0.1898
+                },
+                "PreSize": {
+                  "X": 0.5714,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 113.7325,
+                "RightMargin": -38.7325,
+                "TopMargin": 54.9364,
+                "BottomMargin": 4.0636,
+                "Tag": 3274,
+                "ActionTag": -1881924349,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 23.0
+                },
+                "Name": "playerscore",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/light1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 60,
+                "Scale9OriginY": 31,
+                "Scale9Width": 64,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 85.3491,
+                  "Y": 41.5394
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4877,
+                  "Y": 0.5066
+                },
+                "PreSize": {
+                  "X": 1.0514,
+                  "Y": 1.1463
+                },
+                "LeftMargin": -6.6509,
+                "RightMargin": -2.3491,
+                "TopMargin": -6.5394,
+                "BottomMargin": -5.4606,
+                "Tag": 3275,
+                "ActionTag": 1785491487,
+                "Size": {
+                  "X": 184.0,
+                  "Y": 94.0
+                },
+                "Name": "light",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_zhuang@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 20,
+                "Scale9OriginY": 21,
+                "Scale9Width": 24,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1.9425,
+                  "Y": 80.5568
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0111,
+                  "Y": 0.9824
+                },
+                "PreSize": {
+                  "X": 0.3657,
+                  "Y": 0.7805
+                },
+                "LeftMargin": -30.0575,
+                "RightMargin": 141.0575,
+                "TopMargin": -30.5568,
+                "BottomMargin": 48.5568,
+                "Tag": 3276,
+                "ActionTag": -1622952365,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "zhuang",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -712951295,
+            "Size": {
+              "X": 175.0,
+              "Y": 82.0
+            },
+            "Name": "UserNode3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "niuniuPic/playerhead.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 145,
+            "Scale9Height": 60,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 577.8832,
+              "Y": 549.696
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5087,
+              "Y": 0.8589
+            },
+            "PreSize": {
+              "X": 0.154,
+              "Y": 0.1281
+            },
+            "LeftMargin": 490.3832,
+            "RightMargin": 470.6168,
+            "TopMargin": 49.304,
+            "BottomMargin": 508.696,
+            "Tag": 3277,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "zh个弓弩还是说",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 86.275,
+                  "Y": 35.8586
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.493,
+                  "Y": 0.4373
+                },
+                "PreSize": {
+                  "X": 0.8229,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 86.275,
+                "RightMargin": -55.275,
+                "TopMargin": 23.1414,
+                "BottomMargin": 35.8586,
+                "Tag": 3278,
+                "ActionTag": 8426458,
+                "Size": {
+                  "X": 144.0,
+                  "Y": 23.0
+                },
+                "Name": "playername",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/nn331_ok@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.265,
+                  "Y": 111.643
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3958,
+                  "Y": 1.3615
+                },
+                "PreSize": {
+                  "X": 0.4171,
+                  "Y": 0.5732
+                },
+                "LeftMargin": 32.765,
+                "RightMargin": 69.235,
+                "TopMargin": -53.143,
+                "BottomMargin": 88.143,
+                "Tag": 3279,
+                "ActionTag": -496513247,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 47.0
+                },
+                "Name": "ok",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/zjh_touxiang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 30,
+                "Scale9Width": 24,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.22,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.48,
+                  "Y": 1.0244
+                },
+                "LeftMargin": -3.5,
+                "RightMargin": 94.5,
+                "TopMargin": -1.0,
+                "BottomMargin": -1.0,
+                "Tag": 3280,
+                "ActionTag": 759219013,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 84.0
+                },
+                "Name": "icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/img_jifen@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 7,
+                "Scale9Width": 24,
+                "Scale9Height": 9,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 84.5075,
+                  "Y": 4.5592
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4829,
+                  "Y": 0.0556
+                },
+                "PreSize": {
+                  "X": 0.4686,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 84.5075,
+                "RightMargin": 8.4925,
+                "TopMargin": 54.4408,
+                "BottomMargin": 4.5592,
+                "Tag": 3281,
+                "ActionTag": -1258248659,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 23.0
+                },
+                "Name": "score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_q2@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 86.485,
+                  "Y": 116.768
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4942,
+                  "Y": 1.424
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6341
+                },
+                "LeftMargin": 33.985,
+                "RightMargin": 36.015,
+                "TopMargin": -60.768,
+                "BottomMargin": 90.768,
+                "Tag": 3282,
+                "ActionTag": -1209748707,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 52.0
+                },
+                "Name": "rob_zhuang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_b1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 12,
+                "Scale9Width": 81,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 92.972,
+                  "Y": 115.8332
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5313,
+                  "Y": 1.4126
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6463
+                },
+                "LeftMargin": 40.472,
+                "RightMargin": 29.528,
+                "TopMargin": -60.3332,
+                "BottomMargin": 89.3332,
+                "Tag": 3283,
+                "ActionTag": -604276481,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 53.0
+                },
+                "Name": "call_score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 87.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 3284,
+                "ActionTag": -1772712353,
+                "Size": {
+                  "X": 175.0,
+                  "Y": 82.0
+                },
+                "Alpha": 0,
+                "Name": "ccc",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "离 线",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 39.0425,
+                  "Y": 40.1554
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2231,
+                  "Y": 0.4897
+                },
+                "PreSize": {
+                  "X": 0.36,
+                  "Y": 0.3049
+                },
+                "LeftMargin": 7.5425,
+                "RightMargin": 104.4575,
+                "TopMargin": 29.3446,
+                "BottomMargin": 27.6554,
+                "Tag": 3285,
+                "ActionTag": 1918950253,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 25.0
+                },
+                "Name": "off_line",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_gold@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 10,
+                "Scale9Height": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 97.548,
+                  "Y": 15.4226
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5574,
+                  "Y": 0.1881
+                },
+                "PreSize": {
+                  "X": 0.16,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 83.548,
+                "RightMargin": 63.452,
+                "TopMargin": 52.5774,
+                "BottomMargin": 1.4226,
+                "Tag": 3286,
+                "ActionTag": 1227139545,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "Name": "Image_25",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "10000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": -0.5,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 113.7325,
+                  "Y": 15.5636
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6499,
+                  "Y": 0.1898
+                },
+                "PreSize": {
+                  "X": 0.5714,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 113.7325,
+                "RightMargin": -38.7325,
+                "TopMargin": 54.9364,
+                "BottomMargin": 4.0636,
+                "Tag": 3287,
+                "ActionTag": 1875165922,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 23.0
+                },
+                "Name": "playerscore",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/light1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 60,
+                "Scale9OriginY": 31,
+                "Scale9Width": 64,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 85.3491,
+                  "Y": 41.5394
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4877,
+                  "Y": 0.5066
+                },
+                "PreSize": {
+                  "X": 1.0514,
+                  "Y": 1.1463
+                },
+                "LeftMargin": -6.6509,
+                "RightMargin": -2.3491,
+                "TopMargin": -6.5394,
+                "BottomMargin": -5.4606,
+                "Tag": 3288,
+                "ActionTag": -934287894,
+                "Size": {
+                  "X": 184.0,
+                  "Y": 94.0
+                },
+                "Name": "light",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_zhuang@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 20,
+                "Scale9OriginY": 21,
+                "Scale9Width": 24,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1.9425,
+                  "Y": 80.5568
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0111,
+                  "Y": 0.9824
+                },
+                "PreSize": {
+                  "X": 0.3657,
+                  "Y": 0.7805
+                },
+                "LeftMargin": -30.0575,
+                "RightMargin": 141.0575,
+                "TopMargin": -30.5568,
+                "BottomMargin": 48.5568,
+                "Tag": 3289,
+                "ActionTag": -1377072493,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "zhuang",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 460911655,
+            "Size": {
+              "X": 175.0,
+              "Y": 82.0
+            },
+            "Name": "UserNode4",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "niuniuPic/playerhead.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 145,
+            "Scale9Height": 60,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 181.3056,
+              "Y": 512.512
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.1596,
+              "Y": 0.8008
+            },
+            "PreSize": {
+              "X": 0.154,
+              "Y": 0.1281
+            },
+            "LeftMargin": 93.8056,
+            "RightMargin": 867.1944,
+            "TopMargin": 86.488,
+            "BottomMargin": 471.512,
+            "Tag": 3319,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "zh个弓弩还是说",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 86.275,
+                  "Y": 35.8586
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.493,
+                  "Y": 0.4373
+                },
+                "PreSize": {
+                  "X": 0.8229,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 86.275,
+                "RightMargin": -55.275,
+                "TopMargin": 23.1414,
+                "BottomMargin": 35.8586,
+                "Tag": 3320,
+                "ActionTag": 1577301065,
+                "Size": {
+                  "X": 144.0,
+                  "Y": 23.0
+                },
+                "Name": "playername",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/nn331_ok@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.265,
+                  "Y": 111.643
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3958,
+                  "Y": 1.3615
+                },
+                "PreSize": {
+                  "X": 0.4171,
+                  "Y": 0.5732
+                },
+                "LeftMargin": 32.765,
+                "RightMargin": 69.235,
+                "TopMargin": -53.143,
+                "BottomMargin": 88.143,
+                "Tag": 3321,
+                "ActionTag": 967539140,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 47.0
+                },
+                "Name": "ok",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/zjh_touxiang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 30,
+                "Scale9Width": 24,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.22,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.48,
+                  "Y": 1.0244
+                },
+                "LeftMargin": -3.5,
+                "RightMargin": 94.5,
+                "TopMargin": -1.0,
+                "BottomMargin": -1.0,
+                "Tag": 3322,
+                "ActionTag": -315551356,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 84.0
+                },
+                "Name": "icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/img_jifen@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 7,
+                "Scale9Width": 24,
+                "Scale9Height": 9,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 84.5075,
+                  "Y": 4.5592
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4829,
+                  "Y": 0.0556
+                },
+                "PreSize": {
+                  "X": 0.4686,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 84.5075,
+                "RightMargin": 8.4925,
+                "TopMargin": 54.4408,
+                "BottomMargin": 4.5592,
+                "Tag": 3323,
+                "ActionTag": -2064281598,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 23.0
+                },
+                "Name": "score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_q2@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 86.485,
+                  "Y": 116.768
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4942,
+                  "Y": 1.424
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6341
+                },
+                "LeftMargin": 33.985,
+                "RightMargin": 36.015,
+                "TopMargin": -60.768,
+                "BottomMargin": 90.768,
+                "Tag": 3324,
+                "ActionTag": -1921563827,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 52.0
+                },
+                "Name": "rob_zhuang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_b1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 12,
+                "Scale9Width": 81,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 92.972,
+                  "Y": 115.8332
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5313,
+                  "Y": 1.4126
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6463
+                },
+                "LeftMargin": 40.472,
+                "RightMargin": 29.528,
+                "TopMargin": -60.3332,
+                "BottomMargin": 89.3332,
+                "Tag": 3325,
+                "ActionTag": 639489219,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 53.0
+                },
+                "Name": "call_score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 87.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 3326,
+                "ActionTag": 585407538,
+                "Size": {
+                  "X": 175.0,
+                  "Y": 82.0
+                },
+                "Alpha": 0,
+                "Name": "ccc",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "离 线",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 39.0425,
+                  "Y": 40.1554
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2231,
+                  "Y": 0.4897
+                },
+                "PreSize": {
+                  "X": 0.36,
+                  "Y": 0.3049
+                },
+                "LeftMargin": 7.5425,
+                "RightMargin": 104.4575,
+                "TopMargin": 29.3446,
+                "BottomMargin": 27.6554,
+                "Tag": 3327,
+                "ActionTag": 1625078883,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 25.0
+                },
+                "Name": "off_line",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_gold@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 10,
+                "Scale9Height": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 97.548,
+                  "Y": 15.4226
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5574,
+                  "Y": 0.1881
+                },
+                "PreSize": {
+                  "X": 0.16,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 83.548,
+                "RightMargin": 63.452,
+                "TopMargin": 52.5774,
+                "BottomMargin": 1.4226,
+                "Tag": 3328,
+                "ActionTag": 251661646,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "Name": "Image_25",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "10000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": -0.5,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 113.7325,
+                  "Y": 15.5636
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6499,
+                  "Y": 0.1898
+                },
+                "PreSize": {
+                  "X": 0.5714,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 113.7325,
+                "RightMargin": -38.7325,
+                "TopMargin": 54.9364,
+                "BottomMargin": 4.0636,
+                "Tag": 3329,
+                "ActionTag": 1193524407,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 23.0
+                },
+                "Name": "playerscore",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/light1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 60,
+                "Scale9OriginY": 31,
+                "Scale9Width": 64,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 85.3491,
+                  "Y": 41.5394
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4877,
+                  "Y": 0.5066
+                },
+                "PreSize": {
+                  "X": 1.0514,
+                  "Y": 1.1463
+                },
+                "LeftMargin": -6.6509,
+                "RightMargin": -2.3491,
+                "TopMargin": -6.5394,
+                "BottomMargin": -5.4606,
+                "Tag": 3330,
+                "ActionTag": 111895796,
+                "Size": {
+                  "X": 184.0,
+                  "Y": 94.0
+                },
+                "Name": "light",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_zhuang@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 20,
+                "Scale9OriginY": 21,
+                "Scale9Width": 24,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 164.43,
+                  "Y": 82.5002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.9396,
+                  "Y": 1.0061
+                },
+                "PreSize": {
+                  "X": 0.3657,
+                  "Y": 0.7805
+                },
+                "LeftMargin": 132.43,
+                "RightMargin": -21.43,
+                "TopMargin": -32.5002,
+                "BottomMargin": 50.5002,
+                "Tag": 3331,
+                "ActionTag": 743258315,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "zhuang",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1362558862,
+            "Size": {
+              "X": 175.0,
+              "Y": 82.0
+            },
+            "Name": "UserNode5",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "niuniuPic/playerhead.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 145,
+            "Scale9Height": 60,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 108.2608,
+              "Y": 361.6
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0953,
+              "Y": 0.565
+            },
+            "PreSize": {
+              "X": 0.154,
+              "Y": 0.1281
+            },
+            "LeftMargin": 20.7608,
+            "RightMargin": 940.2392,
+            "TopMargin": 237.4,
+            "BottomMargin": 320.6,
+            "Tag": 3332,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "zh个弓弩还是说",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 86.275,
+                  "Y": 35.8586
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.493,
+                  "Y": 0.4373
+                },
+                "PreSize": {
+                  "X": 0.8229,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 86.275,
+                "RightMargin": -55.275,
+                "TopMargin": 23.1414,
+                "BottomMargin": 35.8586,
+                "Tag": 3333,
+                "ActionTag": 1710097820,
+                "Size": {
+                  "X": 144.0,
+                  "Y": 23.0
+                },
+                "Name": "playername",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/nn331_ok@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.265,
+                  "Y": 111.643
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3958,
+                  "Y": 1.3615
+                },
+                "PreSize": {
+                  "X": 0.4171,
+                  "Y": 0.5732
+                },
+                "LeftMargin": 32.765,
+                "RightMargin": 69.235,
+                "TopMargin": -53.143,
+                "BottomMargin": 88.143,
+                "Tag": 3334,
+                "ActionTag": 513801158,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 47.0
+                },
+                "Name": "ok",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/zjh_touxiang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 30,
+                "Scale9Width": 24,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.22,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.48,
+                  "Y": 1.0244
+                },
+                "LeftMargin": -3.5,
+                "RightMargin": 94.5,
+                "TopMargin": -1.0,
+                "BottomMargin": -1.0,
+                "Tag": 3335,
+                "ActionTag": 1542202682,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 84.0
+                },
+                "Name": "icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/img_jifen@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 7,
+                "Scale9Width": 24,
+                "Scale9Height": 9,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 84.5075,
+                  "Y": 4.5592
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4829,
+                  "Y": 0.0556
+                },
+                "PreSize": {
+                  "X": 0.4686,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 84.5075,
+                "RightMargin": 8.4925,
+                "TopMargin": 54.4408,
+                "BottomMargin": 4.5592,
+                "Tag": 3336,
+                "ActionTag": -385295495,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 23.0
+                },
+                "Name": "score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_q2@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 86.485,
+                  "Y": 116.768
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4942,
+                  "Y": 1.424
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6341
+                },
+                "LeftMargin": 33.985,
+                "RightMargin": 36.015,
+                "TopMargin": -60.768,
+                "BottomMargin": 90.768,
+                "Tag": 3337,
+                "ActionTag": 745183000,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 52.0
+                },
+                "Name": "rob_zhuang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_b1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 12,
+                "Scale9Width": 81,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 92.972,
+                  "Y": 115.8332
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5313,
+                  "Y": 1.4126
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6463
+                },
+                "LeftMargin": 40.472,
+                "RightMargin": 29.528,
+                "TopMargin": -60.3332,
+                "BottomMargin": 89.3332,
+                "Tag": 3338,
+                "ActionTag": -978957419,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 53.0
+                },
+                "Name": "call_score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 87.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 3339,
+                "ActionTag": -126141851,
+                "Size": {
+                  "X": 175.0,
+                  "Y": 82.0
+                },
+                "Alpha": 0,
+                "Name": "ccc",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "离 线",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 39.0425,
+                  "Y": 40.1554
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2231,
+                  "Y": 0.4897
+                },
+                "PreSize": {
+                  "X": 0.36,
+                  "Y": 0.3049
+                },
+                "LeftMargin": 7.5425,
+                "RightMargin": 104.4575,
+                "TopMargin": 29.3446,
+                "BottomMargin": 27.6554,
+                "Tag": 3340,
+                "ActionTag": -1045507135,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 25.0
+                },
+                "Name": "off_line",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_gold@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 10,
+                "Scale9Height": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 97.548,
+                  "Y": 15.4226
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5574,
+                  "Y": 0.1881
+                },
+                "PreSize": {
+                  "X": 0.16,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 83.548,
+                "RightMargin": 63.452,
+                "TopMargin": 52.5774,
+                "BottomMargin": 1.4226,
+                "Tag": 3341,
+                "ActionTag": -986567435,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "Name": "Image_25",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "10000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": -0.5,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 113.7325,
+                  "Y": 15.5636
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6499,
+                  "Y": 0.1898
+                },
+                "PreSize": {
+                  "X": 0.5714,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 113.7325,
+                "RightMargin": -38.7325,
+                "TopMargin": 54.9364,
+                "BottomMargin": 4.0636,
+                "Tag": 3342,
+                "ActionTag": 67871554,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 23.0
+                },
+                "Name": "playerscore",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/light1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 60,
+                "Scale9OriginY": 31,
+                "Scale9Width": 64,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 85.3491,
+                  "Y": 41.5394
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4877,
+                  "Y": 0.5066
+                },
+                "PreSize": {
+                  "X": 1.0514,
+                  "Y": 1.1463
+                },
+                "LeftMargin": -6.6509,
+                "RightMargin": -2.3491,
+                "TopMargin": -6.5394,
+                "BottomMargin": -5.4606,
+                "Tag": 3343,
+                "ActionTag": 299975486,
+                "Size": {
+                  "X": 184.0,
+                  "Y": 94.0
+                },
+                "Name": "light",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_zhuang@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 20,
+                "Scale9OriginY": 21,
+                "Scale9Width": 24,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 165.165,
+                  "Y": 77.1374
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.9438,
+                  "Y": 0.9407
+                },
+                "PreSize": {
+                  "X": 0.3657,
+                  "Y": 0.7805
+                },
+                "LeftMargin": 133.165,
+                "RightMargin": -22.165,
+                "TopMargin": -27.1374,
+                "BottomMargin": 45.1374,
+                "Tag": 3344,
+                "ActionTag": 661804318,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "zhuang",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 122263522,
+            "Size": {
+              "X": 175.0,
+              "Y": 82.0
+            },
+            "Name": "UserNode6",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "niuniuPic/playerhead.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 145,
+            "Scale9Height": 60,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 112.1232,
+              "Y": 210.944
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0987,
+              "Y": 0.3296
+            },
+            "PreSize": {
+              "X": 0.154,
+              "Y": 0.1281
+            },
+            "LeftMargin": 24.6232,
+            "RightMargin": 936.3768,
+            "TopMargin": 388.056,
+            "BottomMargin": 169.944,
+            "Tag": 3345,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "zh个弓弩还是说",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 86.275,
+                  "Y": 35.8586
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.493,
+                  "Y": 0.4373
+                },
+                "PreSize": {
+                  "X": 0.8229,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 86.275,
+                "RightMargin": -55.275,
+                "TopMargin": 23.1414,
+                "BottomMargin": 35.8586,
+                "Tag": 3346,
+                "ActionTag": 2079564130,
+                "Size": {
+                  "X": 144.0,
+                  "Y": 23.0
+                },
+                "Name": "playername",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/nn331_ok@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.265,
+                  "Y": 111.643
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3958,
+                  "Y": 1.3615
+                },
+                "PreSize": {
+                  "X": 0.4171,
+                  "Y": 0.5732
+                },
+                "LeftMargin": 32.765,
+                "RightMargin": 69.235,
+                "TopMargin": -53.143,
+                "BottomMargin": 88.143,
+                "Tag": 3347,
+                "ActionTag": -276350338,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 47.0
+                },
+                "Name": "ok",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/zjh_touxiang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 30,
+                "Scale9Width": 24,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.22,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.48,
+                  "Y": 1.0244
+                },
+                "LeftMargin": -3.5,
+                "RightMargin": 94.5,
+                "TopMargin": -1.0,
+                "BottomMargin": -1.0,
+                "Tag": 3348,
+                "ActionTag": -1196703527,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 84.0
+                },
+                "Name": "icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "niuniuPic/img_jifen@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 7,
+                "Scale9Width": 24,
+                "Scale9Height": 9,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 84.5075,
+                  "Y": 4.5592
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4829,
+                  "Y": 0.0556
+                },
+                "PreSize": {
+                  "X": 0.4686,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 84.5075,
+                "RightMargin": 8.4925,
+                "TopMargin": 54.4408,
+                "BottomMargin": 4.5592,
+                "Tag": 3349,
+                "ActionTag": -1874504393,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 23.0
+                },
+                "Name": "score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_q2@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 86.485,
+                  "Y": 116.768
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4942,
+                  "Y": 1.424
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6341
+                },
+                "LeftMargin": 33.985,
+                "RightMargin": 36.015,
+                "TopMargin": -60.768,
+                "BottomMargin": 90.768,
+                "Tag": 3350,
+                "ActionTag": 2028301496,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 52.0
+                },
+                "Name": "rob_zhuang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_b1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 12,
+                "Scale9Width": 81,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 92.972,
+                  "Y": 115.8332
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5313,
+                  "Y": 1.4126
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.6463
+                },
+                "LeftMargin": 40.472,
+                "RightMargin": 29.528,
+                "TopMargin": -60.3332,
+                "BottomMargin": 89.3332,
+                "Tag": 3351,
+                "ActionTag": -498592276,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 53.0
+                },
+                "Name": "call_score",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 87.5,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 3352,
+                "ActionTag": -1993038315,
+                "Size": {
+                  "X": 175.0,
+                  "Y": 82.0
+                },
+                "Alpha": 0,
+                "Name": "ccc",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "离 线",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 39.0425,
+                  "Y": 40.1554
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2231,
+                  "Y": 0.4897
+                },
+                "PreSize": {
+                  "X": 0.36,
+                  "Y": 0.3049
+                },
+                "LeftMargin": 7.5425,
+                "RightMargin": 104.4575,
+                "TopMargin": 29.3446,
+                "BottomMargin": 27.6554,
+                "Tag": 3353,
+                "ActionTag": 1236550813,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 25.0
+                },
+                "Name": "off_line",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/nn_img_gold@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 10,
+                "Scale9Height": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 97.548,
+                  "Y": 15.4226
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5574,
+                  "Y": 0.1881
+                },
+                "PreSize": {
+                  "X": 0.16,
+                  "Y": 0.3415
+                },
+                "LeftMargin": 83.548,
+                "RightMargin": 63.452,
+                "TopMargin": 52.5774,
+                "BottomMargin": 1.4226,
+                "Tag": 3354,
+                "ActionTag": 1803099758,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 28.0
+                },
+                "Name": "Image_25",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "10000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "ShadowOffsetX": 0.5,
+                "ShadowOffsetY": -0.5,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 113.7325,
+                  "Y": 15.5636
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 215,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6499,
+                  "Y": 0.1898
+                },
+                "PreSize": {
+                  "X": 0.5714,
+                  "Y": 0.2805
+                },
+                "LeftMargin": 113.7325,
+                "RightMargin": -38.7325,
+                "TopMargin": 54.9364,
+                "BottomMargin": 4.0636,
+                "Tag": 3355,
+                "ActionTag": 1023706451,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 23.0
+                },
+                "Name": "playerscore",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/light1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 60,
+                "Scale9OriginY": 31,
+                "Scale9Width": 64,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 85.3491,
+                  "Y": 41.5394
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4877,
+                  "Y": 0.5066
+                },
+                "PreSize": {
+                  "X": 1.0514,
+                  "Y": 1.1463
+                },
+                "LeftMargin": -6.6509,
+                "RightMargin": -2.3491,
+                "TopMargin": -6.5394,
+                "BottomMargin": -5.4606,
+                "Tag": 3356,
+                "ActionTag": 403036290,
+                "Size": {
+                  "X": 184.0,
+                  "Y": 94.0
+                },
+                "Name": "light",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldNYS/loadRes/nn_img_zhuang@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 20,
+                "Scale9OriginY": 21,
+                "Scale9Width": 24,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 170.31,
+                  "Y": 76.9242
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.9732,
+                  "Y": 0.9381
+                },
+                "PreSize": {
+                  "X": 0.3657,
+                  "Y": 0.7805
+                },
+                "LeftMargin": 138.31,
+                "RightMargin": -27.31,
+                "TopMargin": -26.9242,
+                "BottomMargin": 44.9242,
+                "Tag": 3357,
+                "ActionTag": 202700279,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "zhuang",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 534199975,
+            "Size": {
+              "X": 175.0,
+              "Y": 82.0
+            },
+            "Name": "UserNode7",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Press.png",
+        "Font/FZY4JW_0569.TTF",
+        "goldNYS/light1@2x.png",
+        "goldNYS/loadRes/nn_img_q2@2x.png",
+        "goldNYS/loadRes/nn_img_zhuang@2x.png",
+        "goldNYS/nn_img_b1@2x.png",
+        "goldNYS/nn_img_gold@2x.png",
+        "niuniuPic/img_jifen@2x.png",
+        "niuniuPic/nn331_ok@2x.png",
+        "niuniuPic/playerhead.png",
+        "niuniuPic/zjh_touxiang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

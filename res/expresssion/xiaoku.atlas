@@ -1,0 +1,40 @@
+
+xiaoku.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meimao03
+  rotate: false
+  xy: 40, 37
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+shenti01
+  rotate: false
+  xy: 2, 49
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+yanjing01
+  rotate: false
+  xy: 78, 108
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+yanlei01
+  rotate: true
+  xy: 2, 2
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+zuiba02
+  rotate: false
+  xy: 2, 17
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1

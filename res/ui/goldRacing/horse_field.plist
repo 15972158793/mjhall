@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>horse_finish_line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,973},{7,428}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{7,428}</string>
+			</dict>
+			<key>horse_gate_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{616,558}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{616,558}</string>
+			</dict>
+			<key>horse_gate_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{564,2},{616,558}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{616,558}</string>
+			</dict>
+			<key>horse_judge_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,622},{113,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{113,106}</string>
+			</dict>
+			<key>horse_judge_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,739},{113,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{113,106}</string>
+			</dict>
+			<key>horse_judge_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,856},{113,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{113,106}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>horse_field.png</string>
+			<key>realTextureFileName</key>
+			<string>horse_field.png</string>
+			<key>size</key>
+			<string>{2048,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

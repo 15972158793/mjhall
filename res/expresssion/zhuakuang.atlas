@@ -1,0 +1,33 @@
+
+zhuakuang.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti01
+  rotate: false
+  xy: 2, 37
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+shou01
+  rotate: false
+  xy: 78, 89
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+yanjing07
+  rotate: false
+  xy: 32, 19
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+zuiba09
+  rotate: false
+  xy: 2, 2
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1

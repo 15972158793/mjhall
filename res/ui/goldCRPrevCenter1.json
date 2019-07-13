@@ -1,0 +1,746 @@
+{
+  "ID": "b469e6d7-aa6c-4cdb-a07d-4df1b7ca1cca",
+  "Version": "2.3.4",
+  "Name": "goldCRPrevCenter1",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 344,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 171.6905,
+              "Y": 267.5187
+            },
+            "Scale": {
+              "ScaleX": 0.9211,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1511,
+              "Y": 0.418
+            },
+            "PreSize": {
+              "X": 0.0405,
+              "Y": 0.0719
+            },
+            "LeftMargin": 148.6905,
+            "RightMargin": 941.3095,
+            "TopMargin": 349.4813,
+            "BottomMargin": 244.5187,
+            "Tag": 413,
+            "ActionTag": -2001522590,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "girlSp",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.3125
+            },
+            "RightMargin": 936.0,
+            "TopMargin": 440.0,
+            "Tag": 798,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -15,
+                "Scale9OriginY": -11,
+                "Scale9Width": 30,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 473.8127,
+                  "Y": 266.24
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.3691,
+                  "Y": 1.3312
+                },
+                "PreSize": {
+                  "X": 1.3,
+                  "Y": 2.215
+                },
+                "LeftMargin": 343.8127,
+                "RightMargin": -403.8127,
+                "TopMargin": -287.74,
+                "BottomMargin": 44.74,
+                "Tag": 792,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/createPic/goldCreate/yyjb_btn_jdwf@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 793,
+                    "ActionTag": 1358319007,
+                    "Size": {
+                      "X": 260.0,
+                      "Y": 443.0
+                    },
+                    "Name": "icon",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/createPic/goldCreate/tag_baoman@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 50.1553,
+                      "Y": 391.4288
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1929,
+                      "Y": 0.8836
+                    },
+                    "PreSize": {
+                      "X": 0.3423,
+                      "Y": 0.2235
+                    },
+                    "LeftMargin": 5.6553,
+                    "RightMargin": 165.3447,
+                    "TopMargin": 2.0712,
+                    "BottomMargin": 341.9288,
+                    "Tag": 796,
+                    "ActionTag": 469306155,
+                    "Size": {
+                      "X": 89.0,
+                      "Y": 99.0
+                    },
+                    "Name": "stateIcon",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 621709003,
+                "Size": {
+                  "X": 260.0,
+                  "Y": 443.0
+                },
+                "Name": "Button0",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -15,
+                "Scale9OriginY": -11,
+                "Scale9Width": 30,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 736.9116,
+                  "Y": 266.24
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.6846,
+                  "Y": 1.3312
+                },
+                "PreSize": {
+                  "X": 1.3,
+                  "Y": 2.215
+                },
+                "LeftMargin": 606.9116,
+                "RightMargin": -666.9116,
+                "TopMargin": -287.74,
+                "BottomMargin": 44.74,
+                "Tag": 794,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/createPic/goldCreate/yyjb_btn_jdwf@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 795,
+                    "ActionTag": 1053969742,
+                    "Size": {
+                      "X": 260.0,
+                      "Y": 443.0
+                    },
+                    "Name": "icon",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/createPic/goldCreate/tag_baoman@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 50.3419,
+                      "Y": 390.1508
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1936,
+                      "Y": 0.8807
+                    },
+                    "PreSize": {
+                      "X": 0.3423,
+                      "Y": 0.2235
+                    },
+                    "LeftMargin": 5.8419,
+                    "RightMargin": 165.1581,
+                    "TopMargin": 3.3492,
+                    "BottomMargin": 340.6508,
+                    "Tag": 797,
+                    "ActionTag": -1080939394,
+                    "Size": {
+                      "X": 89.0,
+                      "Y": 99.0
+                    },
+                    "Name": "stateIcon",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -980909407,
+                "Size": {
+                  "X": 260.0,
+                  "Y": 443.0
+                },
+                "Name": "Button1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -15,
+                "Scale9OriginY": -11,
+                "Scale9Width": 30,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1000.011,
+                  "Y": 266.24
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 5.0001,
+                  "Y": 1.3312
+                },
+                "PreSize": {
+                  "X": 1.3,
+                  "Y": 2.215
+                },
+                "LeftMargin": 870.011,
+                "RightMargin": -930.011,
+                "TopMargin": -287.74,
+                "BottomMargin": 44.74,
+                "Tag": 2402,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/createPic/goldCreate/yyjb_btn_jdwf@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 2403,
+                    "ActionTag": 1871759574,
+                    "Size": {
+                      "X": 260.0,
+                      "Y": 443.0
+                    },
+                    "Name": "icon",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/createPic/goldCreate/tag_baoman@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 50.3419,
+                      "Y": 390.1508
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1936,
+                      "Y": 0.8807
+                    },
+                    "PreSize": {
+                      "X": 0.3423,
+                      "Y": 0.2235
+                    },
+                    "LeftMargin": 5.8419,
+                    "RightMargin": 165.1581,
+                    "TopMargin": 3.3492,
+                    "BottomMargin": 340.6508,
+                    "Tag": 2404,
+                    "ActionTag": -1056423158,
+                    "Size": {
+                      "X": 89.0,
+                      "Y": 99.0
+                    },
+                    "Name": "stateIcon",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1799945771,
+                "Size": {
+                  "X": 260.0,
+                  "Y": 443.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Button2",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1733883746,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "btnContain",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "goldres/baofang/yyjp_bg_bx@2x_bf.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 944.0,
+              "Y": 268.0
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.831,
+              "Y": 0.4187
+            },
+            "PreSize": {
+              "X": 0.3231,
+              "Y": 0.6797
+            },
+            "LeftMargin": 760.5,
+            "RightMargin": 8.5,
+            "TopMargin": 154.5,
+            "BottomMargin": 50.5,
+            "Tag": 13,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "goldres/baofang/yyjp_btn_create1_bf.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 307,
+                "Scale9Height": 84,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 184.0,
+                  "Y": 257.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5014,
+                  "Y": 0.5908
+                },
+                "PreSize": {
+                  "X": 0.9183,
+                  "Y": 0.2437
+                },
+                "LeftMargin": 15.5,
+                "RightMargin": 14.5,
+                "TopMargin": 125.0,
+                "BottomMargin": 204.0,
+                "Tag": 14,
+                "ActionTag": 209582389,
+                "Size": {
+                  "X": 337.0,
+                  "Y": 106.0
+                },
+                "Name": "createbf",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "goldres/baofang/yyjp_btn_join@2x_bf.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 306,
+                "Scale9Height": 85,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 184.0,
+                  "Y": 116.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5014,
+                  "Y": 0.2667
+                },
+                "PreSize": {
+                  "X": 0.9155,
+                  "Y": 0.246
+                },
+                "LeftMargin": 16.0,
+                "RightMargin": 15.0,
+                "TopMargin": 265.5,
+                "BottomMargin": 62.5,
+                "Tag": 15,
+                "ActionTag": -1884438511,
+                "Size": {
+                  "X": 336.0,
+                  "Y": 107.0
+                },
+                "Name": "joinbf",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1421463536,
+            "Size": {
+              "X": 367.0,
+              "Y": 435.0
+            },
+            "VisibleForFrame": false,
+            "Name": "baofang",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/createPic/goldCreate/tag_baoman@2x.png",
+        "commonCells/commonPic/createPic/goldCreate/yyjb_btn_jdwf@2x.png",
+        "Default/Sprite.png",
+        "goldres/baofang/yyjp_bg_bx@2x_bf.png",
+        "goldres/baofang/yyjp_btn_create1_bf.png",
+        "goldres/baofang/yyjp_btn_join@2x_bf.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

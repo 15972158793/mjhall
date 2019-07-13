@@ -1,0 +1,12 @@
+
+shubiaodianji.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star
+  rotate: false
+  xy: 2, 2
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1

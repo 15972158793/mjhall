@@ -1,0 +1,1078 @@
+{
+  "ID": "f4e92257-d113-452e-952a-0b037c89fecc",
+  "Version": "2.3.4",
+  "Name": "SettingWindow",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 141,
+        "Children": [
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 101,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 171,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/jxnn_bg_setting@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 26,
+                "Scale9OriginY": 25,
+                "Scale9Width": 664,
+                "Scale9Height": 404,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5742,
+                  "Y": 0.6389
+                },
+                "LeftMargin": 272.5,
+                "RightMargin": 272.5,
+                "TopMargin": 130.0,
+                "BottomMargin": 130.0,
+                "Tag": 172,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/jxnn_btn_close@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 35,
+                    "Scale9Height": 44,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 690.2916,
+                      "Y": 417.5144
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9392,
+                      "Y": 0.9076
+                    },
+                    "PreSize": {
+                      "X": 0.0884,
+                      "Y": 0.1435
+                    },
+                    "LeftMargin": 657.7916,
+                    "RightMargin": 12.2084,
+                    "TopMargin": 9.4856,
+                    "BottomMargin": 384.5144,
+                    "Tag": 358,
+                    "ActionTag": -727048564,
+                    "Size": {
+                      "X": 65.0,
+                      "Y": 66.0
+                    },
+                    "Name": "exitLogin",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_img_title@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 31,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 200,
+                    "Scale9Height": 28,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 374.7765,
+                      "Y": 421.176
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5099,
+                      "Y": 0.9156
+                    },
+                    "PreSize": {
+                      "X": 0.3565,
+                      "Y": 0.113
+                    },
+                    "LeftMargin": 243.7765,
+                    "RightMargin": 229.2235,
+                    "TopMargin": 12.824,
+                    "BottomMargin": 395.176,
+                    "Tag": 303,
+                    "ActionTag": -140054205,
+                    "Size": {
+                      "X": 262.0,
+                      "Y": 52.0
+                    },
+                    "Name": "Image_55",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "TextColor": {},
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/yypk_btn_changeId@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 4,
+                    "Scale9Width": 188,
+                    "Scale9Height": 74,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 368.6025,
+                      "Y": 73.37
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5015,
+                      "Y": 0.1595
+                    },
+                    "PreSize": {
+                      "X": 0.2912,
+                      "Y": 0.1783
+                    },
+                    "LeftMargin": 261.6025,
+                    "RightMargin": 259.3975,
+                    "TopMargin": 345.63,
+                    "BottomMargin": 32.37,
+                    "Tag": 176,
+                    "ActionTag": -17992567,
+                    "Size": {
+                      "X": 214.0,
+                      "Y": 82.0
+                    },
+                    "Name": "change",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "BackGroundData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_img_slidersBg@2x.png",
+                      "Plist": ""
+                    },
+                    "ProgressBarData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_img_sliders@2x.png",
+                      "Plist": ""
+                    },
+                    "BallNormalData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_bg_slidersBtn@2x.png",
+                      "Plist": ""
+                    },
+                    "BallPressedData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_bg_slidersBtn@2x.png",
+                      "Plist": ""
+                    },
+                    "BallDisabledData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_bg_slidersBtn@2x.png",
+                      "Plist": ""
+                    },
+                    "PercentInfo": 48,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 449.9664,
+                      "Y": 334.4638
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.6122,
+                      "Y": 0.7271
+                    },
+                    "PreSize": {
+                      "X": 0.3401,
+                      "Y": 0.1043
+                    },
+                    "LeftMargin": 324.9664,
+                    "RightMargin": 160.0336,
+                    "TopMargin": 101.5362,
+                    "BottomMargin": 310.4638,
+                    "Tag": 179,
+                    "ActionTag": 327367860,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 48.0
+                    },
+                    "Name": "musicSlider",
+                    "ctype": "SliderObjectData"
+                  },
+                  {
+                    "BackGroundData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_img_slidersBg@2x.png",
+                      "Plist": ""
+                    },
+                    "ProgressBarData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_img_sliders@2x.png",
+                      "Plist": ""
+                    },
+                    "BallNormalData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_bg_slidersBtn@2x.png",
+                      "Plist": ""
+                    },
+                    "BallPressedData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_bg_slidersBtn@2x.png",
+                      "Plist": ""
+                    },
+                    "BallDisabledData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_bg_slidersBtn@2x.png",
+                      "Plist": ""
+                    },
+                    "PercentInfo": 50,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 449.966,
+                      "Y": 258.6636
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.6122,
+                      "Y": 0.5623
+                    },
+                    "PreSize": {
+                      "X": 0.3401,
+                      "Y": 0.1043
+                    },
+                    "LeftMargin": 324.966,
+                    "RightMargin": 160.034,
+                    "TopMargin": 177.3364,
+                    "BottomMargin": 234.6636,
+                    "Tag": 180,
+                    "ActionTag": 696293932,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 48.0
+                    },
+                    "Name": "effectSlider",
+                    "ctype": "SliderObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_effectIm@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 8,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 21,
+                    "Scale9Height": 21,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 194.1863,
+                      "Y": 334.8318
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.2642,
+                      "Y": 0.7279
+                    },
+                    "PreSize": {
+                      "X": 0.0367,
+                      "Y": 0.0652
+                    },
+                    "LeftMargin": 180.6863,
+                    "RightMargin": 527.3137,
+                    "TopMargin": 110.1682,
+                    "BottomMargin": 319.8318,
+                    "Tag": 479,
+                    "ActionTag": 1810108093,
+                    "Size": {
+                      "X": 27.0,
+                      "Y": 30.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_musicIm@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 26,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 195.5825,
+                      "Y": 257.5139
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.2661,
+                      "Y": 0.5598
+                    },
+                    "PreSize": {
+                      "X": 0.0435,
+                      "Y": 0.063
+                    },
+                    "LeftMargin": 179.5825,
+                    "RightMargin": 523.4175,
+                    "TopMargin": 187.9861,
+                    "BottomMargin": 243.0139,
+                    "Tag": 480,
+                    "ActionTag": 1510791477,
+                    "Size": {
+                      "X": 32.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_effectLabel@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 49,
+                    "Scale9Height": 11,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 268.3475,
+                      "Y": 256.8236
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3651,
+                      "Y": 0.5583
+                    },
+                    "PreSize": {
+                      "X": 0.0966,
+                      "Y": 0.0674
+                    },
+                    "LeftMargin": 232.8475,
+                    "RightMargin": 431.1525,
+                    "TopMargin": 187.6764,
+                    "BottomMargin": 241.3236,
+                    "Tag": 483,
+                    "ActionTag": -1757408315,
+                    "Size": {
+                      "X": 71.0,
+                      "Y": 31.0
+                    },
+                    "Name": "Image_4",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/jxnn_musicLabel@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 8,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 53,
+                    "Scale9Height": 11,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 264.3788,
+                      "Y": 333.9117
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3597,
+                      "Y": 0.7259
+                    },
+                    "PreSize": {
+                      "X": 0.0966,
+                      "Y": 0.0674
+                    },
+                    "LeftMargin": 228.8788,
+                    "RightMargin": 435.1212,
+                    "TopMargin": 110.5883,
+                    "BottomMargin": 318.4117,
+                    "Tag": 482,
+                    "ActionTag": 217717116,
+                    "Size": {
+                      "X": 71.0,
+                      "Y": 31.0
+                    },
+                    "Name": "Image_3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": -15,
+                    "Scale9OriginY": -4,
+                    "Scale9Width": 30,
+                    "Scale9Height": 8,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 509.8316,
+                      "Y": 173.194
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6936,
+                      "Y": 0.3765
+                    },
+                    "PreSize": {
+                      "X": 0.1633,
+                      "Y": 0.087
+                    },
+                    "LeftMargin": 509.8316,
+                    "RightMargin": 105.1684,
+                    "TopMargin": 246.806,
+                    "BottomMargin": 173.194,
+                    "Tag": 397,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/settingPic/yyjb_btn_unselect@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 14,
+                        "Scale9Width": 15,
+                        "Scale9Height": 15,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.3583,
+                          "Y": 1.075
+                        },
+                        "RightMargin": 77.0,
+                        "TopMargin": -3.0,
+                        "Tag": 398,
+                        "ActionTag": -686548234,
+                        "Size": {
+                          "X": 43.0,
+                          "Y": 43.0
+                        },
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/settingPic/yyjb_btn_select@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 14,
+                        "Scale9Width": 15,
+                        "Scale9Height": 15,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.3583,
+                          "Y": 1.075
+                        },
+                        "RightMargin": 77.0,
+                        "TopMargin": -3.0,
+                        "Tag": 399,
+                        "ActionTag": 1597622745,
+                        "Size": {
+                          "X": 43.0,
+                          "Y": 43.0
+                        },
+                        "Name": "select",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -297526227,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 40.0
+                    },
+                    "Name": "fkBtn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 4,
+                    "Scale9Width": 12,
+                    "Scale9Height": 6,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 320.4413,
+                      "Y": 173.194
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.436,
+                      "Y": 0.3765
+                    },
+                    "PreSize": {
+                      "X": 0.1633,
+                      "Y": 0.087
+                    },
+                    "LeftMargin": 320.4413,
+                    "RightMargin": 294.5587,
+                    "TopMargin": 246.806,
+                    "BottomMargin": 173.194,
+                    "Tag": 387,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/settingPic/yyjb_btn_unselect@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 14,
+                        "Scale9Width": 15,
+                        "Scale9Height": 15,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.3583,
+                          "Y": 1.075
+                        },
+                        "RightMargin": 77.0,
+                        "TopMargin": -3.0,
+                        "Tag": 392,
+                        "ActionTag": -1326845812,
+                        "Size": {
+                          "X": 43.0,
+                          "Y": 43.0
+                        },
+                        "Name": "normal",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/settingPic/yyjb_btn_select@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 14,
+                        "Scale9Width": 15,
+                        "Scale9Height": 15,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.3583,
+                          "Y": 1.075
+                        },
+                        "RightMargin": 77.0,
+                        "TopMargin": -3.0,
+                        "Tag": 393,
+                        "ActionTag": 1421484914,
+                        "Size": {
+                          "X": 43.0,
+                          "Y": 43.0
+                        },
+                        "Name": "select",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 151055523,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 40.0
+                    },
+                    "Name": "goldBtn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "金币场",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {},
+                    "ShadowOffsetX": 0.5,
+                    "ShadowOffsetY": 0.5,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 408.3946,
+                      "Y": 187.2901
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5556,
+                      "Y": 0.4072
+                    },
+                    "PreSize": {
+                      "X": 0.098,
+                      "Y": 0.0522
+                    },
+                    "LeftMargin": 372.3946,
+                    "RightMargin": 290.6054,
+                    "TopMargin": 260.7099,
+                    "BottomMargin": 175.2901,
+                    "Tag": 391,
+                    "ActionTag": 378802222,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 24.0
+                    },
+                    "Name": "Text_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "房卡场",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 603.8321,
+                      "Y": 187.2901
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8215,
+                      "Y": 0.4072
+                    },
+                    "PreSize": {
+                      "X": 0.098,
+                      "Y": 0.0522
+                    },
+                    "LeftMargin": 567.8321,
+                    "RightMargin": 95.1679,
+                    "TopMargin": 260.7099,
+                    "BottomMargin": 175.2901,
+                    "Tag": 390,
+                    "ActionTag": 127675139,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 24.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/settingPic/yyjb_img_moren@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 40,
+                    "Scale9OriginY": 8,
+                    "Scale9Width": 44,
+                    "Scale9Height": 11,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 236.5125,
+                      "Y": 191.0493
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3218,
+                      "Y": 0.4153
+                    },
+                    "PreSize": {
+                      "X": 0.1687,
+                      "Y": 0.0587
+                    },
+                    "LeftMargin": 174.5125,
+                    "RightMargin": 436.4875,
+                    "TopMargin": 255.4507,
+                    "BottomMargin": 177.5493,
+                    "Tag": 389,
+                    "ActionTag": 2117840273,
+                    "Size": {
+                      "X": 124.0,
+                      "Y": 27.0
+                    },
+                    "Name": "Image_5",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 975825058,
+                "Size": {
+                  "X": 735.0,
+                  "Y": 460.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 275182096,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/jxnn_bg_setting@2x.png",
+        "commonCells/commonPic/jxnn_btn_close@2x.png",
+        "commonCells/commonPic/settingPic/jxnn_bg_slidersBtn@2x.png",
+        "commonCells/commonPic/settingPic/jxnn_effectIm@2x.png",
+        "commonCells/commonPic/settingPic/jxnn_effectLabel@2x.png",
+        "commonCells/commonPic/settingPic/jxnn_img_sliders@2x.png",
+        "commonCells/commonPic/settingPic/jxnn_img_slidersBg@2x.png",
+        "commonCells/commonPic/settingPic/jxnn_img_title@2x.png",
+        "commonCells/commonPic/settingPic/jxnn_musicIm@2x.png",
+        "commonCells/commonPic/settingPic/jxnn_musicLabel@2x.png",
+        "commonCells/commonPic/settingPic/yyjb_btn_select@2x.png",
+        "commonCells/commonPic/settingPic/yyjb_btn_unselect@2x.png",
+        "commonCells/commonPic/settingPic/yyjb_img_moren@2x.png",
+        "commonCells/commonPic/settingPic/yypk_btn_changeId@2x.png",
+        "Default/Button_Disable.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

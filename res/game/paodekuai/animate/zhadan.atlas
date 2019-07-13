@@ -1,0 +1,80 @@
+
+zhadan.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha0
+  rotate: false
+  xy: 2, 68
+  size: 128, 60
+  orig: 128, 60
+  offset: 0, 0
+  index: -1
+baozha1
+  rotate: false
+  xy: 494, 102
+  size: 386, 291
+  orig: 616, 322
+  offset: 103, 16
+  index: -1
+baozha2
+  rotate: false
+  xy: 538, 395
+  size: 411, 278
+  orig: 616, 322
+  offset: 85, 18
+  index: -1
+baozha3
+  rotate: false
+  xy: 541, 675
+  size: 453, 292
+  orig: 616, 322
+  offset: 80, 14
+  index: -1
+baozha4
+  rotate: false
+  xy: 2, 130
+  size: 490, 280
+  orig: 616, 322
+  offset: 64, 14
+  index: -1
+baozha5
+  rotate: false
+  xy: 2, 412
+  size: 534, 276
+  orig: 616, 322
+  offset: 56, 16
+  index: -1
+baozha6
+  rotate: false
+  xy: 2, 690
+  size: 537, 277
+  orig: 616, 322
+  offset: 60, 15
+  index: -1
+baozha8
+  rotate: false
+  xy: 132, 2
+  size: 575, 98
+  orig: 616, 322
+  offset: 33, 192
+  index: -1
+lei1
+  rotate: false
+  xy: 882, 312
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+
+zhadan2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha7
+  rotate: false
+  xy: 2, 2
+  size: 550, 182
+  orig: 616, 322
+  offset: 52, 110
+  index: -1

@@ -1,0 +1,54 @@
+
+chuangjianfangjian.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 2, 121
+  size: 344, 133
+  orig: 344, 133
+  offset: 0, 0
+  index: -1
+fangshe
+  rotate: false
+  xy: 348, 56
+  size: 222, 198
+  orig: 222, 198
+  offset: 0, 0
+  index: -1
+lunkuo
+  rotate: true
+  xy: 2, 2
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+saoguangshang
+  rotate: false
+  xy: 572, 173
+  size: 85, 32
+  orig: 85, 32
+  offset: 0, 0
+  index: -1
+saoguangxia
+  rotate: false
+  xy: 572, 207
+  size: 144, 47
+  orig: 144, 47
+  offset: 0, 0
+  index: -1
+xingxing1
+  rotate: false
+  xy: 114, 54
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+xingxing2
+  rotate: false
+  xy: 718, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

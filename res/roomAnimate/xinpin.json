@@ -1,0 +1,48 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 8.1, "y": 12.72 }
+],
+"slots": [
+	{ "name": "hengbiao", "bone": "root", "attachment": "hengbiao2" },
+	{ "name": "text", "bone": "root", "attachment": "text" },
+	{ "name": "text2", "bone": "bone", "attachment": "text" }
+],
+"skins": {
+	"default": {
+		"hengbiao": {
+			"hengbiao": { "width": 89, "height": 80 },
+			"hengbiao2": { "path": "hengbiao", "width": 89, "height": 80 }
+		},
+		"text": {
+			"text": { "x": 9.5, "y": 12, "width": 55, "height": 52 }
+		},
+		"text2": {
+			"text": { "x": 1.81, "y": -0.88, "width": 55, "height": 52 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"bone": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.6666, "x": 2, "y": 2, "curve": "stepped" },
+					{ "time": 3.1666, "x": 2, "y": 2 }
+				]
+			}
+		},
+		"slots": {
+			"text2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1666, "color": "ffffffff" },
+					{ "time": 0.6666, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 3.1666, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}

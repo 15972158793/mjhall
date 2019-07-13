@@ -1,0 +1,19 @@
+
+xinpin.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hengbiao
+  rotate: false
+  xy: 2, 2
+  size: 89, 80
+  orig: 89, 80
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 93, 30
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1

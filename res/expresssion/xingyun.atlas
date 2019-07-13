@@ -1,0 +1,26 @@
+
+xingyun.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti01
+  rotate: false
+  xy: 2, 37
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+yanjing01
+  rotate: false
+  xy: 78, 96
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+zuiba03
+  rotate: false
+  xy: 2, 2
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1

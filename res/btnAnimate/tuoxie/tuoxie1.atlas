@@ -1,0 +1,19 @@
+
+tuoxie1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuoxie
+  rotate: false
+  xy: 2, 183
+  size: 82, 179
+  orig: 82, 179
+  offset: 0, 0
+  index: -1
+tuoxielunkuo
+  rotate: false
+  xy: 2, 2
+  size: 82, 179
+  orig: 82, 179
+  offset: 0, 0
+  index: -1

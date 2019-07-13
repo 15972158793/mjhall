@@ -1,0 +1,40 @@
+
+lenghan.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+han01
+  rotate: false
+  xy: 2, 22
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+meimao02
+  rotate: true
+  xy: 2, 2
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+shenti01
+  rotate: false
+  xy: 2, 46
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+yanjing04
+  rotate: false
+  xy: 78, 115
+  size: 26, 5
+  orig: 26, 5
+  offset: 0, 0
+  index: -1
+zuiba08
+  rotate: false
+  xy: 19, 36
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1

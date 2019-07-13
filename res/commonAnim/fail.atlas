@@ -1,0 +1,131 @@
+
+fail.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banner
+  rotate: false
+  xy: 2, 40
+  size: 392, 161
+  orig: 392, 161
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 372, 210
+  size: 9, 20
+  orig: 9, 20
+  offset: 0, 0
+  index: -1
+hom
+  rotate: false
+  xy: 372, 221
+  size: 123, 99
+  orig: 123, 99
+  offset: 0, 0
+  index: -1
+leg11
+  rotate: false
+  xy: 394, 211
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+leg12
+  rotate: false
+  xy: 12, 12
+  size: 3, 9
+  orig: 3, 9
+  offset: 0, 0
+  index: -1
+leg13
+  rotate: false
+  xy: 2, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+leg21
+  rotate: false
+  xy: 447, 464
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+leg22
+  rotate: true
+  xy: 107, 24
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+leg23
+  rotate: false
+  xy: 117, 29
+  size: 3, 9
+  orig: 3, 9
+  offset: 0, 0
+  index: -1
+leg31
+  rotate: false
+  xy: 372, 205
+  size: 12, 3
+  orig: 12, 3
+  offset: 0, 0
+  index: -1
+leg32
+  rotate: false
+  xy: 107, 30
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+leg33
+  rotate: true
+  xy: 459, 479
+  size: 2, 12
+  orig: 2, 12
+  offset: 0, 0
+  index: -1
+leg41
+  rotate: false
+  xy: 447, 472
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+leg42
+  rotate: true
+  xy: 403, 217
+  size: 2, 10
+  orig: 2, 10
+  offset: 0, 0
+  index: -1
+leg43
+  rotate: false
+  xy: 2, 11
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+silk
+  rotate: true
+  xy: 2, 23
+  size: 15, 103
+  orig: 15, 103
+  offset: 0, 0
+  index: -1
+text
+  rotate: true
+  xy: 372, 322
+  size: 159, 73
+  orig: 159, 73
+  offset: 0, 0
+  index: -1
+trophy
+  rotate: false
+  xy: 2, 203
+  size: 368, 278
+  orig: 368, 278
+  offset: 0, 0
+  index: -1

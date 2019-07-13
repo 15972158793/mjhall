@@ -1,0 +1,578 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "2.3.4",
+  "Name": "LoginMenu",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/jxnn_bg_login@2x.png",
+              "Plist": ""
+            },
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 374,
+            "Scale9OriginY": 211,
+            "Scale9Width": 388,
+            "Scale9Height": 218,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.8121,
+              "Y": 319.9998
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5007,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 0.8121,
+            "RightMargin": -0.812,
+            "TopMargin": 0.0002,
+            "BottomMargin": -0.0002,
+            "Tag": 19,
+            "Children": [
+              {
+                "FontSize": 12,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "openid登陆",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1108.736,
+                  "Y": 117.44
+                },
+                "Scale": {
+                  "ScaleX": 2.0,
+                  "ScaleY": 2.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.976,
+                  "Y": 0.1835
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.0313
+                },
+                "LeftMargin": 1008.736,
+                "RightMargin": -72.736,
+                "TopMargin": 512.56,
+                "BottomMargin": 107.44,
+                "Tag": 141,
+                "ActionTag": 701229345,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 20.0
+                },
+                "Name": "codeinput",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "当前版本:V3.0.12",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1118.5056,
+                  "Y": 53.5113
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.9846,
+                  "Y": 0.0836
+                },
+                "PreSize": {
+                  "X": 0.2553,
+                  "Y": 0.0453
+                },
+                "LeftMargin": 828.5056,
+                "RightMargin": 17.4944,
+                "TopMargin": 571.9887,
+                "BottomMargin": 39.0113,
+                "Tag": 10,
+                "ActionTag": -877301287,
+                "Size": {
+                  "X": 290.0,
+                  "Y": 29.0
+                },
+                "Name": "version",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1694043600,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "bg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "logo.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 427.392
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6678
+            },
+            "PreSize": {
+              "X": 0.0405,
+              "Y": 0.0719
+            },
+            "LeftMargin": 545.0,
+            "RightMargin": 545.0,
+            "TopMargin": 189.608,
+            "BottomMargin": 404.392,
+            "Tag": 30,
+            "ActionTag": 1441363119,
+            "Size": {
+              "X": 600.0,
+              "Y": 571.0
+            },
+            "Name": "logo",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/loginPic/jxnn_btn_weixin@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 240,
+            "Scale9Height": 77,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 162.816
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2544
+            },
+            "PreSize": {
+              "X": 0.2377,
+              "Y": 0.1547
+            },
+            "LeftMargin": 433.0,
+            "RightMargin": 433.0,
+            "TopMargin": 427.684,
+            "BottomMargin": 113.316,
+            "Tag": 6,
+            "ActionTag": -444152455,
+            "Size": {
+              "X": 270.0,
+              "Y": 99.0
+            },
+            "Name": "wxBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/loginPic/btn_youke@2x.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 312,
+            "Scale9Height": 83,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 155.136
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2424
+            },
+            "PreSize": {
+              "X": 0.3011,
+              "Y": 0.1641
+            },
+            "LeftMargin": 397.0,
+            "RightMargin": 397.0,
+            "TopMargin": 432.364,
+            "BottomMargin": 102.636,
+            "Tag": 164,
+            "ActionTag": -876271660,
+            "Size": {
+              "X": 342.0,
+              "Y": 105.0
+            },
+            "Name": "guestBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 852.9088,
+              "Y": 213.056
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.7508,
+              "Y": 0.3329
+            },
+            "PreSize": {
+              "X": 0.0405,
+              "Y": 0.0719
+            },
+            "LeftMargin": 829.9088,
+            "RightMargin": 260.0912,
+            "TopMargin": 403.944,
+            "BottomMargin": 190.056,
+            "Tag": 125,
+            "ActionTag": 162858962,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "VisibleForFrame": false,
+            "Name": "choose",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/loginPic/yypk_logoStar@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 140,
+            "Scale9OriginY": 47,
+            "Scale9Width": 146,
+            "Scale9Height": 50,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 567.0,
+              "Y": 448.5712
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.4991,
+              "Y": 0.7009
+            },
+            "PreSize": {
+              "X": 0.375,
+              "Y": 0.225
+            },
+            "LeftMargin": 354.0,
+            "RightMargin": 356.0,
+            "TopMargin": 119.4288,
+            "BottomMargin": 376.5712,
+            "Tag": 581,
+            "ActionTag": -1536510835,
+            "Size": {
+              "X": 426.0,
+              "Y": 144.0
+            },
+            "Name": "Image_87",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "CheckedState": true,
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/loginPic/jxnn_btn_disagree.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/loginPic/jxnn_btn_disagree.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/loginPic/jxnn_btn_agree.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 337.6901,
+              "Y": 47.668
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2973,
+              "Y": 0.0745
+            },
+            "PreSize": {
+              "X": 0.0387,
+              "Y": 0.0703
+            },
+            "LeftMargin": 315.6901,
+            "RightMargin": 776.3099,
+            "TopMargin": 547.332,
+            "BottomMargin": 47.668,
+            "Tag": 244,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/loginPic/jxnn_img_agree.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 93,
+                "Scale9OriginY": 10,
+                "Scale9Width": 97,
+                "Scale9Height": 12,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 198.5638,
+                  "Y": 22.9365
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 4.5128,
+                  "Y": 0.5097
+                },
+                "PreSize": {
+                  "X": 6.4318,
+                  "Y": 0.7111
+                },
+                "LeftMargin": 57.0638,
+                "RightMargin": -296.0638,
+                "TopMargin": 6.0635,
+                "BottomMargin": 6.9365,
+                "Tag": 148,
+                "ActionTag": -282035098,
+                "Size": {
+                  "X": 283.0,
+                  "Y": 32.0
+                },
+                "Name": "agreement",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 574067444,
+            "Size": {
+              "X": 44.0,
+              "Y": 45.0
+            },
+            "Name": "CheckType0",
+            "ctype": "CheckBoxObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/jxnn_bg_login@2x.png",
+        "commonCells/commonPic/loginPic/btn_youke@2x.png",
+        "commonCells/commonPic/loginPic/jxnn_btn_agree.png",
+        "commonCells/commonPic/loginPic/jxnn_btn_disagree.png",
+        "commonCells/commonPic/loginPic/jxnn_btn_weixin@2x.png",
+        "commonCells/commonPic/loginPic/jxnn_img_agree.png",
+        "commonCells/commonPic/loginPic/yypk_logoStar@2x.png",
+        "Default/Sprite.png",
+        "Font/FZY4JW_0569.TTF",
+        "logo.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

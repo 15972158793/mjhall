@@ -1,0 +1,402 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 1.81, "y": 74 },
+	{ "name": "bone2", "parent": "bone", "x": 3.34, "y": 78.69 },
+	{ "name": "bone3", "parent": "bone2", "x": -28.88, "y": -0.41 },
+	{ "name": "bone4", "parent": "bone2", "x": 20.5, "y": -1.67 },
+	{ "name": "bone6", "parent": "bone2", "x": -0.41, "y": 27.2 },
+	{ "name": "bone5", "parent": "bone4", "x": 15.48, "y": -37.67 },
+	{ "name": "bone7", "parent": "bone6", "x": 15.54, "y": 20.69 },
+	{ "name": "bone8", "parent": "bone3", "x": -3.7, "y": -35.3 },
+	{ "name": "bone9", "parent": "bone4", "x": -1.44, "y": -32.62 }
+],
+"slots": [
+	{ "name": "xiazhi", "bone": "bone", "attachment": "xiazhi" },
+	{ "name": "youbi1", "bone": "bone4", "attachment": "youbi1" },
+	{ "name": "youbi2", "bone": "bone4", "attachment": "youbi2" },
+	{ "name": "youshou2", "bone": "bone9", "attachment": "youshou2" },
+	{ "name": "shangyi", "bone": "bone2", "attachment": "shangyi" },
+	{ "name": "tou", "bone": "bone6", "attachment": "tou" },
+	{ "name": "zuoshou1", "bone": "bone3", "attachment": "zuoshou1" },
+	{ "name": "lian1", "bone": "bone7", "attachment": "lian1" },
+	{ "name": "zuoshou2", "bone": "bone3", "attachment": "zuoshou2" },
+	{ "name": "youshou1", "bone": "bone5", "attachment": "youshou1" },
+	{ "name": "lian2", "bone": "bone7", "attachment": "lian2" },
+	{ "name": "youbi2-1", "bone": "bone3", "attachment": "youbi2-1" },
+	{ "name": "zuoshou2-1", "bone": "bone8", "attachment": "zuoshou2-1" }
+],
+"skins": {
+	"default": {
+		"lian1": {
+			"lian1": { "x": -6.36, "y": -11.03, "width": 56, "height": 41 }
+		},
+		"lian2": {
+			"lian2": { "x": -6.29, "y": -8.91, "width": 60, "height": 50 }
+		},
+		"shangyi": {
+			"shangyi": { "x": -3.8, "y": -24.01, "width": 65, "height": 95 }
+		},
+		"tou": {
+			"tou": { "x": -9.65, "y": 39.98, "width": 128, "height": 112 }
+		},
+		"xiazhi": {
+			"xiazhi": { "x": 3.68, "y": -44, "width": 128, "height": 125 }
+		},
+		"youbi1": {
+			"youbi1": { "x": 6.67, "y": -16.06, "width": 31, "height": 50 }
+		},
+		"youbi2": {
+			"youbi2": { "x": 1.11, "y": -13.42, "width": 21, "height": 45 }
+		},
+		"youbi2-1": {
+			"youbi2-1": { "x": -0.76, "y": -14.7, "width": 24, "height": 52 }
+		},
+		"youshou1": {
+			"youshou1": { "x": 18.96, "y": 33.5, "width": 50, "height": 78 }
+		},
+		"youshou2": {
+			"youshou2": { "x": 14.28, "y": 3.56, "width": 42, "height": 22 }
+		},
+		"zuoshou1": {
+			"zuoshou1": { "x": -12.87, "y": -31.1, "width": 46, "height": 83 }
+		},
+		"zuoshou2": {
+			"zuoshou2": { "x": -2.1, "y": 21.81, "width": 44, "height": 83 }
+		},
+		"zuoshou2-1": {
+			"zuoshou2-1": { "x": 18.82, "y": 4.72, "width": 51, "height": 24 }
+		}
+	}
+},
+"animations": {
+	"daiji": {
+		"bones": {
+			"bone2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": -3.85 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"bone3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 355 },
+					{ "time": 1, "angle": 0 }
+				]
+			},
+			"bone4": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 5 },
+					{ "time": 1, "angle": 0 }
+				]
+			},
+			"bone5": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 355 },
+					{ "time": 1, "angle": 0 }
+				]
+			}
+		},
+		"slots": {
+			"shangyi": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"tou": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"xiazhi": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"lian1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"youbi1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"youbi2-1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"youshou1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"zuoshou1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"zuoshou2-1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"lian2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"youbi2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"youshou2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"zuoshou2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			}
+		}
+	},
+	"qingzhu": {
+		"bones": {
+			"bone3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 74.56, "curve": "stepped" },
+					{ "time": 0.8333, "angle": 74.56 },
+					{ "time": 1, "angle": 0 }
+				]
+			},
+			"bone4": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 78.84, "curve": "stepped" },
+					{ "time": 0.8333, "angle": 78.84 },
+					{ "time": 1, "angle": 0 }
+				]
+			},
+			"bone8": {
+				"rotate": [
+					{ "time": 0.3333, "angle": 0 },
+					{ "time": 0.4666, "angle": 28.73 },
+					{ "time": 0.6, "angle": 0 },
+					{ "time": 0.7333, "angle": 28.73 },
+					{ "time": 0.8666, "angle": 0 }
+				]
+			},
+			"bone9": {
+				"rotate": [
+					{ "time": 0.3333, "angle": 0 },
+					{ "time": 0.4666, "angle": 18.84 },
+					{ "time": 0.6, "angle": 0 },
+					{ "time": 0.7333, "angle": 18.84 },
+					{ "time": 0.8666, "angle": 0 }
+				]
+			}
+		},
+		"slots": {
+			"shangyi": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"tou": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"xiazhi": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"lian1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"youbi1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"youbi2-1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"youshou1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"zuoshou1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"zuoshou2-1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"lian2": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"youbi2": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"youshou2": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"zuoshou2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			}
+		}
+	},
+	"sikao": {
+		"bones": {
+			"bone3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 9 },
+					{ "time": 1, "angle": 0 }
+				]
+			},
+			"bone5": {
+				"rotate": [
+					{ "time": 0, "angle": 17.56 },
+					{ "time": 0.5, "angle": 12.29 },
+					{ "time": 1, "angle": 17.56 }
+				]
+			}
+		},
+		"slots": {
+			"shangyi": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"tou": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"xiazhi": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"lian1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"youbi1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"youbi2-1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"youshou1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"zuoshou1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"zuoshou2-1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"lian2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"youbi2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"youshou2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"zuoshou2": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,298 @@
+{
+  "ID": "ebb2baa7-daf8-425c-b300-156369c3c8e4",
+  "Version": "2.3.4",
+  "Name": "MineSweepingRule",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 398,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 127,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "MineSweepingNew/menu/sl_bg_menu@2x.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 124,
+            "Scale9OriginY": 176,
+            "Scale9Width": 130,
+            "Scale9Height": 183,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 399,
+            "Children": [
+              {
+                "FontSize": 40,
+                "LabelText": "游戏规则",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 319.757,
+                  "Y": 792.4222
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4996,
+                  "Y": 0.6976
+                },
+                "PreSize": {
+                  "X": 0.25,
+                  "Y": 0.0352
+                },
+                "LeftMargin": 239.757,
+                "RightMargin": 240.243,
+                "TopMargin": 323.5778,
+                "BottomMargin": 772.4222,
+                "Tag": 400,
+                "ActionTag": -1091059173,
+                "Size": {
+                  "X": 160.0,
+                  "Y": 40.0
+                },
+                "Name": "t",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1216486302,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "panel_bg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 170.0,
+              "Y": 343.2905
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2656,
+              "Y": 0.3022
+            },
+            "PreSize": {
+              "X": 0.4688,
+              "Y": 0.3345
+            },
+            "LeftMargin": 170.0,
+            "RightMargin": 170.0,
+            "TopMargin": 412.7095,
+            "BottomMargin": 343.2905,
+            "Tag": 374,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.9667,
+                  "Y": 1.0
+                },
+                "RightMargin": 10.0,
+                "Tag": 373,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "      扫雷是我们独创的一种玩法，游戏分为房主埋雷和自由埋雷玩法，选择房主埋雷玩法只能房主埋雷，自由埋雷时，所有人均可埋雷。\n      埋雷时，埋雷者扣除一个底分埋雷，选择雷针大小，然后大家一起扫雷。扫完后，每个人都会得到相应的分数，分数结尾的数字和预设雷针相同时，即为中雷，需要给予埋雷者底分×倍率的分数作为惩罚。\n     游戏支持5-10人同时游戏，人数不同，倍率不同，5人×2倍，6人×1.8倍，7人×1.6倍，8人×1.4倍，9人×1.2倍，10人×1倍。",
+                    "FontResource": {
+                      "Type": "Default",
+                      "Path": "",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 145.0,
+                      "Y": 300.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "VerticalEdge": "TopEdge",
+                    "Tag": 403,
+                    "ActionTag": 34409936,
+                    "Size": {
+                      "X": 290.0,
+                      "Y": 600.0
+                    },
+                    "Name": "tv_content",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 2109613637,
+                "Size": {
+                  "X": 290.0,
+                  "Y": 600.0
+                },
+                "Name": "Panel_1",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1437313248,
+            "Size": {
+              "X": 300.0,
+              "Y": 380.0
+            },
+            "Name": "ListView_1",
+            "ctype": "ListViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "MineSweepingNew/menu/sl_bg_menu@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

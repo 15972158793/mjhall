@@ -1,0 +1,19 @@
+
+renjidan1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jidan
+  rotate: false
+  xy: 2, 2
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+jidanlunkuo
+  rotate: false
+  xy: 74, 2
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+
+zc.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/01
+  rotate: false
+  xy: 2, 2
+  size: 244, 222
+  orig: 244, 222
+  offset: 0, 0
+  index: -1
+image/02
+  rotate: false
+  xy: 248, 55
+  size: 112, 169
+  orig: 112, 169
+  offset: 0, 0
+  index: -1

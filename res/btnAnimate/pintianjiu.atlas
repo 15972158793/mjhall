@@ -1,0 +1,40 @@
+
+pintianjiu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 59
+  size: 257, 164
+  orig: 257, 164
+  offset: 0, 0
+  index: -1
+pintianjiu
+  rotate: false
+  xy: 2, 2
+  size: 143, 55
+  orig: 143, 55
+  offset: 0, 0
+  index: -1
+qiaopai
+  rotate: false
+  xy: 261, 60
+  size: 174, 163
+  orig: 174, 163
+  offset: 0, 0
+  index: -1
+shaizi
+  rotate: false
+  xy: 437, 167
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 437, 108
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1

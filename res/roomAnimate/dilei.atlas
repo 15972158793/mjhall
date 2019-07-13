@@ -1,0 +1,164 @@
+
+dilei.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+debris01
+  rotate: true
+  xy: 630, 686
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+debris02
+  rotate: true
+  xy: 2, 6
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+debris03
+  rotate: true
+  xy: 29, 2
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+flame_01
+  rotate: false
+  xy: 648, 15
+  size: 47, 55
+  orig: 640, 480
+  offset: 270, 220
+  index: -1
+flame_02
+  rotate: false
+  xy: 915, 692
+  size: 67, 75
+  orig: 640, 480
+  offset: 257, 209
+  index: -1
+flame_03
+  rotate: false
+  xy: 915, 769
+  size: 103, 97
+  orig: 640, 480
+  offset: 250, 199
+  index: -1
+flame_08
+  rotate: false
+  xy: 630, 712
+  size: 283, 309
+  orig: 640, 480
+  offset: 154, 82
+  index: -1
+flame_09
+  rotate: false
+  xy: 625, 361
+  size: 292, 319
+  orig: 640, 480
+  offset: 149, 77
+  index: -1
+flame_10
+  rotate: false
+  xy: 347, 17
+  size: 299, 327
+  orig: 640, 480
+  offset: 145, 73
+  index: -1
+flame_11
+  rotate: false
+  xy: 318, 346
+  size: 305, 334
+  orig: 640, 480
+  offset: 142, 69
+  index: -1
+flame_12
+  rotate: false
+  xy: 318, 682
+  size: 310, 339
+  orig: 640, 480
+  offset: 139, 66
+  index: -1
+flame_13
+  rotate: true
+  xy: 2, 19
+  size: 313, 343
+  orig: 640, 480
+  offset: 137, 64
+  index: -1
+flame_14
+  rotate: false
+  xy: 2, 678
+  size: 314, 343
+  orig: 640, 480
+  offset: 136, 65
+  index: -1
+flame_15
+  rotate: false
+  xy: 2, 334
+  size: 314, 342
+  orig: 640, 480
+  offset: 136, 65
+  index: -1
+flame_16
+  rotate: false
+  xy: 648, 72
+  size: 284, 287
+  orig: 640, 480
+  offset: 157, 108
+  index: -1
+huomiao
+  rotate: false
+  xy: 915, 868
+  size: 91, 153
+  orig: 91, 153
+  offset: 0, 0
+  index: -1
+
+dilei2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flame_04
+  rotate: false
+  xy: 2, 2
+  size: 187, 194
+  orig: 640, 480
+  offset: 211, 142
+  index: -1
+flame_05
+  rotate: true
+  xy: 549, 2
+  size: 235, 257
+  orig: 640, 480
+  offset: 180, 108
+  index: -1
+flame_06
+  rotate: true
+  xy: 549, 239
+  size: 255, 280
+  orig: 640, 480
+  offset: 169, 97
+  index: -1
+flame_07
+  rotate: false
+  xy: 2, 198
+  size: 271, 296
+  orig: 640, 480
+  offset: 160, 89
+  index: -1
+flame_17
+  rotate: false
+  xy: 275, 217
+  size: 272, 277
+  orig: 640, 480
+  offset: 157, 107
+  index: -1
+zhadan
+  rotate: false
+  xy: 831, 322
+  size: 162, 172
+  orig: 162, 172
+  offset: 0, 0
+  index: -1

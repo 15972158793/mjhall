@@ -1,0 +1,72 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 0.01, "y": -2.77 },
+	{ "name": "bone2", "parent": "root", "x": 0.01, "y": -2.77 }
+],
+"slots": [
+	{ "name": "star", "bone": "bone", "attachment": "star" },
+	{ "name": "star2", "bone": "bone2", "attachment": "star" }
+],
+"skins": {
+	"default": {
+		"star": {
+			"star": { "x": -0.01, "y": 2.77, "width": 70, "height": 67 }
+		},
+		"star2": {
+			"star": { "x": -0.01, "y": 2.77, "width": 70, "height": 67 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"bone2": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{
+						"time": 0.1,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.6, "x": 1.8, "y": 1.8 }
+				]
+			},
+			"bone": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "x": 1.8, "y": 1.8 }
+				]
+			}
+		},
+		"slots": {
+			"star": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"star2": {
+				"color": [
+					{
+						"time": 0.1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.6, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}

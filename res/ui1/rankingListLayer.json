@@ -1,0 +1,681 @@
+{
+  "ID": "a21b98ec-2dad-4542-bf24-7ae5a230071f",
+  "Version": "2.3.4",
+  "Name": "rankingListLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3424,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "goldRankingList/yyjb_bg_list@2x.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 248,
+            "Scale9OriginY": 189,
+            "Scale9Width": 258,
+            "Scale9Height": 197,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 3425,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldRankingList/yyjb_title_list@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 96,
+                "Scale9OriginY": 19,
+                "Scale9Width": 100,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 569.024
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8891
+                },
+                "PreSize": {
+                  "X": 0.257,
+                  "Y": 0.0938
+                },
+                "LeftMargin": 422.0,
+                "RightMargin": 422.0,
+                "TopMargin": 40.976,
+                "BottomMargin": 539.024,
+                "Tag": 3426,
+                "ActionTag": -880316240,
+                "Size": {
+                  "X": 292.0,
+                  "Y": 60.0
+                },
+                "Name": "title",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "personalSetting/yyjb_btn_close@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 8,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 901.7776,
+                  "Y": 571.8908
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7938,
+                  "Y": 0.8936
+                },
+                "PreSize": {
+                  "X": 0.0335,
+                  "Y": 0.0594
+                },
+                "LeftMargin": 882.7776,
+                "RightMargin": 215.2224,
+                "TopMargin": 49.1092,
+                "BottomMargin": 552.8908,
+                "Tag": 3427,
+                "ActionTag": -1295754030,
+                "Size": {
+                  "X": 38.0,
+                  "Y": 38.0
+                },
+                "Name": "btn_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 531.8272
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.831
+                },
+                "PreSize": {
+                  "X": 0.6602,
+                  "Y": 0.6016
+                },
+                "LeftMargin": 193.0,
+                "RightMargin": 193.0,
+                "TopMargin": 108.1728,
+                "BottomMargin": 146.8272,
+                "Tag": 3631,
+                "ActionTag": -202047974,
+                "Size": {
+                  "X": 750.0,
+                  "Y": 385.0
+                },
+                "Name": "ListView_1",
+                "ctype": "ListViewObjectData"
+              }
+            ],
+            "ActionTag": 905542451,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "rankBg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_bg_head1@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 27,
+            "Scale9OriginY": 27,
+            "Scale9Width": 28,
+            "Scale9Height": 28,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 248.6638,
+              "Y": 89.85
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2189,
+              "Y": 0.1404
+            },
+            "PreSize": {
+              "X": 0.0722,
+              "Y": 0.1281
+            },
+            "LeftMargin": 207.6638,
+            "RightMargin": 846.3362,
+            "TopMargin": 509.1501,
+            "BottomMargin": 48.85,
+            "Tag": 38,
+            "ActionTag": -596946500,
+            "Size": {
+              "X": 82.0,
+              "Y": 82.0
+            },
+            "Name": "myIcon",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_bg_goldNum@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 53,
+            "Scale9OriginY": 13,
+            "Scale9Width": 2,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 317.7678,
+              "Y": 77.5786
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.2797,
+              "Y": 0.1212
+            },
+            "PreSize": {
+              "X": 0.0951,
+              "Y": 0.0422
+            },
+            "LeftMargin": 317.7678,
+            "RightMargin": 710.2322,
+            "TopMargin": 535.4214,
+            "BottomMargin": 77.5786,
+            "Tag": 138,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -23.8213,
+                  "Y": -7.8834
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.2206,
+                  "Y": -0.292
+                },
+                "PreSize": {
+                  "X": 0.3889,
+                  "Y": 1.5926
+                },
+                "LeftMargin": -23.8213,
+                "RightMargin": 89.8213,
+                "TopMargin": -8.1166,
+                "BottomMargin": -7.8834,
+                "Tag": 139,
+                "ActionTag": 1447076346,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 43.0
+                },
+                "Name": "goldNode",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_btn_add@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 11,
+                "Scale9OriginY": 11,
+                "Scale9Width": 17,
+                "Scale9Height": 16,
+                "AnchorPoint": {
+                  "ScaleX": 1.0
+                },
+                "Position": {
+                  "X": 141.5939,
+                  "Y": -6.158
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.3111,
+                  "Y": -0.2281
+                },
+                "PreSize": {
+                  "X": 0.3611,
+                  "Y": 1.4074
+                },
+                "LeftMargin": 102.5939,
+                "RightMargin": -33.5939,
+                "TopMargin": -4.842,
+                "BottomMargin": -6.158,
+                "Tag": 140,
+                "ActionTag": -110380608,
+                "Size": {
+                  "X": 39.0,
+                  "Y": 38.0
+                },
+                "Name": "Image_9",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 81.9435,
+                  "Y": -11.0139
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.7587,
+                  "Y": -0.4079
+                },
+                "PreSize": {
+                  "X": 0.7407,
+                  "Y": 1.8519
+                },
+                "LeftMargin": 81.9435,
+                "RightMargin": -53.9435,
+                "TopMargin": -11.9861,
+                "BottomMargin": -11.0139,
+                "Tag": 144,
+                "ActionTag": 1009080707,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 50.0
+                },
+                "Name": "buygold",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "100111",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 58.2403,
+                  "Y": 11.2495
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 235,
+                  "G": 212,
+                  "B": 152
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5393,
+                  "Y": 0.4166
+                },
+                "PreSize": {
+                  "X": 1.1111,
+                  "Y": 1.0741
+                },
+                "LeftMargin": -1.7597,
+                "RightMargin": -10.2403,
+                "TopMargin": 1.2505,
+                "BottomMargin": -3.2505,
+                "Tag": 145,
+                "ActionTag": 621012515,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 29.0
+                },
+                "Name": "gold",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 530291778,
+            "Size": {
+              "X": 108.0,
+              "Y": 27.0
+            },
+            "Name": "Image_5_0_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "personalSetting/yyjb_btn_yellow_s@2x.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 130,
+            "Scale9Height": 48,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 844.655,
+              "Y": 86.0789
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7435,
+              "Y": 0.1345
+            },
+            "PreSize": {
+              "X": 0.1408,
+              "Y": 0.1094
+            },
+            "LeftMargin": 764.655,
+            "RightMargin": 211.345,
+            "TopMargin": 518.9211,
+            "BottomMargin": 51.0789,
+            "Tag": 146,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "goldRankingList/yyjb_img_ksts@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 8,
+                "Scale9Width": 35,
+                "Scale9Height": 9,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 80.0001,
+                  "Y": 37.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5286
+                },
+                "PreSize": {
+                  "X": 0.6313,
+                  "Y": 0.3571
+                },
+                "LeftMargin": 29.5001,
+                "RightMargin": 29.4999,
+                "TopMargin": 20.5,
+                "BottomMargin": 24.5,
+                "Tag": 147,
+                "ActionTag": 697476807,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 25.0
+                },
+                "Name": "Image_10",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1348830283,
+            "Size": {
+              "X": 160.0,
+              "Y": 70.0
+            },
+            "Name": "btn_addVance",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/hallPic/goldScene/yyjb_bg_goldNum@2x.png",
+        "commonCells/commonPic/hallPic/goldScene/yyjb_bg_head1@2x.png",
+        "commonCells/commonPic/hallPic/goldScene/yyjb_btn_add@2x.png",
+        "Font/FZY4JW_0569.TTF",
+        "goldRankingList/yyjb_bg_list@2x.png",
+        "goldRankingList/yyjb_img_ksts@2x.png",
+        "goldRankingList/yyjb_title_list@2x.png",
+        "personalSetting/yyjb_btn_close@2x.png",
+        "personalSetting/yyjb_btn_yellow_s@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

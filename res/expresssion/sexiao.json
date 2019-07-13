@@ -1,0 +1,136 @@
+{
+"bones": [
+	{ "name": "root", "x": -0.37, "y": 0.37 },
+	{ "name": "shenti01", "parent": "root" },
+	{ "name": "meimao01", "parent": "shenti01", "x": -18.12, "y": 27.14 },
+	{ "name": "meimao012", "parent": "shenti01", "x": 16.81, "y": 26.45 },
+	{ "name": "yanbai01", "parent": "shenti01", "x": -17.43, "y": 7.93 },
+	{ "name": "yanbai012", "parent": "shenti01", "x": 19.06, "y": 7.76 },
+	{ "name": "zuiba01", "parent": "shenti01", "x": 0.41, "y": -31.58 },
+	{ "name": "yanqiu01", "parent": "yanbai01", "x": -7.04, "y": -0.16 },
+	{ "name": "yanqiu012", "parent": "yanbai012", "x": -8.92, "y": 0.13 }
+],
+"slots": [
+	{ "name": "shenti01", "bone": "shenti01", "attachment": "shenti01" },
+	{ "name": "meimao01", "bone": "meimao01", "attachment": "meimao01" },
+	{ "name": "meimao012", "bone": "meimao012", "attachment": "meimao01" },
+	{ "name": "yanbai01", "bone": "yanbai01", "attachment": "yanbai01" },
+	{ "name": "yanbai012", "bone": "yanbai012", "attachment": "yanbai01" },
+	{ "name": "yanqiu01", "bone": "yanqiu01", "attachment": "yanqiu01" },
+	{ "name": "yanqiu012", "bone": "yanqiu012", "attachment": "yanqiu01" },
+	{ "name": "zuiba01", "bone": "zuiba01", "attachment": "zuiba01" }
+],
+"skins": {
+	"default": {
+		"meimao01": {
+			"meimao01": { "x": -0.87, "y": 1.85, "width": 16, "height": 11 }
+		},
+		"meimao012": {
+			"meimao01": { "x": 2.18, "y": 2.54, "scaleX": -1, "width": 16, "height": 11 }
+		},
+		"shenti01": {
+			"shenti01": { "width": 74, "height": 74 }
+		},
+		"yanbai01": {
+			"yanbai01": { "x": -0.56, "y": 0.06, "width": 29, "height": 20 }
+		},
+		"yanbai012": {
+			"yanbai01": { "x": -1.06, "y": 0.23, "scaleX": -1, "width": 29, "height": 20 }
+		},
+		"yanqiu01": {
+			"yanqiu01": { "x": 0.28, "y": -0.27, "width": 8, "height": 8 }
+		},
+		"yanqiu012": {
+			"yanqiu01": { "x": 0.32, "y": -0.39, "width": 8, "height": 8 }
+		},
+		"zuiba01": {
+			"zuiba01": { "x": -0.41, "y": 15.3, "width": 66, "height": 35 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"yanqiu012": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 14.38, "y": 0 },
+					{ "time": 0.6666, "x": 0, "y": 0 }
+				]
+			},
+			"yanqiu01": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 14.38, "y": 0 },
+					{ "time": 0.6666, "x": 0, "y": 0 }
+				]
+			},
+			"yanbai012": {
+				"translate": [
+					{ "time": 0.6666, "x": 0, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 3.31 },
+					{ "time": 1, "x": 0, "y": 0 },
+					{ "time": 1.1666, "x": 0, "y": 3.31 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.5, "x": 0, "y": 3.31 },
+					{ "time": 1.6666, "x": 0, "y": 0 },
+					{ "time": 1.8333, "x": 0, "y": 3.31 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"yanbai01": {
+				"translate": [
+					{ "time": 0.6666, "x": 0, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 3.31 },
+					{ "time": 1, "x": 0, "y": 0 },
+					{ "time": 1.1666, "x": 0, "y": 3.31 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.5, "x": 0, "y": 3.31 },
+					{ "time": 1.6666, "x": 0, "y": 0 },
+					{ "time": 1.8333, "x": 0, "y": 3.31 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"meimao012": {
+				"translate": [
+					{ "time": 0.6666, "x": 0, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 3.31 },
+					{ "time": 1, "x": 0, "y": 0 },
+					{ "time": 1.1666, "x": 0, "y": 3.31 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.5, "x": 0, "y": 3.31 },
+					{ "time": 1.6666, "x": 0, "y": 0 },
+					{ "time": 1.8333, "x": 0, "y": 3.31 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"meimao01": {
+				"translate": [
+					{ "time": 0.6666, "x": 0, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 3.31 },
+					{ "time": 1, "x": 0, "y": 0 },
+					{ "time": 1.1666, "x": 0, "y": 3.31 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.5, "x": 0, "y": 3.31 },
+					{ "time": 1.6666, "x": 0, "y": 0 },
+					{ "time": 1.8333, "x": 0, "y": 3.31 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"zuiba01": {
+				"translate": [
+					{ "time": 0.6666, "x": 0, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 3.31 },
+					{ "time": 1, "x": 0, "y": 0 },
+					{ "time": 1.1666, "x": 0, "y": 3.31 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.5, "x": 0, "y": 3.31 },
+					{ "time": 1.6666, "x": 0, "y": 0 },
+					{ "time": 1.8333, "x": 0, "y": 3.31 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

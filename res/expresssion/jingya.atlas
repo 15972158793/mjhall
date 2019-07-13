@@ -1,0 +1,40 @@
+
+jingya.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meimao01
+  rotate: false
+  xy: 2, 2
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+shenti01
+  rotate: false
+  xy: 2, 48
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+yanbai02-1
+  rotate: false
+  xy: 2, 15
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+yanqiu01
+  rotate: false
+  xy: 35, 38
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+zuiba04
+  rotate: false
+  xy: 78, 90
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: -1

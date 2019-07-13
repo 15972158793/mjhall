@@ -1,0 +1,89 @@
+
+niuyuanshuai.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 90
+  size: 257, 164
+  orig: 257, 164
+  offset: 0, 0
+  index: -1
+maoshui
+  rotate: false
+  xy: 261, 92
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 261, 110
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 3
+  size: 116, 85
+  orig: 116, 85
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 450, 197
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 200, 11
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 120, 33
+  size: 146, 55
+  orig: 146, 55
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 261, 128
+  size: 125, 126
+  orig: 125, 126
+  offset: 0, 0
+  index: -1
+youerduo
+  rotate: true
+  xy: 179, 2
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 388, 184
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+zuoerduo
+  rotate: false
+  xy: 388, 166
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 120, 4
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,44 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone3", "parent": "root" }
+],
+"slots": [
+	{ "name": "wenzi", "bone": "bone3", "attachment": "wenzi" }
+],
+"skins": {
+	"default": {
+		"wenzi": {
+			"wenzi": { "x": 1.12, "y": -3.95, "width": 318, "height": 105 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"bone3": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 3,
+						"y": 3,
+						"curve": [ 0.59, 0.01, 0.901, 0.32 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"slots": {
+			"wenzi": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.5, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}

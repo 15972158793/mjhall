@@ -1,0 +1,442 @@
+{
+  "ID": "f5581694-baeb-437d-8438-8db5b9909f9f",
+  "Version": "2.3.4",
+  "Name": "goldCRPrevRight",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 424,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "Button",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 4,
+            "Scale9Width": 12,
+            "Scale9Height": 6,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1077.3445,
+              "Y": 360.8382
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9484,
+              "Y": 0.5638
+            },
+            "PreSize": {
+              "X": 0.0511,
+              "Y": 0.1312
+            },
+            "LeftMargin": 1077.3445,
+            "RightMargin": 0.6555,
+            "TopMargin": 195.1618,
+            "BottomMargin": 360.8382,
+            "Tag": 425,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_btn_shop2@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 27,
+                "Scale9Width": 20,
+                "Scale9Height": 30,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 426,
+                "ActionTag": 593164282,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 84.0
+                },
+                "Name": "normal",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_btn_shop1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 27,
+                "Scale9Width": 20,
+                "Scale9Height": 30,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 427,
+                "ActionTag": -730757610,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 84.0
+                },
+                "Name": "select",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -2112632959,
+            "Size": {
+              "X": 58.0,
+              "Y": 84.0
+            },
+            "Name": "chargeBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "Button",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 4,
+            "Scale9Width": 12,
+            "Scale9Height": 6,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1077.3445,
+              "Y": 272.1586
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9484,
+              "Y": 0.4252
+            },
+            "PreSize": {
+              "X": 0.0511,
+              "Y": 0.1312
+            },
+            "LeftMargin": 1077.3445,
+            "RightMargin": 0.6555,
+            "TopMargin": 283.8414,
+            "BottomMargin": 272.1586,
+            "Tag": 437,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_btn_setting2@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 27,
+                "Scale9Width": 20,
+                "Scale9Height": 30,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 438,
+                "ActionTag": -1839238925,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 84.0
+                },
+                "Name": "normal",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_btn_setting1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 27,
+                "Scale9Width": 20,
+                "Scale9Height": 30,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 439,
+                "ActionTag": 1789930108,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 84.0
+                },
+                "Name": "select",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1773243237,
+            "Size": {
+              "X": 58.0,
+              "Y": 84.0
+            },
+            "Name": "setBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "Button",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 4,
+            "Scale9Width": 12,
+            "Scale9Height": 6,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1077.3445,
+              "Y": 183.479
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9484,
+              "Y": 0.2867
+            },
+            "PreSize": {
+              "X": 0.0511,
+              "Y": 0.1312
+            },
+            "LeftMargin": 1077.3445,
+            "RightMargin": 0.6555,
+            "TopMargin": 372.521,
+            "BottomMargin": 183.479,
+            "Tag": 440,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_btn_share2@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 27,
+                "Scale9Width": 20,
+                "Scale9Height": 30,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 441,
+                "ActionTag": -1781463706,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 84.0
+                },
+                "Name": "normal",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/hallPic/goldScene/yyjb_btn_share1@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 27,
+                "Scale9Width": 20,
+                "Scale9Height": 30,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 442,
+                "ActionTag": -330550737,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 84.0
+                },
+                "Name": "select",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 189678963,
+            "Size": {
+              "X": 58.0,
+              "Y": 84.0
+            },
+            "Name": "inviteBtn",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/hallPic/goldScene/yyjb_btn_setting1@2x.png",
+        "commonCells/commonPic/hallPic/goldScene/yyjb_btn_setting2@2x.png",
+        "commonCells/commonPic/hallPic/goldScene/yyjb_btn_share1@2x.png",
+        "commonCells/commonPic/hallPic/goldScene/yyjb_btn_share2@2x.png",
+        "commonCells/commonPic/hallPic/goldScene/yyjb_btn_shop1@2x.png",
+        "commonCells/commonPic/hallPic/goldScene/yyjb_btn_shop2@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

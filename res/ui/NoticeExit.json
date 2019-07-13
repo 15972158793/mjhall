@@ -1,0 +1,577 @@
+{
+  "ID": "f4e92257-d113-452e-952a-0b037c89fecc",
+  "Version": "2.3.4",
+  "Name": "NoticeExit",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 141,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 142,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "kwxResource/setting/setting_bg@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 47,
+                "Scale9Width": 582,
+                "Scale9Height": 271,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5063,
+                  "Y": 0.5069
+                },
+                "LeftMargin": 316.0,
+                "RightMargin": 316.0,
+                "TopMargin": 177.5,
+                "BottomMargin": 177.5,
+                "Tag": 246,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "kwxResource/custom/tishiyu_bg@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 324.0,
+                      "Y": 219.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.6
+                    },
+                    "PreSize": {
+                      "X": 0.8904,
+                      "Y": 0.5315
+                    },
+                    "LeftMargin": 35.5,
+                    "RightMargin": 35.5,
+                    "TopMargin": 49.0,
+                    "BottomMargin": 122.0,
+                    "Tag": 671,
+                    "ActionTag": 1184989767,
+                    "Size": {
+                      "X": 577.0,
+                      "Y": 194.0
+                    },
+                    "Name": "Sprite_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "kwxResource/setting/title-bg2@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 324.0,
+                      "Y": 394.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 1.08
+                    },
+                    "PreSize": {
+                      "X": 0.6265,
+                      "Y": 0.1644
+                    },
+                    "LeftMargin": 121.0,
+                    "RightMargin": 121.0,
+                    "TopMargin": -59.2,
+                    "BottomMargin": 364.2,
+                    "Tag": 669,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "kwxResource/custom/titleTishi@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 203.0,
+                          "Y": 26.4
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.44
+                        },
+                        "PreSize": {
+                          "X": 0.4384,
+                          "Y": 0.8167
+                        },
+                        "LeftMargin": 114.0,
+                        "RightMargin": 114.0,
+                        "TopMargin": 9.1,
+                        "BottomMargin": 1.9,
+                        "Tag": 670,
+                        "ActionTag": -1623982265,
+                        "Size": {
+                          "X": 178.0,
+                          "Y": 49.0
+                        },
+                        "Name": "Sprite_2",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 352503078,
+                    "Size": {
+                      "X": 406.0,
+                      "Y": 60.0
+                    },
+                    "Name": "Sprite_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "kwxResource/hall/btn_g2@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 142,
+                    "Scale9Height": 55,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 171.1368,
+                      "Y": 68.255
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.2641,
+                      "Y": 0.187
+                    },
+                    "PreSize": {
+                      "X": 0.2654,
+                      "Y": 0.211
+                    },
+                    "LeftMargin": 85.1368,
+                    "RightMargin": 390.8632,
+                    "TopMargin": 258.245,
+                    "BottomMargin": 29.755,
+                    "Tag": 63,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "kwxResource/custom/ok_text@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 86.0,
+                          "Y": 38.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.3895,
+                          "Y": 0.4156
+                        },
+                        "LeftMargin": 52.5,
+                        "RightMargin": 52.5,
+                        "TopMargin": 22.5,
+                        "BottomMargin": 22.5,
+                        "Tag": 64,
+                        "ActionTag": -485311269,
+                        "Size": {
+                          "X": 67.0,
+                          "Y": 32.0
+                        },
+                        "Name": "wrodCancelYellow_4",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1077274130,
+                    "Size": {
+                      "X": 172.0,
+                      "Y": 77.0
+                    },
+                    "Name": "ok",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "kwxResource/setting/btn_y3@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 142,
+                    "Scale9Height": 55,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 467.4672,
+                      "Y": 68.255
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7214,
+                      "Y": 0.187
+                    },
+                    "PreSize": {
+                      "X": 0.2654,
+                      "Y": 0.211
+                    },
+                    "LeftMargin": 381.4672,
+                    "RightMargin": 94.5328,
+                    "TopMargin": 258.245,
+                    "BottomMargin": 29.755,
+                    "Tag": 65,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "kwxResource/custom/cancel@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 86.0,
+                          "Y": 38.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.3895,
+                          "Y": 0.4156
+                        },
+                        "LeftMargin": 52.5,
+                        "RightMargin": 52.5,
+                        "TopMargin": 22.5,
+                        "BottomMargin": 22.5,
+                        "Tag": 66,
+                        "ActionTag": -258707735,
+                        "Size": {
+                          "X": 67.0,
+                          "Y": 32.0
+                        },
+                        "Name": "wordConfirmGreen_3",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 269956973,
+                    "Size": {
+                      "X": 172.0,
+                      "Y": 77.0
+                    },
+                    "Name": "cancel",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "是否想要解散房间？",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 324.0,
+                      "Y": 227.468
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 139,
+                      "G": 105,
+                      "B": 20
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.6232
+                    },
+                    "PreSize": {
+                      "X": 0.3981,
+                      "Y": 0.0959
+                    },
+                    "LeftMargin": 195.0,
+                    "RightMargin": 195.0,
+                    "TopMargin": 120.032,
+                    "BottomMargin": 209.968,
+                    "Tag": 67,
+                    "ActionTag": 306215102,
+                    "Size": {
+                      "X": 258.0,
+                      "Y": 35.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1903921694,
+                "Size": {
+                  "X": 648.0,
+                  "Y": 365.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1490473401,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Font/FZY4JW_0569.TTF",
+        "kwxResource/custom/cancel@2x.png",
+        "kwxResource/custom/ok_text@2x.png",
+        "kwxResource/custom/tishiyu_bg@2x.png",
+        "kwxResource/custom/titleTishi@2x.png",
+        "kwxResource/hall/btn_g2@2x.png",
+        "kwxResource/setting/btn_y3@2x.png",
+        "kwxResource/setting/setting_bg@2x.png",
+        "kwxResource/setting/title-bg2@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

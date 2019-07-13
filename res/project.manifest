@@ -1,0 +1,13 @@
+{
+    "packageUrl":"http://asyl.190youxi.com/down/versionMgr/game",
+    "remoteManifestUrl":"http://asyl.190youxi.com:1239/updateres?type=project&app=game&ver=1000",
+    "remoteVersionUrl":"http://asyl.190youxi.com:1239/updateres?type=version&app=game&ver=1000",
+    "version":"1000",
+    "engineVersion":"3.13.1",
+    "assets":{
+        
+    },
+    "searchPaths":[
+        
+    ]
+}

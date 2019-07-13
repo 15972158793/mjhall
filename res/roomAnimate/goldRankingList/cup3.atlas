@@ -1,0 +1,82 @@
+
+cup3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c3
+  rotate: false
+  xy: 2, 15
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+c31
+  rotate: false
+  xy: 163, 2
+  size: 17, 35
+  orig: 54, 47
+  offset: 1, 4
+  index: -1
+c32
+  rotate: true
+  xy: 201, 40
+  size: 22, 35
+  orig: 54, 47
+  offset: 1, 4
+  index: -1
+c33
+  rotate: false
+  xy: 136, 28
+  size: 25, 34
+  orig: 54, 47
+  offset: 4, 4
+  index: -1
+c34
+  rotate: true
+  xy: 163, 39
+  size: 23, 36
+  orig: 54, 47
+  offset: 11, 4
+  index: -1
+c35
+  rotate: false
+  xy: 111, 19
+  size: 23, 43
+  orig: 54, 47
+  offset: 17, 3
+  index: -1
+c36
+  rotate: false
+  xy: 85, 19
+  size: 24, 43
+  orig: 54, 47
+  offset: 22, 3
+  index: -1
+c37
+  rotate: false
+  xy: 58, 19
+  size: 25, 43
+  orig: 54, 47
+  offset: 25, 3
+  index: -1
+c38
+  rotate: true
+  xy: 58, 2
+  size: 15, 34
+  orig: 54, 47
+  offset: 37, 4
+  index: -1
+c39
+  rotate: true
+  xy: 2, 2
+  size: 11, 27
+  orig: 54, 47
+  offset: 43, 12
+  index: -1
+star
+  rotate: false
+  xy: 182, 18
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1

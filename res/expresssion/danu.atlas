@@ -1,0 +1,26 @@
+
+danu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti02
+  rotate: false
+  xy: 2, 52
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+yanjing03
+  rotate: false
+  xy: 2, 16
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+zuiba05
+  rotate: true
+  xy: 2, 2
+  size: 12, 31
+  orig: 12, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,42 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "2", "parent": "root" }
+],
+"slots": [
+	{ "name": "2", "bone": "2", "attachment": "2" }
+],
+"skins": {
+	"default": {
+		"2": {
+			"2": { "x": 3.49, "y": 7.83, "width": 260, "height": 252 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.6666, "angle": -180 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"slots": {
+			"2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.6666, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}

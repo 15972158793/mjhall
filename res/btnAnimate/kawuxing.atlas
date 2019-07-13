@@ -1,0 +1,33 @@
+
+kawuxing.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 261, 4
+  size: 221, 186
+  orig: 221, 186
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 61
+  size: 257, 164
+  orig: 257, 164
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 148, 2
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 4
+  size: 144, 55
+  orig: 144, 55
+  offset: 0, 0
+  index: -1

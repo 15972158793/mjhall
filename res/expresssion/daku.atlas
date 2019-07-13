@@ -1,0 +1,54 @@
+
+daku.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leihua01
+  rotate: false
+  xy: 78, 103
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+leihua02
+  rotate: false
+  xy: 2, 12
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+leizhu01
+  rotate: true
+  xy: 2, 31
+  size: 13, 50
+  orig: 13, 50
+  offset: 0, 0
+  index: -1
+meimao02
+  rotate: true
+  xy: 114, 102
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+shenti01
+  rotate: false
+  xy: 2, 46
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+yanjing04
+  rotate: false
+  xy: 78, 96
+  size: 26, 5
+  orig: 26, 5
+  offset: 0, 0
+  index: -1
+zuiba04
+  rotate: true
+  xy: 2, 2
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+
+jinbichang.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 36
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 65, 56
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 2
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1

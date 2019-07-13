@@ -1,0 +1,54 @@
+
+jiarufangjian.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 2, 94
+  size: 354, 144
+  orig: 354, 144
+  offset: 0, 0
+  index: -1
+fangshe
+  rotate: false
+  xy: 358, 40
+  size: 222, 198
+  orig: 222, 198
+  offset: 0, 0
+  index: -1
+lunkuo
+  rotate: false
+  xy: 2, 2
+  size: 113, 90
+  orig: 113, 90
+  offset: 0, 0
+  index: -1
+saoguangshang
+  rotate: false
+  xy: 582, 157
+  size: 85, 32
+  orig: 85, 32
+  offset: 0, 0
+  index: -1
+saoguangxia
+  rotate: false
+  xy: 582, 191
+  size: 144, 47
+  orig: 144, 47
+  offset: 0, 0
+  index: -1
+xingxing1
+  rotate: false
+  xy: 117, 27
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+xingxing2
+  rotate: false
+  xy: 728, 206
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

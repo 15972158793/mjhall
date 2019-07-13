@@ -1,0 +1,12 @@
+
+kaishi1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenzi 
+  rotate: false
+  xy: 2, 2
+  size: 318, 105
+  orig: 318, 105
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,61 @@
+
+renjidan2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+danhuang
+  rotate: false
+  xy: 255, 88
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+danke1
+  rotate: false
+  xy: 255, 69
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+danke2
+  rotate: false
+  xy: 327, 216
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+danke3
+  rotate: false
+  xy: 2, 2
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+danke4
+  rotate: false
+  xy: 57, 22
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+danke5
+  rotate: false
+  xy: 327, 230
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+danqing
+  rotate: false
+  xy: 2, 59
+  size: 251, 194
+  orig: 251, 194
+  offset: 0, 0
+  index: -1
+jidan
+  rotate: false
+  xy: 255, 160
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
